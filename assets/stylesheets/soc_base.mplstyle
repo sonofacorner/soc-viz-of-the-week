@@ -1,0 +1,29 @@
+# SOC Matplotlib style
+
+#### FONTS
+
+font.family: Karla
+xtick.labelsize: 10
+ytick.labelsize: 10
+
+#### FIGURE SIZE
+
+figure.figsize: 7.5, 3.25
+
+### COLORS
+
+figure.facecolor: efe9e6
+axes.facecolor: efe9e6
+axes.prop_cycle: cycler(color=["287271","495371"])
+axes.spines.top: False
+axes.spines.right: False
+
+### OTHERS
+
+ytick.color: 000000
+xtick.color: 000000
+axes.edgecolor: 000000
+
+legend.fontsize: 10
+legend.frameon: False
+

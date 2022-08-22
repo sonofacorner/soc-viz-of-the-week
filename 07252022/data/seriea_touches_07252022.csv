@@ -1,0 +1,319 @@
+,playerId,playerName,teamId,minutes,touches,teamName
+0,1002039,Aaron Hickey,9857,2834,1729.0,Bologna
+1,1003368,Junior Messias,8564,1429,878.0,Milan
+2,1020963,Nicolo Rovella,10233,1466,1210.0,Genoa
+3,1021834,Jakub Kiwior,9881,1963,974.0,Spezia
+4,1027472,Wilfried Singo,9804,2626,1893.0,Torino
+5,1036182,Ivan Ilic,9876,2535,1764.0,Hellas Verona
+6,1039220,Kevin Agudelo,9881,1235,675.0,Spezia
+7,1047570,Matteo Lovato,8529,1242,762.0,Cagliari
+8,1052898,Iyenoma Udogie,8600,2485,1347.0,Udinese
+9,1055141,Manolo Portanova,10233,1330,661.0,Genoa
+10,1078846,Andrea Cambiaso,10233,1791,1210.0,Genoa
+11,1079485, Beto,8600,2175,840.0,Udinese
+12,1080669,Nadir Zortea,6480,1404,718.0,Salernitana
+13,108381,Milan Djuric,6480,2173,939.0,Salernitana
+14,1085401,David Zima,9804,1310,774.0,Torino
+15,109060,Sergio Romero,7881,1440,705.0,Venezia
+16,1093285,Fabiano Parisi,8534,1474,1120.0,Empoli
+17,109338,Marco Davide Faraoni,9876,2580,1792.0,Hellas Verona
+18,110148,Marko Arnautovic,9857,2703,1305.0,Bologna
+19,1116749,Mattia Viti,8534,1488,905.0,Empoli
+20,111739,Simone Romagnoli,8534,1498,997.0,Empoli
+21,1123969,Andrea Carboni,8529,2216,1380.0,Cagliari
+22,1131217,Pierre Kalulu,8564,1938,1425.0,Milan
+23,115591,Ricardo Rodriguez,9804,2470,1696.0,Torino
+24,116555,Duvan Zapata,8524,1732,911.0,Atalanta
+25,11685,Antonio Candreva,9882,3130,2386.0,Sampdoria
+26,1173250,Arthur Theate,9857,2427,1795.0,Bologna
+27,119014,Darko Lazovic,9876,2780,1880.0,Hellas Verona
+28,1208969,Kristjan Asllani,8534,1346,938.0,Empoli
+29,127374,Rafael Toloi,8524,1441,1153.0,Atalanta
+30,127460,Giacomo Bonaventura,8535,2278,1518.0,Fiorentina
+31,141699,Milan Badelj,10233,2850,2036.0,Genoa
+32,150250,Pedro Rodriguez,8543,2042,1268.0,Lazio
+33,150330,José Maria Callejon,8535,1300,737.0,Fiorentina
+34,15403,Edin Dzeko,8636,2475,1223.0,Inter
+35,154246,Joel Chukwuma Obi,6480,1146,535.0,Salernitana
+36,154249,Mattia Destro,10233,1753,635.0,Genoa
+37,155066,Juan Cuadrado,9885,2494,2298.0,Juventus
+38,155249,Francesco Di Tacchio,6480,1256,726.0,Salernitana
+39,155254,Francesco Caputo,9882,2799,856.0,Sampdoria
+40,15732,Ivan Radovanovic,6480,1055,625.0,Salernitana
+41,157865,Alex Sandro,9885,1773,1361.0,Juventus
+42,161328,Stephan El Shaarawy,8686,1046,774.0,Roma
+43,161660,Ciro Immobile,8543,2716,1300.0,Lazio
+44,163255,Luigi Sepe,6480,1394,647.0,Salernitana
+45,163670,Ivan Perisic,8636,2842,1881.0,Inter
+46,165823,Chris Smalling,8686,2087,1300.0,Roma
+47,165952,Marco Silvestri,8600,3150,1084.0,Udinese
+48,169718,Wojciech Szczesny,9885,2970,1145.0,Juventus
+49,172899,Manolo Gabbiadini,9882,1147,504.0,Sampdoria
+50,177837,Vlad Chiriches,7943,2301,1603.0,Sassuolo
+51,178732,Lukasz Skorupski,9857,3240,1466.0,Bologna
+52,178758,Bram Nuytinck,8600,2034,1200.0,Udinese
+53,178781,Tolgay Arslan,8600,1673,941.0,Udinese
+54,181911,Vid Belec,6480,1936,700.0,Salernitana
+55,181995,Roberto Soriano,9857,2637,1660.0,Bologna
+56,185625,José Luis Palomino,8524,2672,2089.0,Atalanta
+57,188555,Stefan de Vrij,8636,2412,1778.0,Inter
+58,189306,Antonio Junior Vacca,7881,1070,859.0,Venezia
+59,190562,Luca Ceppitelli,8529,1445,980.0,Cagliari
+60,193441,Lorenzo Insigne,9875,2309,1902.0,Napoli
+61,196484,Luis Muriel,8524,1540,1148.0,Atalanta
+62,197352,Juan Jesus,9875,1273,957.0,Napoli
+63,198099,Bartosz Bereszynski,9882,2956,2053.0,Sampdoria
+64,198559,Marten de Roon,8524,2547,2003.0,Atalanta
+65,198566,Luis Alberto,8543,2361,2270.0,Lazio
+66,201704,Remo Freuler,8524,2378,2124.0,Atalanta
+67,203739,Joao Pedro,8529,3325,1249.0,Cagliari
+68,206508,Marcelo Brozovic,8636,2951,3013.0,Inter
+69,208077, Danilo,9885,1895,1696.0,Juventus
+70,210278,Roberto Pereyra,8600,1799,1138.0,Udinese
+71,210428,Kalidou Koulibaly,9875,2406,1966.0,Napoli
+72,212645,Riccardo Saponara,8535,1286,776.0,Fiorentina
+73,213501,Álvaro Morata,9885,2312,1094.0,Juventus
+74,230190,Felipe Anderson,8543,2899,2017.0,Lazio
+75,231176,Leonardo Pavoletti,8529,1506,719.0,Cagliari
+76,239350,Cristiano Biraghi,8535,3166,2907.0,Fiorentina
+77,24235,Leonardo Bonucci,9885,2004,1543.0,Juventus
+78,244811,Davide Zappacosta,8524,2357,1837.0,Atalanta
+79,244816,Federico Ceccherini,9876,2368,1535.0,Hellas Verona
+80,244966,Stefano Sturaro,10233,1775,896.0,Genoa
+81,251925,Gerard Deulofeu,8600,2626,1574.0,Udinese
+82,252650,Gianluca Caprari,9876,2753,1862.0,Hellas Verona
+83,253088,Nikola Maksimovic,10233,1116,652.0,Genoa
+84,25587,Lorenzo De Silvestri,9857,2298,1650.0,Bologna
+85,260964,Berat Djimsiti,8524,2254,1689.0,Atalanta
+86,261313,Jordan Veretout,8686,2321,1674.0,Roma
+87,264842,Alessandro Florenzi,8564,1151,957.0,Milan
+88,265924,Gregoire Defrel,7943,1345,624.0,Sassuolo
+89,27659,Salvatore Sirigu,10233,3330,1364.0,Genoa
+90,281762,Pietro Terracciano,8535,2860,1674.0,Fiorentina
+91,282012,Dennis Praet,9804,1543,770.0,Torino
+92,282706,Alessio Cragno,8529,3150,1397.0,Cagliari
+93,282731,Mario Rui,9875,3000,2855.0,Napoli
+94,288613,Mattia De Sciglio,9885,1165,820.0,Juventus
+95,291655,Norbert Gyömbér,6480,2566,1402.0,Salernitana
+96,293160,Elseid Hysaj,8543,2031,1657.0,Lazio
+97,299799,Bryan Cristante,8686,2673,2187.0,Roma
+98,299886,Kevin Lasagna,9876,1171,491.0,Hellas Verona
+99,299981,Pablo Mari,8600,1342,797.0,Udinese
+100,303155,Koffi Djidji,9804,1735,1100.0,Torino
+101,304733,Hakan Calhanoglu,8636,2509,2160.0,Inter
+102,30660,Pepe Reina,8543,1350,581.0,Lazio
+103,307235,Marko Pjaca,9804,1145,617.0,Torino
+104,308517,Stanislav Lobotka,9875,1686,1607.0,Napoli
+105,30924,Franck Ribéry,6480,1426,980.0,Salernitana
+106,309328,Milan Skriniar,8636,3150,2473.0,Inter
+107,309726,Andrea Belotti,9804,1377,637.0,Torino
+108,311016,Petar Stojanovic,8534,2739,2234.0,Empoli
+109,317156,Alfred Duncan,8535,1931,1157.0,Fiorentina
+110,319631,Joaquin Correa,8636,1024,539.0,Inter
+111,325916,Paulo Dybala,9885,2072,1590.0,Juventus
+112,331534,Koray Günter,9876,2413,1611.0,Hellas Verona
+113,340790,Domen Crnigoj,7881,1886,996.0,Venezia
+114,352879,Adrien Rabiot,9885,2292,1445.0,Juventus
+115,35724,Zlatan Ibrahimovic,8564,1008,564.0,Milan
+116,357881,Adama Soumaoro,9857,2267,1294.0,Bologna
+117,358149, Patric,8543,1652,1591.0,Lazio
+118,362120,Danilo Cataldi,8543,1710,1593.0,Lazio
+119,362195,Alessio Romagnoli,8564,1407,1169.0,Milan
+120,362212,Piotr Zielinski,9875,2098,1403.0,Napoli
+121,364520,Domenico Berardi,7943,2835,1974.0,Sassuolo
+122,364822,Ivan Provedel,9881,2762,1394.0,Spezia
+123,389050,Juan Musso,8524,2932,1098.0,Atalanta
+124,39170,Andrea Consigli,7943,3322,1648.0,Sassuolo
+125,39540,Fabio Quagliarella,9882,1658,724.0,Sampdoria
+126,395914,Charalambos Lykogiannis,8529,1821,1042.0,Cagliari
+127,403049,Thomas Strakosha,8543,2070,825.0,Lazio
+128,40604,Rui Patricio,8686,3420,1226.0,Roma
+129,40608,Miguel Veloso,9876,1344,1070.0,Hellas Verona
+130,406505,Pawel Dawidowicz,9876,1194,779.0,Hellas Verona
+131,40930,Adrien Silva,9882,1086,789.0,Sampdoria
+132,414232,Ridgeciano Haps,7881,2061,1178.0,Venezia
+133,414245,Federico Bernardeschi,9885,1480,851.0,Juventus
+134,414854,Riccardo Gagliolo,6480,1135,681.0,Salernitana
+135,414906,Giovanni Di Lorenzo,9875,2873,2688.0,Napoli
+136,415017,Mattia Bani,10233,1211,670.0,Genoa
+137,415539,Matteo Politano,9875,1657,1046.0,Napoli
+138,41882,Domenico Criscito,10233,1622,1275.0,Genoa
+139,41884,Giorgio Chiellini,9885,1352,1141.0,Juventus
+140,42422,Samir Handanovic,8636,3330,1405.0,Inter
+141,424614,Caleb Ekuban,10233,1717,775.0,Genoa
+142,426393,Adrien Tamèze,9876,2576,1757.0,Hellas Verona
+143,438456,Rade Krunic,8564,1411,767.0,Milan
+144,438507,Federico Di Francesco,8534,1376,621.0,Empoli
+145,439148,Morten Thorsby,9882,2952,1422.0,Sampdoria
+146,440369,Omar Colley,9882,2748,1847.0,Sampdoria
+147,441164,Kaan Ayhan,7943,1344,1012.0,Sassuolo
+148,443966,Jeremy Toljan,7943,1399,1000.0,Sassuolo
+149,446266,Mario Pasalic,8524,2005,1312.0,Atalanta
+150,447488,Alex Ferrari,9882,1650,1078.0,Sampdoria
+151,449283,Alessandro Deiola,8529,2143,1079.0,Cagliari
+152,451966,Antonin Barak,9876,2347,1478.0,Hellas Verona
+153,453324, Samir,8600,1426,911.0,Udinese
+154,45836,Niki Mäenpää,7881,1485,613.0,Venezia
+155,459658,Ruslan Malinovsky,8524,1599,1296.0,Atalanta
+156,46104,Dries Mertens,9875,1386,731.0,Napoli
+157,463301,Sergej Milinkovic-Savic,8543,3111,3006.0,Lazio
+158,46469,Olivier Giroud,8564,1902,741.0,Milan
+159,466439,Mike Maignan,8564,2880,1299.0,Milan
+160,46820,Matteo Darmian,8636,1507,838.0,Inter
+161,469615,Giovanni Simeone,9876,2667,1263.0,Hellas Verona
+162,469939,Liam Henderson,8534,2019,1066.0,Empoli
+163,470847,Ignacio Pussetto,8600,1199,574.0,Udinese
+164,474448,Antonio Sanabria,9804,1814,788.0,Torino
+165,478447,Adam Marusic,8543,2720,2186.0,Lazio
+166,480014,Pietro Ceccaroni,7881,3122,2118.0,Venezia
+167,485047,Hans Hateboer,8524,1389,998.0,Atalanta
+168,488958,Keita Baldé,8529,1233,458.0,Cagliari
+169,491784,Lorenzo Montipo,9876,3060,1133.0,Hellas Verona
+170,498247,Mattia Aramu,7881,2111,1166.0,Venezia
+171,49970,Gary Medel,9857,2830,2011.0,Bologna
+172,50065,David Ospina,9875,2790,1117.0,Napoli
+173,501570,Mattia Caldara,7881,2703,1577.0,Venezia
+174,506309,Gian Marco Ferrari,7943,3127,2625.0,Sassuolo
+175,518633,Giorgos Kyriakopoulos,7943,1971,1614.0,Sassuolo
+176,519192,Lorenzo Venuti,8535,1577,1214.0,Fiorentina
+177,521210,Hirving Lozano,9875,1621,912.0,Napoli
+178,521838,Simone Bastoni,9881,2289,1680.0,Spezia
+179,521902,Kevin Bonifazi,9857,1209,880.0,Bologna
+180,522083,Pablo Galdames,10233,1030,605.0,Genoa
+181,52243,Tomas Rincon,9882,1126,694.0,Sampdoria
+182,522750, Dalbert,8529,2093,1172.0,Cagliari
+183,526450,Emmanuel Quartsin Gyasi,9881,3044,1411.0,Spezia
+184,538501,Guglielmo Vicario,8534,3420,1566.0,Empoli
+185,538540, Walace,8600,2970,2170.0,Udinese
+186,540307,Lorenzo Pellegrini,8686,2298,1600.0,Roma
+187,541555,Mattia Zaccagni,8543,1879,1118.0,Lazio
+188,541820,Nicolo Barella,8636,2931,2343.0,Inter
+189,543021,Vanja Milinkovic-Savic,9804,2430,1121.0,Torino
+190,543306,Federico Bonazzoli,6480,1866,875.0,Salernitana
+191,544693,Amir Rrahmani,9875,2928,2280.0,Napoli
+192,556972,Sasa Lukic,9804,2986,2132.0,Torino
+193,560852,Rick Karsdorp,8686,2889,2067.0,Roma
+194,560945,Mergim Vojvoda,9804,1976,1427.0,Torino
+195,561844,Tyronne Ebuehi,7881,1141,685.0,Venezia
+196,566118,Arkadiusz Reca,9881,1777,1148.0,Spezia
+197,566654,Matteo Pessina,8524,1443,1149.0,Atalanta
+198,566753,Rey Manaj,9881,1768,858.0,Spezia
+199,570830,Nicolas Haas,8534,1006,620.0,Empoli
+200,574844,Razvan Marin,8529,2815,1655.0,Cagliari
+201,574847,Gaetano Castrovilli,8535,1399,784.0,Fiorentina
+202,575364,Alberto Grassi,8529,2184,1425.0,Cagliari
+203,577911,Rolando Mandragora,9804,1318,936.0,Torino
+204,579747,Franck Kessié,8564,2312,1697.0,Milan
+205,585237,Daniele Verde,9881,1957,1041.0,Spezia
+206,588687,Gianluca Mancini,8686,2882,2105.0,Roma
+207,592909,Lucas Torreira,8535,2201,1628.0,Fiorentina
+208,593118,Denzel Dumfries,8636,2028,1164.0,Inter
+209,593213,Viktor Kovalenko,9881,1321,768.0,Spezia
+210,600190,Thomas Henry,7881,2122,835.0,Venezia
+211,602845,Emil Audero,9882,2561,1155.0,Sampdoria
+212,604330,Sebastiano Luperto,8534,1958,1273.0,Empoli
+213,605224,Federico Dimarco,8636,1420,1404.0,Inter
+214,605654, Fabián,9875,2396,2515.0,Napoli
+215,609624,Ismael Bennacer,8564,1521,1410.0,Milan
+216,612755,Davide Calabria,8564,2124,1587.0,Milan
+217,612863,Andre-Frank Zambo Anguissa,9875,1924,1590.0,Napoli
+218,613334,M'Bala Nzola,9881,1060,438.0,Spezia
+219,614207,Maxime Lopez,7943,2940,3008.0,Sassuolo
+220,616170,Martin Erlic,9881,2578,1422.0,Spezia
+221,620618,Rodrigo Bentancur,9885,1154,929.0,Juventus
+222,624166,Manuel Locatelli,9885,2161,1751.0,Juventus
+223,625797,Grigoris Kastanos,6480,1342,851.0,Salernitana
+224,636570,Álvaro Odriozola,8535,1728,1236.0,Fiorentina
+225,638771,Lucas Martinez Quarta,8535,1430,1330.0,Fiorentina
+226,639671,Patrick Cutrone,8534,1402,436.0,Empoli
+227,643573,Nahitan Nández,8529,1520,924.0,Cagliari
+228,647900,Mattias Svanberg,9857,2574,1448.0,Bologna
+229,661761,Riccardo Orsolini,9857,1793,1068.0,Bologna
+230,662205,Manuel Lazzari,8543,1655,1263.0,Lazio
+231,664587,Lassana Coulibaly,6480,2338,1246.0,Salernitana
+232,670928,Giuseppe Pezzella,8524,1067,839.0,Atalanta
+233,672840,Luiz Felipe,8543,2492,2125.0,Lazio
+234,674829,Filippo Bandinelli,8534,1963,1043.0,Empoli
+235,675327,Pasquale Mazzocchi,6480,1277,774.0,Salernitana
+236,675327,Pasquale Mazzocchi,7881,1244,807.0,Venezia
+237,678384,Silvan Hefti,10233,1290,779.0,Genoa
+238,682548,Ola Aina,9804,1441,1016.0,Torino
+239,683473,Kelvin Amian,9881,2650,1526.0,Spezia
+240,687681,Victor Osimhen,9875,1989,714.0,Napoli
+241,688668,Josip Brekalo,9804,2296,1487.0,Torino
+242,690230,Lautaro Martinez,8636,2301,937.0,Inter
+243,693160,Tommaso Augello,9882,2374,1652.0,Sampdoria
+244,699461,Jean-Victor Makengo,8600,2359,1168.0,Udinese
+245,71768,Albin Ekdal,9882,1640,1012.0,Sampdoria
+246,719946,Riccardo Marchizza,8534,1351,823.0,Empoli
+247,721089,Gianluca Scamacca,7943,2154,906.0,Sassuolo
+248,723574,Dimitrios Nikolaou,9881,3240,2080.0,Spezia
+249,724371,Theo Hernández,8564,2712,2223.0,Milan
+250,726345,Nahuel Molina,8600,2649,1565.0,Udinese
+251,72665,Maya Yoshida,9882,1777,1120.0,Sampdoria
+252,726959,Petko Hristov,9881,1244,785.0,Spezia
+253,73024,Francesco Acerbi,8543,2530,2329.0,Lazio
+254,73167,Henrikh Mkhitaryan,8686,2500,1612.0,Roma
+255,737857,Dusan Vlahovic,8535,1861,747.0,Fiorentina
+256,737857,Dusan Vlahovic,9885,1077,445.0,Juventus
+257,740161,David Okereke,7881,2062,787.0,Venezia
+258,740944,Leo Østigard,10233,1172,693.0,Genoa
+259,741049,Eljif Elmas,9875,1598,1062.0,Napoli
+260,747926,Moise Kean,9885,1089,431.0,Juventus
+261,749661,Tammy Abraham,8686,3097,1197.0,Roma
+262,749662,Fikayo Tomori,8564,2719,2086.0,Milan
+263,750027,Brahim Diaz,8564,1871,1073.0,Milan
+264,750030,Andrea Pinamonti,8534,2870,1060.0,Empoli
+265,750880,Ardian Ismajili,8534,1263,917.0,Empoli
+266,759097,Joakim Mæhle,8524,1466,1167.0,Atalanta
+267,766611,Nikola Milenkovic,8535,2929,2415.0,Fiorentina
+268,768331, Igor,8535,2239,1938.0,Fiorentina
+269,769895,Matthijs de Ligt,9885,2675,1999.0,Juventus
+270,772104,Jerdy Schouten,9857,1393,1021.0,Bologna
+271,776571,Giulio Maggiore,9881,2835,1595.0,Spezia
+272,780432,Ethan Ampadu,7881,2289,1545.0,Venezia
+273,789243,Youssef Maleh,8535,1014,577.0,Fiorentina
+274,790732,Tommaso Pobega,9804,2239,1569.0,Torino
+275,805451,Alessandro Bastoni,8636,2328,2101.0,Inter
+276,807148,Luca Pellegrini,9885,1115,841.0,Juventus
+277,814139,Sofian Kiyine,7881,1237,810.0,Venezia
+278,814398,Nicolo Casale,9876,2594,1557.0,Hellas Verona
+279,815431,Davide Frattesi,7943,2885,1772.0,Sassuolo
+280,818893,Nicolo Zaniolo,8686,1984,1055.0,Roma
+281,822236,Dennis Tørset Johnsen,7881,1464,570.0,Venezia
+282,822794,Nedim Bajrami,8534,2062,1211.0,Empoli
+283,823018,Alessandro Buongiorno,9804,1183,724.0,Torino
+284,823078,Merih Demiral,8524,1913,1099.0,Atalanta
+285,827315,Nicolás Dominguez,9857,2024,1581.0,Bologna
+286,840184,Matias Vina,8686,1564,1108.0,Roma
+287,841672,Nicolas González,8535,2358,1507.0,Fiorentina
+288,844504,Rodrigo Becao,8600,3132,1843.0,Udinese
+289,846948,Szymon Zurkowski,8534,2319,1423.0,Empoli
+290,848266,Weston McKennie,9885,1371,782.0,Juventus
+291,848650,Giorgio Altare,8529,1468,1041.0,Cagliari
+292,848844,Rafael Leao,8564,2618,1353.0,Milan
+293,857269,Gleison Bremer,9804,2894,1973.0,Torino
+294,862538,Roger Ibanez,8686,2888,2363.0,Roma
+295,866516,Teun Koopmeiners,8524,2129,1800.0,Atalanta
+296,867414,Sandro Tonali,8564,2606,1874.0,Milan
+297,872362,Marash Kumbulla,8686,1028,754.0,Roma
+298,875672,Hamed Traorè,7943,1777,1234.0,Sassuolo
+299,882578, Rogério,7943,1733,1378.0,Sassuolo
+300,900043,Matheus Henrique,7943,1064,753.0,Sassuolo
+301,902383,Nehuén Pérez,8600,1695,999.0,Udinese
+302,902651,Raoul Bellanova,8529,2498,1328.0,Cagliari
+303,904098,Mert Müldür,7943,2045,1485.0,Sassuolo
+304,910699,Musa Barrow,9857,2146,1299.0,Bologna
+305,914103,Johan Vásquez,10233,2280,1555.0,Genoa
+306,921341,Alexis Saelemaekers,8564,1866,1253.0,Milan
+307,924431,Gianluca Busio,7881,1955,1196.0,Venezia
+308,933817,Riccardo Sottil,8535,1243,593.0,Fiorentina
+309,935406,Luca Ranieri,6480,2114,1269.0,Salernitana
+310,941656,Samuele Ricci,8534,1533,1150.0,Empoli
+311,949731,Gabriele Zappa,8529,1138,783.0,Cagliari
+312,951743,Giacomo Raspadori,7943,2752,1482.0,Sassuolo
+313,951921,Michael Svoboda,7881,1234,802.0,Venezia
+314,95327,Lucas Leiva,8543,1697,1452.0,Lazio
+315,95509,Federico Fazio,6480,1435,854.0,Salernitana
+316,957203, Éderson,6480,1152,613.0,Salernitana
+317,968019,Salvador Ferrer,9881,1488,965.0,Spezia

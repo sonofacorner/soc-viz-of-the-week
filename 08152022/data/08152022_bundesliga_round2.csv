@@ -1,0 +1,10 @@
+,away_team_name,away_team_id,away_team_score,away_team_xG,away_team_xGOT,away_team_shots,away_team_shotsOT,home_team_name,home_team_id,home_team_score,home_team_xG,home_team_xGOT,home_team_shots,home_team_shotsOT,date
+0,Union Berlin,8149,0,0.41,0.47,10,2,Mainz 05,9905,0,0.59,0.49,11,5,2022-08-14 08:30:00
+1,Bochum,9911,2,1.52,2.55,11,5,TSG Hoffenheim,8226,3,2.63,3.53,23,12,2022-08-13 08:30:00
+2,Augsburg,8406,2,0.44,1.39,6,4,Bayer Leverkusen,8178,1,2.57,2.37,24,10,2022-08-13 08:30:00
+3,VfB Stuttgart,10269,2,1.44,2.35,14,7,Werder Bremen,8697,2,0.52,1.14,5,3,2022-08-13 08:30:00
+4,Eintracht Frankfurt,9810,1,1.57,0.58,11,1,Hertha BSC,8177,1,1.7,1.00,12,5,2022-08-13 08:30:00
+5,1. FC Köln,8722,2,1.52,2.04,13,4,RB Leipzig,178475,2,0.96,1.80,9,5,2022-08-13 08:30:00
+6,Borussia M'Gladbach,9788,2,1.3,1.60,14,8,Schalke 04,10189,2,1.35,1.79,12,4,2022-08-13 11:30:00
+7,Wolfsburg,8721,0,0.41,0.65,8,2,Bayern München,9823,2,2.1,1.72,24,8,2022-08-14 10:30:00
+8,Borussia Dortmund,9789,3,1.12,1.20,13,6,Freiburg,8358,1,1.02,1.43,16,7,2022-08-12 13:30:00
