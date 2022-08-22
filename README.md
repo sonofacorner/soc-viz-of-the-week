@@ -10,7 +10,7 @@
 
 This repository contains the code behind the visuals of the [Viz of the Week newsletter](https://www.sonofacorner.com/tag/viz-of-the-week/).
 
-Hope it helps!
+Hope it helps you in creating cool visualizations with matplotlib.
 
 ## Usage
 
