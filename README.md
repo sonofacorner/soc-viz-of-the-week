@@ -3,6 +3,7 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [Brighton's Touchmap vs. Leicester (09052022)](#brightons-touchmap-vs-leicester-09052022)
     - [Shooting Areas in the Jupiler Pro League (08292022)](#shooting-areas-in-the-jupiler-pro-league-08292022)
     - [League One - xG Differential (08222022)](#league-one---xg-differential-08222022)
     - [Bundesliga Summary Table (08152022)](#bundesliga-summary-table-08152022)
@@ -26,6 +27,10 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### Brighton's Touchmap vs. Leicester ([09052022](09052022/))
+
+<img src ="09052022\figures\09052022_brighton_touches.png" width="60%">
 
 ### Shooting Areas in the Jupiler Pro League ([08292022](08292022/))
 
