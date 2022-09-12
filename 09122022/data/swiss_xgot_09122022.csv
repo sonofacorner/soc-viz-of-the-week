@@ -1,0 +1,157 @@
+,match_id,date,referee,variable,value,venue,team_id,team_name,team_lineup
+1,3905399,2022-07-17 09:30:00,Lukas Fähndrich,xG_for,0.75,H,9777,Servette,4 - 3 - 3
+2,3905399,2022-07-17 09:30:00,Lukas Fähndrich,xGOT_for,0.58,H,9777,Servette,4 - 3 - 3
+27,3905400,2022-07-17 09:30:00,Fedayi San,xG_for,2.12,H,7896,Lugano,4 - 3 - 3
+28,3905400,2022-07-17 09:30:00,Fedayi San,xGOT_for,2.59,H,7896,Lugano,4 - 3 - 3
+53,3905394,2022-07-24 09:30:00,,xG_for,0.98,H,9956,Grasshopper,3 - 1 - 4 - 2
+54,3905394,2022-07-24 09:30:00,,xGOT_for,2.25,H,9956,Grasshopper,3 - 1 - 4 - 2
+79,3905393,2022-07-16 11:00:00,Sandro Schärer,xG_for,1.68,H,10192,Young Boys,4 - 1 - 2 - 1 - 2
+80,3905393,2022-07-16 11:00:00,Sandro Schärer,xGOT_for,3.65,H,10192,Young Boys,4 - 1 - 2 - 1 - 2
+105,3905401,2022-07-16 13:30:00,,xG_for,1.13,H,7894,Winterthur,4 - 2 - 3 - 1
+106,3905401,2022-07-16 13:30:00,,xGOT_for,2.57,H,7894,Winterthur,4 - 2 - 3 - 1
+131,3905396,2022-07-23 13:30:00,,xG_for,1.72,H,10190,St. Gallen,4 - 3 - 3
+132,3905396,2022-07-23 13:30:00,,xGOT_for,1.07,H,10190,St. Gallen,4 - 3 - 3
+157,3905397,2022-07-23 11:00:00,Luca Piccolo,xG_for,0.96,H,10243,FC Zürich,4 - 4 - 2
+158,3905397,2022-07-23 11:00:00,Luca Piccolo,xGOT_for,0.28,H,10243,FC Zürich,4 - 4 - 2
+183,3905395,2022-07-24 07:15:00,Alessandro Dudic,xG_for,1.37,H,9931,Basel,4 - 2 - 3 - 1
+184,3905395,2022-07-24 07:15:00,Alessandro Dudic,xGOT_for,1.61,H,9931,Basel,4 - 2 - 3 - 1
+209,3905402,2022-07-24 09:30:00,,xG_for,1.15,H,10179,Sion,4 - 1 - 2 - 1 - 2
+210,3905402,2022-07-24 09:30:00,,xGOT_for,0.98,H,10179,Sion,4 - 1 - 2 - 1 - 2
+235,3905434,2022-08-06 11:00:00,Stefan Horisberger,xG_for,1.38,H,9777,Servette,4 - 1 - 4 - 1
+236,3905434,2022-08-06 11:00:00,Stefan Horisberger,xGOT_for,1.67,H,9777,Servette,4 - 1 - 4 - 1
+261,3905403,2022-07-30 11:00:00,,xG_for,1.93,H,10190,St. Gallen,4 - 1 - 2 - 1 - 2
+262,3905403,2022-07-30 11:00:00,,xGOT_for,2.67,H,10190,St. Gallen,4 - 1 - 2 - 1 - 2
+287,3905436,2022-07-31 09:30:00,,xG_for,3.16,H,10192,Young Boys,4 - 4 - 2
+288,3905436,2022-07-31 09:30:00,,xGOT_for,1.92,H,10192,Young Boys,4 - 4 - 2
+313,3905433,2022-08-06 13:30:00,,xG_for,1.52,H,9956,Grasshopper,3 - 1 - 4 - 2
+314,3905433,2022-08-06 13:30:00,,xGOT_for,2.10,H,9956,Grasshopper,3 - 1 - 4 - 2
+339,3905450,2022-07-30 13:30:00,,xG_for,1.15,H,10179,Sion,4 - 3 - 3
+340,3905450,2022-07-30 13:30:00,,xGOT_for,0.79,H,10179,Sion,4 - 3 - 3
+365,3905432,2022-08-07 07:15:00,Urs Schnyder,xG_for,1.16,H,10243,FC Zürich,3 - 1 - 4 - 2
+366,3905432,2022-08-07 07:15:00,Urs Schnyder,xGOT_for,0.38,H,10243,FC Zürich,3 - 1 - 4 - 2
+391,3905430,2022-08-07 09:30:00,,xG_for,1.3,H,7896,Lugano,3 - 5 - 1 - 1
+392,3905430,2022-08-07 09:30:00,,xGOT_for,1.66,H,7896,Lugano,3 - 5 - 1 - 1
+417,3905398,2022-08-10 12:00:00,Alessandro Dudic,xG_for,1.24,H,10199,Luzern,4 - 1 - 2 - 1 - 2
+418,3905398,2022-08-10 12:00:00,Alessandro Dudic,xGOT_for,1.82,H,10199,Luzern,4 - 1 - 2 - 1 - 2
+443,3905438,2022-08-14 07:15:00,Sandro Schärer,xG_for,0.79,H,7894,Winterthur,3 - 5 - 1 - 1
+444,3905438,2022-08-14 07:15:00,Sandro Schärer,xGOT_for,1.67,H,7894,Winterthur,3 - 5 - 1 - 1
+469,3905449,2022-08-14 09:30:00,Fedayi San,xG_for,1.15,H,10192,Young Boys,4 - 3 - 1 - 2
+470,3905449,2022-08-14 09:30:00,Fedayi San,xGOT_for,1.72,H,10192,Young Boys,4 - 3 - 1 - 2
+495,3905429,2022-08-13 11:00:00,Stefan Horisberger,xG_for,1.16,H,10179,Sion,4 - 3 - 3
+496,3905429,2022-08-13 11:00:00,Stefan Horisberger,xGOT_for,1.31,H,10179,Sion,4 - 3 - 3
+521,3905448,2022-08-27 11:00:00,Alain Bieri,xG_for,3.09,H,10199,Luzern,4 - 1 - 2 - 1 - 2
+522,3905448,2022-08-27 11:00:00,Alain Bieri,xGOT_for,3.09,H,10199,Luzern,4 - 1 - 2 - 1 - 2
+547,3905437,2022-07-31 09:30:00,,xG_for,1.11,H,7894,Winterthur,4 - 3 - 3
+548,3905437,2022-07-31 09:30:00,,xGOT_for,1.62,H,7894,Winterthur,4 - 3 - 3
+573,3905431,2022-08-07 09:30:00,,xG_for,1.26,H,9931,Basel,4 - 2 - 3 - 1
+574,3905431,2022-08-07 09:30:00,,xGOT_for,1.44,H,9931,Basel,4 - 2 - 3 - 1
+599,3905439,2022-08-13 13:30:00,Urs Schnyder,xG_for,1.82,H,10190,St. Gallen,4 - 3 - 3
+600,3905439,2022-08-13 13:30:00,Urs Schnyder,xGOT_for,1.61,H,10190,St. Gallen,4 - 3 - 3
+625,3905444,2022-08-28 09:30:00,Fedayi San,xG_for,2.27,H,10243,FC Zürich,3 - 1 - 4 - 2
+626,3905444,2022-08-28 09:30:00,Fedayi San,xGOT_for,1.76,H,10243,FC Zürich,3 - 1 - 4 - 2
+651,3905447,2022-08-27 13:30:00,Sven Wolfensberger,xG_for,2.96,H,9777,Servette,4 - 3 - 3
+652,3905447,2022-08-27 13:30:00,Sven Wolfensberger,xGOT_for,2.63,H,9777,Servette,4 - 3 - 3
+677,3905446,2022-08-28 07:15:00,Stefan Horisberger,xG_for,1.91,H,7896,Lugano,4 - 3 - 3
+678,3905446,2022-08-28 07:15:00,Stefan Horisberger,xGOT_for,2.96,H,7896,Lugano,4 - 3 - 3
+703,3905440,2022-08-14 09:30:00,Alessandro Dudic,xG_for,1.59,H,9931,Basel,4 - 2 - 3 - 1
+704,3905440,2022-08-14 09:30:00,Alessandro Dudic,xGOT_for,1.11,H,9931,Basel,4 - 2 - 3 - 1
+729,3905443,2022-09-03 11:00:00,Lukas Fähndrich,xG_for,1.96,H,10179,Sion,4 - 3 - 3
+730,3905443,2022-09-03 11:00:00,Lukas Fähndrich,xGOT_for,1.86,H,10179,Sion,4 - 3 - 3
+755,3905442,2022-09-03 13:30:00,Alessandro Dudic,xG_for,1.4,H,10243,FC Zürich,3 - 1 - 4 - 2
+756,3905442,2022-09-03 13:30:00,Alessandro Dudic,xGOT_for,0.93,H,10243,FC Zürich,3 - 1 - 4 - 2
+781,3905445,2022-08-28 09:30:00,Anojen Kanagasingam,xG_for,0.98,H,7894,Winterthur,3 - 1 - 4 - 2
+782,3905445,2022-08-28 09:30:00,Anojen Kanagasingam,xGOT_for,1.03,H,7894,Winterthur,3 - 1 - 4 - 2
+807,3905428,2022-09-04 09:30:00,Nico Gianforte,xG_for,0.6,H,9956,Grasshopper,4 - 5 - 1
+808,3905428,2022-09-04 09:30:00,Nico Gianforte,xGOT_for,1.52,H,9956,Grasshopper,4 - 5 - 1
+833,3905413,2022-09-11 07:15:00,Fedayi San,xG_for,0.75,H,9777,Servette,4 - 3 - 3
+834,3905413,2022-09-11 07:15:00,Fedayi San,xGOT_for,1.80,H,9777,Servette,4 - 3 - 3
+859,3905410,2022-09-11 09:30:00,Sven Wolfensberger,xG_for,2.43,H,10192,Young Boys,4 - 3 - 1 - 2
+860,3905410,2022-09-11 09:30:00,Sven Wolfensberger,xGOT_for,3.00,H,10192,Young Boys,4 - 3 - 1 - 2
+885,3905427,2022-09-04 09:30:00,Fedayi San,xG_for,0.97,H,10190,St. Gallen,4 - 3 - 1 - 2
+886,3905427,2022-09-04 09:30:00,Fedayi San,xGOT_for,1.79,H,10190,St. Gallen,4 - 3 - 1 - 2
+911,3905426,2022-09-10 11:00:00,Luca Cibelli,xG_for,0.58,H,10190,St. Gallen,4 - 3 - 1 - 2
+912,3905426,2022-09-10 11:00:00,Luca Cibelli,xGOT_for,0.19,H,10190,St. Gallen,4 - 3 - 1 - 2
+937,3905412,2022-09-10 13:30:00,Johannes von Mandach,xG_for,0.52,H,7894,Winterthur,3 - 5 - 1 - 1
+938,3905412,2022-09-10 13:30:00,Johannes von Mandach,xGOT_for,0.13,H,7894,Winterthur,3 - 5 - 1 - 1
+963,3905441,2022-09-04 07:15:00,Urs Schnyder,xG_for,2.02,H,10199,Luzern,4 - 1 - 2 - 1 - 2
+964,3905441,2022-09-04 07:15:00,Urs Schnyder,xGOT_for,0.26,H,10199,Luzern,4 - 1 - 2 - 1 - 2
+989,3905411,2022-09-11 09:30:00,Alain Bieri,xG_for,3.77,H,9931,Basel,4 - 3 - 3
+990,3905411,2022-09-11 09:30:00,Alain Bieri,xGOT_for,4.14,H,9931,Basel,4 - 3 - 3
+1015,3905399,2022-07-17 09:30:00,Lukas Fähndrich,xG_for,1.07,A,10190,St. Gallen,4 - 1 - 2 - 1 - 2
+1016,3905399,2022-07-17 09:30:00,Lukas Fähndrich,xGOT_for,0.33,A,10190,St. Gallen,4 - 1 - 2 - 1 - 2
+1041,3905400,2022-07-17 09:30:00,Fedayi San,xG_for,1.94,A,10179,Sion,4 - 3 - 1 - 2
+1042,3905400,2022-07-17 09:30:00,Fedayi San,xGOT_for,2.38,A,10179,Sion,4 - 3 - 1 - 2
+1067,3905394,2022-07-24 09:30:00,,xG_for,1.46,A,7896,Lugano,3 - 4 - 2 - 1
+1068,3905394,2022-07-24 09:30:00,,xGOT_for,1.50,A,7896,Lugano,3 - 4 - 2 - 1
+1093,3905393,2022-07-16 11:00:00,Sandro Schärer,xG_for,1.83,A,10243,FC Zürich,3 - 4 - 1 - 2
+1094,3905393,2022-07-16 11:00:00,Sandro Schärer,xGOT_for,0.92,A,10243,FC Zürich,3 - 4 - 1 - 2
+1119,3905401,2022-07-16 13:30:00,,xG_for,1.07,A,9931,Basel,4 - 2 - 3 - 1
+1120,3905401,2022-07-16 13:30:00,,xGOT_for,0.96,A,9931,Basel,4 - 2 - 3 - 1
+1145,3905396,2022-07-23 13:30:00,,xG_for,0.78,A,7894,Winterthur,4 - 2 - 3 - 1
+1146,3905396,2022-07-23 13:30:00,,xGOT_for,0.02,A,7894,Winterthur,4 - 2 - 3 - 1
+1171,3905397,2022-07-23 11:00:00,Luca Piccolo,xG_for,1.45,A,10199,Luzern,4 - 4 - 2
+1172,3905397,2022-07-23 11:00:00,Luca Piccolo,xGOT_for,1.39,A,10199,Luzern,4 - 4 - 2
+1197,3905395,2022-07-24 07:15:00,Alessandro Dudic,xG_for,1.23,A,9777,Servette,4 - 1 - 4 - 1
+1198,3905395,2022-07-24 07:15:00,Alessandro Dudic,xGOT_for,0.78,A,9777,Servette,4 - 1 - 4 - 1
+1223,3905402,2022-07-24 09:30:00,,xG_for,1.55,A,10192,Young Boys,4 - 1 - 2 - 1 - 2
+1224,3905402,2022-07-24 09:30:00,,xGOT_for,1.89,A,10192,Young Boys,4 - 1 - 2 - 1 - 2
+1249,3905434,2022-08-06 11:00:00,Stefan Horisberger,xG_for,0.64,A,7894,Winterthur,3 - 5 - 1 - 1
+1250,3905434,2022-08-06 11:00:00,Stefan Horisberger,xGOT_for,0.00,A,7894,Winterthur,3 - 5 - 1 - 1
+1275,3905403,2022-07-30 11:00:00,,xG_for,1.82,A,10243,FC Zürich,4 - 2 - 3 - 1
+1276,3905403,2022-07-30 11:00:00,,xGOT_for,1.89,A,10243,FC Zürich,4 - 2 - 3 - 1
+1301,3905436,2022-07-31 09:30:00,,xG_for,0.55,A,9956,Grasshopper,3 - 1 - 4 - 2
+1302,3905436,2022-07-31 09:30:00,,xGOT_for,0.57,A,9956,Grasshopper,3 - 1 - 4 - 2
+1327,3905433,2022-08-06 13:30:00,,xG_for,2.72,A,10190,St. Gallen,4 - 3 - 1 - 2
+1328,3905433,2022-08-06 13:30:00,,xGOT_for,2.12,A,10190,St. Gallen,4 - 3 - 1 - 2
+1353,3905450,2022-07-30 13:30:00,,xG_for,1.02,A,9777,Servette,4 - 3 - 3
+1354,3905450,2022-07-30 13:30:00,,xGOT_for,0.05,A,9777,Servette,4 - 3 - 3
+1379,3905432,2022-08-07 07:15:00,Urs Schnyder,xG_for,1.11,A,10179,Sion,4 - 3 - 3
+1380,3905432,2022-08-07 07:15:00,Urs Schnyder,xGOT_for,2.04,A,10179,Sion,4 - 3 - 3
+1405,3905430,2022-08-07 09:30:00,,xG_for,1.29,A,10199,Luzern,4 - 3 - 1 - 2
+1406,3905430,2022-08-07 09:30:00,,xGOT_for,1.41,A,10199,Luzern,4 - 3 - 1 - 2
+1431,3905398,2022-08-10 12:00:00,Alessandro Dudic,xG_for,0.3,A,9956,Grasshopper,3 - 1 - 4 - 2
+1432,3905398,2022-08-10 12:00:00,Alessandro Dudic,xGOT_for,0.54,A,9956,Grasshopper,3 - 1 - 4 - 2
+1457,3905438,2022-08-14 07:15:00,Sandro Schärer,xG_for,1.37,A,10243,FC Zürich,3 - 1 - 4 - 2
+1458,3905438,2022-08-14 07:15:00,Sandro Schärer,xGOT_for,0.39,A,10243,FC Zürich,3 - 1 - 4 - 2
+1483,3905449,2022-08-14 09:30:00,Fedayi San,xG_for,0.58,A,9777,Servette,4 - 1 - 4 - 1
+1484,3905449,2022-08-14 09:30:00,Fedayi San,xGOT_for,0.06,A,9777,Servette,4 - 1 - 4 - 1
+1509,3905429,2022-08-13 11:00:00,Stefan Horisberger,xG_for,0.72,A,9956,Grasshopper,3 - 1 - 4 - 2
+1510,3905429,2022-08-13 11:00:00,Stefan Horisberger,xGOT_for,1.68,A,9956,Grasshopper,3 - 1 - 4 - 2
+1535,3905448,2022-08-27 11:00:00,Alain Bieri,xG_for,1.3,A,10179,Sion,4 - 3 - 2 - 1
+1536,3905448,2022-08-27 11:00:00,Alain Bieri,xGOT_for,0.85,A,10179,Sion,4 - 3 - 2 - 1
+1561,3905437,2022-07-31 09:30:00,,xG_for,2.25,A,7896,Lugano,4 - 2 - 3 - 1
+1562,3905437,2022-07-31 09:30:00,,xGOT_for,2.05,A,7896,Lugano,4 - 2 - 3 - 1
+1587,3905431,2022-08-07 09:30:00,,xG_for,2.02,A,10192,Young Boys,4 - 1 - 2 - 1 - 2
+1588,3905431,2022-08-07 09:30:00,,xGOT_for,1.94,A,10192,Young Boys,4 - 1 - 2 - 1 - 2
+1613,3905439,2022-08-13 13:30:00,Urs Schnyder,xG_for,0.01,A,10199,Luzern,4 - 3 - 3
+1614,3905439,2022-08-13 13:30:00,Urs Schnyder,xGOT_for,0.26,A,10199,Luzern,4 - 3 - 3
+1639,3905444,2022-08-28 09:30:00,Fedayi San,xG_for,1.75,A,9931,Basel,4 - 1 - 4 - 1
+1640,3905444,2022-08-28 09:30:00,Fedayi San,xGOT_for,3.07,A,9931,Basel,4 - 1 - 4 - 1
+1665,3905447,2022-08-27 13:30:00,Sven Wolfensberger,xG_for,0.71,A,9956,Grasshopper,3 - 4 - 1 - 2
+1666,3905447,2022-08-27 13:30:00,Sven Wolfensberger,xGOT_for,0.08,A,9956,Grasshopper,3 - 4 - 1 - 2
+1691,3905446,2022-08-28 07:15:00,Stefan Horisberger,xG_for,1.92,A,10190,St. Gallen,4 - 3 - 3
+1692,3905446,2022-08-28 07:15:00,Stefan Horisberger,xGOT_for,3.05,A,10190,St. Gallen,4 - 3 - 3
+1717,3905440,2022-08-14 09:30:00,Alessandro Dudic,xG_for,1.19,A,7896,Lugano,4 - 1 - 4 - 1
+1718,3905440,2022-08-14 09:30:00,Alessandro Dudic,xGOT_for,1.54,A,7896,Lugano,4 - 1 - 4 - 1
+1743,3905443,2022-09-03 11:00:00,Lukas Fähndrich,xG_for,0.3,A,9931,Basel,4 - 2 - 3 - 1
+1744,3905443,2022-09-03 11:00:00,Lukas Fähndrich,xGOT_for,0.31,A,9931,Basel,4 - 2 - 3 - 1
+1769,3905442,2022-09-03 13:30:00,Alessandro Dudic,xG_for,1.16,A,7896,Lugano,4 - 2 - 3 - 1
+1770,3905442,2022-09-03 13:30:00,Alessandro Dudic,xGOT_for,2.32,A,7896,Lugano,4 - 2 - 3 - 1
+1795,3905445,2022-08-28 09:30:00,Anojen Kanagasingam,xG_for,1.84,A,10192,Young Boys,4 - 1 - 2 - 1 - 2
+1796,3905445,2022-08-28 09:30:00,Anojen Kanagasingam,xGOT_for,3.11,A,10192,Young Boys,4 - 1 - 2 - 1 - 2
+1821,3905428,2022-09-04 09:30:00,Nico Gianforte,xG_for,0.74,A,7894,Winterthur,3 - 5 - 1 - 1
+1822,3905428,2022-09-04 09:30:00,Nico Gianforte,xGOT_for,0.45,A,7894,Winterthur,3 - 5 - 1 - 1
+1847,3905413,2022-09-11 07:15:00,Fedayi San,xG_for,0.81,A,10243,FC Zürich,4 - 2 - 3 - 1
+1848,3905413,2022-09-11 07:15:00,Fedayi San,xGOT_for,1.27,A,10243,FC Zürich,4 - 2 - 3 - 1
+1873,3905410,2022-09-11 09:30:00,Sven Wolfensberger,xG_for,0.91,A,7896,Lugano,4 - 2 - 3 - 1
+1874,3905410,2022-09-11 09:30:00,Sven Wolfensberger,xGOT_for,0.00,A,7896,Lugano,4 - 2 - 3 - 1
+1899,3905427,2022-09-04 09:30:00,Fedayi San,xG_for,0.46,A,10192,Young Boys,4 - 3 - 1 - 2
+1900,3905427,2022-09-04 09:30:00,Fedayi San,xGOT_for,1.17,A,10192,Young Boys,4 - 3 - 1 - 2
+1925,3905426,2022-09-10 11:00:00,Luca Cibelli,xG_for,1.79,A,10179,Sion,4 - 3 - 3
+1926,3905426,2022-09-10 11:00:00,Luca Cibelli,xGOT_for,2.13,A,10179,Sion,4 - 3 - 3
+1951,3905412,2022-09-10 13:30:00,Johannes von Mandach,xG_for,4.02,A,10199,Luzern,4 - 1 - 4 - 1
+1952,3905412,2022-09-10 13:30:00,Johannes von Mandach,xGOT_for,6.13,A,10199,Luzern,4 - 1 - 4 - 1
+1977,3905441,2022-09-04 07:15:00,Urs Schnyder,xG_for,1.06,A,9777,Servette,4 - 3 - 3
+1978,3905441,2022-09-04 07:15:00,Urs Schnyder,xGOT_for,1.27,A,9777,Servette,4 - 3 - 3
+2003,3905411,2022-09-11 09:30:00,Alain Bieri,xG_for,1.06,A,9956,Grasshopper,4 - 3 - 3
+2004,3905411,2022-09-11 09:30:00,Alain Bieri,xGOT_for,0.99,A,9956,Grasshopper,4 - 3 - 3
