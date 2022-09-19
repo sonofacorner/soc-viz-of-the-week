@@ -3,6 +3,8 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [League Two xG Scatter Plots (09192022)](#league-two-xg-scatter-plots-09192022)
+    - [Swiss Super League | xGOT - xG Differential (09122022)](#swiss-super-league--xgot---xg-differential-09122022)
     - [Brighton's Touchmap vs. Leicester (09052022)](#brightons-touchmap-vs-leicester-09052022)
     - [Shooting Areas in the Jupiler Pro League (08292022)](#shooting-areas-in-the-jupiler-pro-league-08292022)
     - [League One - xG Differential (08222022)](#league-one---xg-differential-08222022)
@@ -27,6 +29,14 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### League Two xG Scatter Plots ([09192022](09192022/))
+
+<img src ="09192022\figures\09192022_league_two_scatter.png" width="60%">
+
+### Swiss Super League | xGOT - xG Differential ([09122022](09122022/))
+
+<img src ="09122022\figures\09122022_swiss_xg_xgot.png" width="60%">
 
 ### Brighton's Touchmap vs. Leicester ([09052022](09052022/))
 
