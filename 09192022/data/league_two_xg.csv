@@ -1,0 +1,429 @@
+,match_id,date,referee,variable,value,venue,team_id,team_name,team_lineup
+0,3916384,2022-07-30 09:00:00,Bobby Madden,xG_for,1.72,H,8484,Bradford City,4 - 2 - 3 - 1
+1,3916384,2022-07-30 09:00:00,Bobby Madden,xG_ag,0.21,H,8484,Bradford City,4 - 2 - 3 - 1
+2,3916381,2022-07-30 09:00:00,Thomas Kirk,xG_for,2.46,H,10196,Carlisle United,3 - 5 - 2
+3,3916381,2022-07-30 09:00:00,Thomas Kirk,xG_ag,0.28,H,10196,Carlisle United,3 - 5 - 2
+4,3916396,2022-07-30 09:00:00,Chris Pollard,xG_for,1.88,H,8351,Leyton Orient,4 - 3 - 3
+5,3916396,2022-07-30 09:00:00,Chris Pollard,xG_ag,1.32,H,8351,Leyton Orient,4 - 3 - 3
+6,3916395,2022-07-30 09:00:00,Martin Woods,xG_for,1.42,H,8651,Northampton Town,4 - 4 - 2
+7,3916395,2022-07-30 09:00:00,Martin Woods,xG_ag,1.25,H,8651,Northampton Town,4 - 4 - 2
+8,3916383,2022-07-30 09:00:00,Simon Mather,xG_for,0.62,H,158319,AFC Wimbledon,3 - 5 - 2
+9,3916383,2022-07-30 09:00:00,Simon Mather,xG_ag,0.28,H,158319,AFC Wimbledon,3 - 5 - 2
+10,3916393,2022-07-30 09:00:00,Adam Herczeg,xG_for,1.03,H,282326,Salford City,3 - 4 - 1 - 2
+11,3916393,2022-07-30 09:00:00,Adam Herczeg,xG_ag,1.05,H,282326,Salford City,3 - 4 - 1 - 2
+12,3916394,2022-07-30 09:00:00,Andrew Kitchen,xG_for,0.85,H,8493,Rochdale,3 - 5 - 2
+13,3916394,2022-07-30 09:00:00,Andrew Kitchen,xG_ag,0.58,H,8493,Rochdale,3 - 5 - 2
+14,3916397,2022-07-30 09:00:00,Tom Reeves,xG_for,1.9,H,7946,Harrogate Town,3 - 4 - 2 - 1
+15,3916397,2022-07-30 09:00:00,Tom Reeves,xG_ag,1.08,H,7946,Harrogate Town,3 - 4 - 2 - 1
+16,3916390,2022-07-30 09:00:00,Lee Swabey,xG_for,1.92,H,10006,Walsall,3 - 4 - 1 - 2
+17,3916390,2022-07-30 09:00:00,Lee Swabey,xG_ag,0.21,H,10006,Walsall,3 - 4 - 1 - 2
+18,3916389,2022-07-30 09:00:00,Sam Purkiss,xG_for,0.63,H,158316,Sutton United,4 - 4 - 2
+19,3916389,2022-07-30 09:00:00,Sam Purkiss,xG_ag,0.81,H,158316,Sutton United,4 - 4 - 2
+20,3916392,2022-07-30 09:00:00,Oliver Yates,xG_for,0.77,H,10007,Stockport County,3 - 5 - 2
+21,3916392,2022-07-30 09:00:00,Oliver Yates,xG_ag,0.53,H,10007,Stockport County,3 - 5 - 2
+22,3916388,2022-08-06 09:00:00,Martin Woods,xG_for,1.39,H,6350,Barrow,4 - 3 - 3
+23,3916388,2022-08-06 09:00:00,Martin Woods,xG_ag,0.78,H,6350,Barrow,4 - 3 - 3
+24,3916391,2022-07-30 09:00:00,Jeremy Simpson,xG_for,0.43,H,8313,Tranmere Rovers,3 - 5 - 2
+25,3916391,2022-07-30 09:00:00,Jeremy Simpson,xG_ag,1.72,H,8313,Tranmere Rovers,3 - 5 - 2
+26,3916386,2022-08-06 09:00:00,Sam Purkiss,xG_for,0.24,H,8647,Crawley Town,3 - 5 - 2
+27,3916386,2022-08-06 09:00:00,Sam Purkiss,xG_ag,0.63,H,8647,Crawley Town,3 - 5 - 2
+28,3916385,2022-08-06 09:00:00,Declan Bourne,xG_for,0.79,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+29,3916385,2022-08-06 09:00:00,Declan Bourne,xG_ag,0.66,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+30,3916387,2022-08-06 09:00:00,James Oldham,xG_for,0.52,H,8416,Colchester United,4 - 2 - 3 - 1
+31,3916387,2022-08-06 09:00:00,James Oldham,xG_ag,0.55,H,8416,Colchester United,4 - 2 - 3 - 1
+32,3916430,2022-08-06 09:00:00,Thomas Parsons,xG_for,1.82,H,10005,Grimsby Town,4 - 3 - 3
+33,3916430,2022-08-06 09:00:00,Thomas Parsons,xG_ag,0.54,H,10005,Grimsby Town,4 - 3 - 3
+34,3916428,2022-08-06 09:00:00,Seb Stockbridge,xG_for,1.64,H,9818,Mansfield Town,3 - 5 - 2
+35,3916428,2022-08-06 09:00:00,Seb Stockbridge,xG_ag,0.48,H,9818,Mansfield Town,3 - 5 - 2
+36,3916432,2022-08-06 09:00:00,Ben Speedie,xG_for,1.11,H,9903,Doncaster Rovers,4 - 3 - 3
+37,3916432,2022-08-06 09:00:00,Ben Speedie,xG_ag,1.89,H,9903,Doncaster Rovers,4 - 3 - 3
+38,3916429,2022-08-06 09:00:00,Bobby Madden,xG_for,1.18,H,8488,Hartlepool United,3 - 4 - 1 - 2
+39,3916429,2022-08-06 09:00:00,Bobby Madden,xG_ag,0.53,H,8488,Hartlepool United,3 - 4 - 1 - 2
+40,3916427,2022-08-06 09:00:00,Adam Herczeg,xG_for,1.73,H,10253,Stevenage,3 - 5 - 2
+41,3916427,2022-08-06 09:00:00,Adam Herczeg,xG_ag,0.49,H,10253,Stevenage,3 - 5 - 2
+42,3916431,2022-08-06 09:00:00,Will Finnie,xG_for,0.71,H,10173,Gillingham,4 - 2 - 3 - 1
+43,3916431,2022-08-06 09:00:00,Will Finnie,xG_ag,0.13,H,10173,Gillingham,4 - 2 - 3 - 1
+44,3916596,2022-08-06 09:00:00,Alan Young,xG_for,0.46,H,10262,Newport County,3 - 5 - 2
+45,3916596,2022-08-06 09:00:00,Alan Young,xG_ag,0.08,H,10262,Newport County,3 - 5 - 2
+46,3916426,2022-08-06 09:00:00,Andy Woolmer,xG_for,0.46,H,9795,Swindon Town,3 - 5 - 2
+47,3916426,2022-08-06 09:00:00,Andy Woolmer,xG_ag,0.78,H,9795,Swindon Town,3 - 5 - 2
+48,3916425,2022-08-13 09:00:00,Oliver Yates,xG_for,1.36,H,158319,AFC Wimbledon,3 - 5 - 2
+49,3916425,2022-08-13 09:00:00,Oliver Yates,xG_ag,0.52,H,158319,AFC Wimbledon,3 - 5 - 2
+50,3916401,2022-08-13 09:00:00,Leigh Doughty,xG_for,0.58,H,8351,Leyton Orient,4 - 3 - 3
+51,3916401,2022-08-13 09:00:00,Leigh Doughty,xG_ag,1.86,H,8351,Leyton Orient,4 - 3 - 3
+52,3916403,2022-08-13 09:00:00,Thomas Kirk,xG_for,0.87,H,8493,Rochdale,3 - 4 - 3
+53,3916403,2022-08-13 09:00:00,Thomas Kirk,xG_ag,0.32,H,8493,Rochdale,3 - 4 - 3
+54,3916399,2022-08-13 09:00:00,Andrew Kitchen,xG_for,1.83,H,10196,Carlisle United,3 - 5 - 2
+55,3916399,2022-08-13 09:00:00,Andrew Kitchen,xG_ag,1.04,H,10196,Carlisle United,3 - 5 - 2
+56,3916400,2022-08-13 09:00:00,Tom Nield,xG_for,0.91,H,7946,Harrogate Town,3 - 4 - 1 - 2
+57,3916400,2022-08-13 09:00:00,Tom Nield,xG_ag,0.46,H,7946,Harrogate Town,3 - 4 - 1 - 2
+58,3916406,2022-08-13 09:00:00,Craig Hicks,xG_for,1.59,H,282326,Salford City,3 - 4 - 1 - 2
+59,3916406,2022-08-13 09:00:00,Craig Hicks,xG_ag,0.36,H,282326,Salford City,3 - 4 - 1 - 2
+60,3916402,2022-08-13 09:00:00,Sunny Sukhvir Gill,xG_for,2.21,H,8651,Northampton Town,4 - 1 - 4 - 1
+61,3916402,2022-08-13 09:00:00,Sunny Sukhvir Gill,xG_ag,1.09,H,8651,Northampton Town,4 - 1 - 4 - 1
+62,3916595,2022-08-13 09:00:00,Will Finnie,xG_for,0.84,H,8484,Bradford City,4 - 2 - 3 - 1
+63,3916595,2022-08-13 09:00:00,Will Finnie,xG_ag,0.38,H,8484,Bradford City,4 - 2 - 3 - 1
+64,3916405,2022-08-13 09:00:00,David Rock,xG_for,0.98,H,10007,Stockport County,3 - 4 - 2 - 1
+65,3916405,2022-08-13 09:00:00,David Rock,xG_ag,0.06,H,10007,Stockport County,3 - 4 - 2 - 1
+66,3916398,2022-08-13 09:00:00,Andy Davies,xG_for,0.7,H,158316,Sutton United,4 - 4 - 2
+67,3916398,2022-08-13 09:00:00,Andy Davies,xG_ag,0.57,H,158316,Sutton United,4 - 4 - 2
+68,3916422,2022-08-16 13:45:00,Andy Haines,xG_for,0.5,H,6350,Barrow,4 - 3 - 3
+69,3916422,2022-08-16 13:45:00,Andy Haines,xG_ag,0.73,H,6350,Barrow,4 - 3 - 3
+70,3916423,2022-08-13 09:00:00,Charles Breakspear,xG_for,0.47,H,10006,Walsall,3 - 4 - 1 - 2
+71,3916423,2022-08-13 09:00:00,Charles Breakspear,xG_ag,0.65,H,10006,Walsall,3 - 4 - 1 - 2
+72,3916404,2022-08-13 09:00:00,Scott Oldham,xG_for,0.88,H,8313,Tranmere Rovers,3 - 5 - 2
+73,3916404,2022-08-13 09:00:00,Scott Oldham,xG_ag,0.78,H,8313,Tranmere Rovers,3 - 5 - 2
+74,3916420,2022-08-16 13:45:00,Steve Martin,xG_for,0.7,H,8647,Crawley Town,3 - 4 - 3
+75,3916420,2022-08-16 13:45:00,Steve Martin,xG_ag,0.52,H,8647,Crawley Town,3 - 4 - 3
+76,3916421,2022-08-16 13:45:00,Carl Brook,xG_for,0.56,H,8416,Colchester United,4 - 1 - 4 - 1
+77,3916421,2022-08-16 13:45:00,Carl Brook,xG_ag,1.11,H,8416,Colchester United,4 - 1 - 4 - 1
+78,3916419,2022-08-16 13:45:00,Thomas Parsons,xG_for,0.54,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+79,3916419,2022-08-16 13:45:00,Thomas Parsons,xG_ag,1.2,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+80,3916418,2022-08-16 13:45:00,Lee Swabey,xG_for,0.95,H,10173,Gillingham,4 - 2 - 3 - 1
+81,3916418,2022-08-16 13:45:00,Lee Swabey,xG_ag,1.58,H,10173,Gillingham,4 - 2 - 3 - 1
+82,3916412,2022-08-16 13:45:00,Declan Bourne,xG_for,1.73,H,9903,Doncaster Rovers,4 - 2 - 3 - 1
+83,3916412,2022-08-16 13:45:00,Declan Bourne,xG_ag,0.16,H,9903,Doncaster Rovers,4 - 2 - 3 - 1
+84,3916416,2022-08-16 13:45:00,Thomas Kirk,xG_for,0.38,H,8488,Hartlepool United,3 - 4 - 2 - 1
+85,3916416,2022-08-16 13:45:00,Thomas Kirk,xG_ag,0.53,H,8488,Hartlepool United,3 - 4 - 2 - 1
+86,3916415,2022-08-16 13:45:00,Ben Speedie,xG_for,2.84,H,9818,Mansfield Town,3 - 5 - 1 - 1
+87,3916415,2022-08-16 13:45:00,Ben Speedie,xG_ag,0.54,H,9818,Mansfield Town,3 - 5 - 1 - 1
+88,3916594,2022-08-16 13:45:00,Sunny Sukhvir Gill,xG_for,1.41,H,10262,Newport County,3 - 5 - 2
+89,3916594,2022-08-16 13:45:00,Sunny Sukhvir Gill,xG_ag,0.97,H,10262,Newport County,3 - 5 - 2
+90,3916414,2022-08-16 13:45:00,Tom Reeves,xG_for,0.84,H,10253,Stevenage,3 - 4 - 3
+91,3916414,2022-08-16 13:45:00,Tom Reeves,xG_ag,0.18,H,10253,Stevenage,3 - 4 - 3
+92,3916413,2022-08-16 13:45:00,Rob Lewis,xG_for,0.71,H,9795,Swindon Town,4 - 3 - 3
+93,3916413,2022-08-16 13:45:00,Rob Lewis,xG_ag,1.48,H,9795,Swindon Town,4 - 3 - 3
+94,3916434,2022-08-20 07:00:00,Scott Oldham,xG_for,0.3,H,8488,Hartlepool United,4 - 2 - 3 - 1
+95,3916434,2022-08-20 07:00:00,Scott Oldham,xG_ag,0.89,H,8488,Hartlepool United,4 - 2 - 3 - 1
+96,3916409,2022-08-20 09:00:00,David Webb,xG_for,0.7,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+97,3916409,2022-08-20 09:00:00,David Webb,xG_ag,0.62,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+98,3916407,2022-08-20 09:00:00,Thomas Parsons,xG_for,0.44,H,6350,Barrow,4 - 3 - 3
+99,3916407,2022-08-20 09:00:00,Thomas Parsons,xG_ag,0.3,H,6350,Barrow,4 - 3 - 3
+100,3916411,2022-08-20 09:00:00,Thomas Kirk,xG_for,0.51,H,8416,Colchester United,4 - 1 - 4 - 1
+101,3916411,2022-08-20 09:00:00,Thomas Kirk,xG_ag,1.09,H,8416,Colchester United,4 - 1 - 4 - 1
+102,3916408,2022-08-20 09:00:00,Andrew Kitchen,xG_for,0.61,H,9903,Doncaster Rovers,4 - 2 - 3 - 1
+103,3916408,2022-08-20 09:00:00,Andrew Kitchen,xG_ag,1.63,H,9903,Doncaster Rovers,4 - 2 - 3 - 1
+104,3916410,2022-08-20 09:00:00,James Oldham,xG_for,0.58,H,8647,Crawley Town,3 - 4 - 3
+105,3916410,2022-08-20 09:00:00,James Oldham,xG_ag,0.57,H,8647,Crawley Town,3 - 4 - 3
+106,3916424,2022-08-20 09:00:00,Robert Madley,xG_for,0.49,H,10173,Gillingham,3 - 4 - 3
+107,3916424,2022-08-20 09:00:00,Robert Madley,xG_ag,0.61,H,10173,Gillingham,3 - 4 - 3
+108,3916433,2022-08-20 09:00:00,Anthony Backhouse,xG_for,1.4,H,9818,Mansfield Town,3 - 5 - 1 - 1
+109,3916433,2022-08-20 09:00:00,Anthony Backhouse,xG_ag,0.42,H,9818,Mansfield Town,3 - 5 - 1 - 1
+110,3916435,2022-08-20 09:00:00,Martin Woods,xG_for,0.7,H,10005,Grimsby Town,4 - 2 - 3 - 1
+111,3916435,2022-08-20 09:00:00,Martin Woods,xG_ag,0.53,H,10005,Grimsby Town,4 - 2 - 3 - 1
+112,3916593,2022-08-20 09:00:00,Tom Nield,xG_for,1.55,H,10262,Newport County,3 - 5 - 2
+113,3916593,2022-08-20 09:00:00,Tom Nield,xG_ag,0.39,H,10262,Newport County,3 - 5 - 2
+114,3916457,2022-08-27 09:00:00,Sunny Sukhvir Gill,xG_for,0.61,H,8484,Bradford City,4 - 2 - 3 - 1
+115,3916457,2022-08-27 09:00:00,Sunny Sukhvir Gill,xG_ag,0.41,H,8484,Bradford City,4 - 2 - 3 - 1
+116,3916445,2022-08-20 09:00:00,Craig Hicks,xG_for,1.46,H,10253,Stevenage,3 - 4 - 3
+117,3916445,2022-08-20 09:00:00,Craig Hicks,xG_ag,0.76,H,10253,Stevenage,3 - 4 - 3
+118,3916458,2022-08-27 09:00:00,John Busby,xG_for,0.61,H,158319,AFC Wimbledon,3 - 5 - 2
+119,3916458,2022-08-27 09:00:00,John Busby,xG_ag,0.51,H,158319,AFC Wimbledon,3 - 5 - 2
+120,3916456,2022-08-27 09:00:00,Marc Edwards,xG_for,0.26,H,10196,Carlisle United,3 - 5 - 2
+121,3916456,2022-08-27 09:00:00,Marc Edwards,xG_ag,0.37,H,10196,Carlisle United,3 - 5 - 2
+122,3916446,2022-08-20 09:00:00,Samuel Barrott,xG_for,1.5,H,9795,Swindon Town,3 - 4 - 3
+123,3916446,2022-08-20 09:00:00,Samuel Barrott,xG_ag,0.13,H,9795,Swindon Town,3 - 4 - 3
+124,3916592,2022-08-27 09:00:00,Carl Boyeson,xG_for,0.33,H,7946,Harrogate Town,3 - 4 - 1 - 2
+125,3916592,2022-08-27 09:00:00,Carl Boyeson,xG_ag,1.43,H,7946,Harrogate Town,3 - 4 - 1 - 2
+126,3916453,2022-08-27 09:00:00,Alan Young,xG_for,0.47,H,8493,Rochdale,3 - 4 - 3
+127,3916453,2022-08-27 09:00:00,Alan Young,xG_ag,0.24,H,8493,Rochdale,3 - 4 - 3
+128,3916452,2022-08-27 09:00:00,Darren Drysdale,xG_for,0.59,H,282326,Salford City,3 - 4 - 1 - 2
+129,3916452,2022-08-27 09:00:00,Darren Drysdale,xG_ag,0.31,H,282326,Salford City,3 - 4 - 1 - 2
+130,3916455,2022-08-27 09:00:00,Declan Bourne,xG_for,3.09,H,8351,Leyton Orient,4 - 3 - 3
+131,3916455,2022-08-27 09:00:00,Declan Bourne,xG_ag,1.66,H,8351,Leyton Orient,4 - 3 - 3
+132,3916454,2022-08-27 09:00:00,Neil Hair,xG_for,0.54,H,8651,Northampton Town,4 - 1 - 4 - 1
+133,3916454,2022-08-27 09:00:00,Neil Hair,xG_ag,1.24,H,8651,Northampton Town,4 - 1 - 4 - 1
+134,3916451,2022-08-27 09:00:00,Samuel Allison,xG_for,1.03,H,10007,Stockport County,3 - 5 - 2
+135,3916451,2022-08-27 09:00:00,Samuel Allison,xG_ag,0.59,H,10007,Stockport County,3 - 5 - 2
+136,3916450,2022-08-27 09:00:00,Lee Swabey,xG_for,1.98,H,158316,Sutton United,4 - 1 - 2 - 1 - 2
+137,3916450,2022-08-27 09:00:00,Lee Swabey,xG_ag,0.52,H,158316,Sutton United,4 - 1 - 2 - 1 - 2
+138,3916449,2022-08-27 09:00:00,Rebecca Welch,xG_for,0.44,H,8313,Tranmere Rovers,4 - 1 - 2 - 1 - 2
+139,3916449,2022-08-27 09:00:00,Rebecca Welch,xG_ag,0.12,H,8313,Tranmere Rovers,4 - 1 - 2 - 1 - 2
+140,3916437,2022-09-03 09:00:00,Adam Herczeg,xG_for,1.56,H,10196,Carlisle United,3 - 5 - 2
+141,3916437,2022-09-03 09:00:00,Adam Herczeg,xG_ag,0.56,H,10196,Carlisle United,3 - 5 - 2
+142,3916438,2022-09-03 09:00:00,Thomas Parsons,xG_for,0.71,H,8416,Colchester United,4 - 2 - 3 - 1
+143,3916438,2022-09-03 09:00:00,Thomas Parsons,xG_ag,0.59,H,8416,Colchester United,4 - 2 - 3 - 1
+144,3916448,2022-08-27 09:00:00,Peter Wright,xG_for,1.32,H,10006,Walsall,3 - 5 - 2
+145,3916448,2022-08-27 09:00:00,Peter Wright,xG_ag,1.24,H,10006,Walsall,3 - 5 - 2
+146,3916447,2022-09-03 09:00:00,Marc Edwards,xG_for,0.89,H,8484,Bradford City,4 - 2 - 3 - 1
+147,3916447,2022-09-03 09:00:00,Marc Edwards,xG_ag,1.97,H,8484,Bradford City,4 - 2 - 3 - 1
+148,3916439,2022-09-03 09:00:00,Tom Nield,xG_for,1.31,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+149,3916439,2022-09-03 09:00:00,Tom Nield,xG_ag,0.83,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+150,3916440,2022-09-03 09:00:00,Thomas Kirk,xG_for,1.28,H,9903,Doncaster Rovers,4 - 2 - 3 - 1
+151,3916440,2022-09-03 09:00:00,Thomas Kirk,xG_ag,2.04,H,9903,Doncaster Rovers,4 - 2 - 3 - 1
+152,3916436,2022-09-03 09:00:00,Martin Woods,xG_for,0.37,H,10173,Gillingham,4 - 2 - 3 - 1
+153,3916436,2022-09-03 09:00:00,Martin Woods,xG_ag,1.49,H,10173,Gillingham,4 - 2 - 3 - 1
+154,3916441,2022-09-03 09:00:00,David Webb,xG_for,0.72,H,8351,Leyton Orient,4 - 3 - 3
+155,3916441,2022-09-03 09:00:00,David Webb,xG_ag,0.55,H,8351,Leyton Orient,4 - 3 - 3
+156,3916443,2022-09-03 09:00:00,Seb Stockbridge,xG_for,1.41,H,282326,Salford City,3 - 4 - 1 - 2
+157,3916443,2022-09-03 09:00:00,Seb Stockbridge,xG_ag,0.69,H,282326,Salford City,3 - 4 - 1 - 2
+158,3916444,2022-09-03 09:00:00,Sunny Sukhvir Gill,xG_for,1.08,H,10007,Stockport County,3 - 5 - 2
+159,3916444,2022-09-03 09:00:00,Sunny Sukhvir Gill,xG_ag,0.49,H,10007,Stockport County,3 - 5 - 2
+160,3916591,2022-09-03 09:00:00,Scott Oldham,xG_for,0.57,H,10262,Newport County,3 - 5 - 2
+161,3916591,2022-09-03 09:00:00,Scott Oldham,xG_ag,1.47,H,10262,Newport County,3 - 5 - 2
+162,3916442,2022-09-03 09:00:00,Chris Pollard,xG_for,0.78,H,8651,Northampton Town,4 - 4 - 2
+163,3916442,2022-09-03 09:00:00,Chris Pollard,xG_ag,0.85,H,8651,Northampton Town,4 - 4 - 2
+164,3916459,2022-09-03 09:00:00,Neil Hair,xG_for,1.8,H,158316,Sutton United,4 - 4 - 2
+165,3916459,2022-09-03 09:00:00,Neil Hair,xG_ag,1.06,H,158316,Sutton United,4 - 4 - 2
+166,3916464,2022-09-13 13:45:00,Scott Oldham,xG_for,1.64,H,6350,Barrow,4 - 3 - 3
+167,3916464,2022-09-13 13:45:00,Scott Oldham,xG_ag,0.46,H,6350,Barrow,4 - 3 - 3
+168,3916465,2022-09-13 13:45:00,Charles Breakspear,xG_for,0.97,H,158319,AFC Wimbledon,3 - 4 - 3
+169,3916465,2022-09-13 13:45:00,Charles Breakspear,xG_ag,0.62,H,158319,AFC Wimbledon,3 - 4 - 3
+170,3916463,2022-09-13 13:45:00,Neil Hair,xG_for,0.93,H,8647,Crawley Town,3 - 4 - 3
+171,3916463,2022-09-13 13:45:00,Neil Hair,xG_ag,1.09,H,8647,Crawley Town,3 - 4 - 3
+172,3916486,2022-09-13 13:45:00,Martin Coy,xG_for,1.61,H,8488,Hartlepool United,3 - 4 - 2 - 1
+173,3916486,2022-09-13 13:45:00,Martin Coy,xG_ag,1.38,H,8488,Hartlepool United,3 - 4 - 2 - 1
+174,3916462,2022-09-13 13:45:00,Andy Haines,xG_for,1.37,H,10005,Grimsby Town,4 - 4 - 2
+175,3916462,2022-09-13 13:45:00,Andy Haines,xG_ag,1.2,H,10005,Grimsby Town,4 - 4 - 2
+176,3916482,2022-09-13 13:45:00,Simon Mather,xG_for,1.28,H,8493,Rochdale,4 - 2 - 3 - 1
+177,3916482,2022-09-13 13:45:00,Simon Mather,xG_ag,1.26,H,8493,Rochdale,4 - 2 - 3 - 1
+178,3916483,2022-09-13 13:45:00,Samuel Allison,xG_for,0.66,H,9818,Mansfield Town,3 - 5 - 1 - 1
+179,3916483,2022-09-13 13:45:00,Samuel Allison,xG_ag,1.16,H,9818,Mansfield Town,3 - 5 - 1 - 1
+180,3916484,2022-09-13 13:45:00,Ben Toner,xG_for,1.1,H,7946,Harrogate Town,4 - 2 - 3 - 1
+181,3916484,2022-09-13 13:45:00,Ben Toner,xG_ag,1.57,H,7946,Harrogate Town,4 - 2 - 3 - 1
+182,3916589,2022-09-13 13:45:00,Oliver Langford,xG_for,1.08,H,10253,Stevenage,3 - 4 - 1 - 2
+183,3916589,2022-09-13 13:45:00,Oliver Langford,xG_ag,0.41,H,10253,Stevenage,3 - 4 - 1 - 2
+184,3916481,2022-09-13 13:45:00,Darren Handley,xG_for,1.57,H,9795,Swindon Town,4 - 3 - 3
+185,3916481,2022-09-13 13:45:00,Darren Handley,xG_ag,1.51,H,9795,Swindon Town,4 - 3 - 3
+186,3916480,2022-09-13 13:45:00,Adam Herczeg,xG_for,0.54,H,8313,Tranmere Rovers,3 - 5 - 2
+187,3916480,2022-09-13 13:45:00,Adam Herczeg,xG_ag,1.35,H,8313,Tranmere Rovers,3 - 5 - 2
+188,3916475,2022-09-17 09:00:00,Lee Swabey,xG_for,1.53,H,8484,Bradford City,4 - 2 - 3 - 1
+189,3916475,2022-09-17 09:00:00,Lee Swabey,xG_ag,0.84,H,8484,Bradford City,4 - 2 - 3 - 1
+190,3916485,2022-09-17 09:00:00,Sunny Sukhvir Gill,xG_for,0.54,H,8416,Colchester United,3 - 4 - 1 - 2
+191,3916485,2022-09-17 09:00:00,Sunny Sukhvir Gill,xG_ag,0.74,H,8416,Colchester United,3 - 4 - 1 - 2
+192,3916479,2022-09-13 13:45:00,Carl Boyeson,xG_for,0.77,H,10006,Walsall,3 - 5 - 2
+193,3916479,2022-09-13 13:45:00,Carl Boyeson,xG_ag,0.6,H,10006,Walsall,3 - 5 - 2
+194,3916476,2022-09-17 09:00:00,Andy Haines,xG_for,1.39,H,10196,Carlisle United,3 - 5 - 2
+195,3916476,2022-09-17 09:00:00,Andy Haines,xG_ag,0.7,H,10196,Carlisle United,3 - 5 - 2
+196,3916477,2022-09-17 09:00:00,Rebecca Welch,xG_for,0.75,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+197,3916477,2022-09-17 09:00:00,Rebecca Welch,xG_ag,0.61,H,9784,Crewe Alexandra,4 - 2 - 3 - 1
+198,3916478,2022-09-17 09:00:00,Charles Breakspear,xG_for,0.32,H,9903,Doncaster Rovers,4 - 3 - 3
+199,3916478,2022-09-17 09:00:00,Charles Breakspear,xG_ag,0.48,H,9903,Doncaster Rovers,4 - 3 - 3
+200,3916487,2022-09-17 09:00:00,Tom Reeves,xG_for,0.21,H,10173,Gillingham,4 - 4 - 2
+201,3916487,2022-09-17 09:00:00,Tom Reeves,xG_ag,1.91,H,10173,Gillingham,4 - 4 - 2
+202,3916499,2022-09-17 09:00:00,Andy Davies,xG_for,1.28,H,8351,Leyton Orient,4 - 3 - 3
+203,3916499,2022-09-17 09:00:00,Andy Davies,xG_ag,0.28,H,8351,Leyton Orient,4 - 3 - 3
+204,3916588,2022-09-17 09:00:00,James Oldham,xG_for,0.53,H,10262,Newport County,4 - 4 - 2
+205,3916588,2022-09-17 09:00:00,James Oldham,xG_ag,1.29,H,10262,Newport County,4 - 4 - 2
+206,3916501,2022-09-17 09:00:00,David Rock,xG_for,0.42,H,282326,Salford City,4 - 3 - 3
+207,3916501,2022-09-17 09:00:00,David Rock,xG_ag,1.35,H,282326,Salford City,4 - 3 - 3
+208,3916500,2022-09-17 09:00:00,Sam Purkiss,xG_for,2.17,H,8651,Northampton Town,4 - 2 - 3 - 1
+209,3916500,2022-09-17 09:00:00,Sam Purkiss,xG_ag,0.34,H,8651,Northampton Town,4 - 2 - 3 - 1
+210,3916503,2022-09-17 09:00:00,Will Finnie,xG_for,1.46,H,158316,Sutton United,4 - 4 - 2
+211,3916503,2022-09-17 09:00:00,Will Finnie,xG_ag,0.31,H,158316,Sutton United,4 - 4 - 2
+212,3916502,2022-09-17 09:00:00,Ross Joyce,xG_for,0.67,H,10007,Stockport County,4 - 1 - 2 - 1 - 2
+213,3916502,2022-09-17 09:00:00,Ross Joyce,xG_ag,0.49,H,10007,Stockport County,4 - 1 - 2 - 1 - 2
+214,3916384,2022-07-30 09:00:00,Bobby Madden,xG_for,0.21,A,9903,Doncaster Rovers,4 - 3 - 3
+215,3916384,2022-07-30 09:00:00,Bobby Madden,xG_ag,1.72,A,9903,Doncaster Rovers,4 - 3 - 3
+216,3916381,2022-07-30 09:00:00,Thomas Kirk,xG_for,0.28,A,8647,Crawley Town,3 - 4 - 1 - 2
+217,3916381,2022-07-30 09:00:00,Thomas Kirk,xG_ag,2.46,A,8647,Crawley Town,3 - 4 - 1 - 2
+218,3916396,2022-07-30 09:00:00,Chris Pollard,xG_for,1.32,A,10005,Grimsby Town,4 - 3 - 3
+219,3916396,2022-07-30 09:00:00,Chris Pollard,xG_ag,1.88,A,10005,Grimsby Town,4 - 3 - 3
+220,3916395,2022-07-30 09:00:00,Martin Woods,xG_for,1.25,A,8416,Colchester United,4 - 1 - 2 - 1 - 2
+221,3916395,2022-07-30 09:00:00,Martin Woods,xG_ag,1.42,A,8416,Colchester United,4 - 1 - 2 - 1 - 2
+222,3916383,2022-07-30 09:00:00,Simon Mather,xG_for,0.28,A,10173,Gillingham,4 - 2 - 3 - 1
+223,3916383,2022-07-30 09:00:00,Simon Mather,xG_ag,0.62,A,10173,Gillingham,4 - 2 - 3 - 1
+224,3916393,2022-07-30 09:00:00,Adam Herczeg,xG_for,1.05,A,9818,Mansfield Town,3 - 5 - 2
+225,3916393,2022-07-30 09:00:00,Adam Herczeg,xG_ag,1.03,A,9818,Mansfield Town,3 - 5 - 2
+226,3916394,2022-07-30 09:00:00,Andrew Kitchen,xG_for,0.58,A,9784,Crewe Alexandra,4 - 2 - 3 - 1
+227,3916394,2022-07-30 09:00:00,Andrew Kitchen,xG_ag,0.85,A,9784,Crewe Alexandra,4 - 2 - 3 - 1
+228,3916397,2022-07-30 09:00:00,Tom Reeves,xG_for,1.08,A,9795,Swindon Town,3 - 5 - 2
+229,3916397,2022-07-30 09:00:00,Tom Reeves,xG_ag,1.9,A,9795,Swindon Town,3 - 5 - 2
+230,3916390,2022-07-30 09:00:00,Lee Swabey,xG_for,0.21,A,8488,Hartlepool United,4 - 3 - 3
+231,3916390,2022-07-30 09:00:00,Lee Swabey,xG_ag,1.92,A,8488,Hartlepool United,4 - 3 - 3
+232,3916389,2022-07-30 09:00:00,Sam Purkiss,xG_for,0.81,A,10262,Newport County,3 - 5 - 2
+233,3916389,2022-07-30 09:00:00,Sam Purkiss,xG_ag,0.63,A,10262,Newport County,3 - 5 - 2
+234,3916392,2022-07-30 09:00:00,Oliver Yates,xG_for,0.53,A,6350,Barrow,4 - 3 - 3
+235,3916392,2022-07-30 09:00:00,Oliver Yates,xG_ag,0.77,A,6350,Barrow,4 - 3 - 3
+236,3916388,2022-08-06 09:00:00,Martin Woods,xG_for,0.78,A,8484,Bradford City,4 - 2 - 3 - 1
+237,3916388,2022-08-06 09:00:00,Martin Woods,xG_ag,1.39,A,8484,Bradford City,4 - 2 - 3 - 1
+238,3916391,2022-07-30 09:00:00,Jeremy Simpson,xG_for,1.72,A,10253,Stevenage,3 - 5 - 2
+239,3916391,2022-07-30 09:00:00,Jeremy Simpson,xG_ag,0.43,A,10253,Stevenage,3 - 5 - 2
+240,3916386,2022-08-06 09:00:00,Sam Purkiss,xG_for,0.63,A,8351,Leyton Orient,4 - 3 - 3
+241,3916386,2022-08-06 09:00:00,Sam Purkiss,xG_ag,0.24,A,8351,Leyton Orient,4 - 3 - 3
+242,3916385,2022-08-06 09:00:00,Declan Bourne,xG_for,0.66,A,7946,Harrogate Town,3 - 4 - 2 - 1
+243,3916385,2022-08-06 09:00:00,Declan Bourne,xG_ag,0.79,A,7946,Harrogate Town,3 - 4 - 2 - 1
+244,3916387,2022-08-06 09:00:00,James Oldham,xG_for,0.55,A,10196,Carlisle United,3 - 5 - 2
+245,3916387,2022-08-06 09:00:00,James Oldham,xG_ag,0.52,A,10196,Carlisle United,3 - 5 - 2
+246,3916430,2022-08-06 09:00:00,Thomas Parsons,xG_for,0.54,A,8651,Northampton Town,4 - 4 - 2
+247,3916430,2022-08-06 09:00:00,Thomas Parsons,xG_ag,1.82,A,8651,Northampton Town,4 - 4 - 2
+248,3916428,2022-08-06 09:00:00,Seb Stockbridge,xG_for,0.48,A,8313,Tranmere Rovers,3 - 5 - 2
+249,3916428,2022-08-06 09:00:00,Seb Stockbridge,xG_ag,1.64,A,8313,Tranmere Rovers,3 - 5 - 2
+250,3916432,2022-08-06 09:00:00,Ben Speedie,xG_for,1.89,A,158316,Sutton United,4 - 4 - 2
+251,3916432,2022-08-06 09:00:00,Ben Speedie,xG_ag,1.11,A,158316,Sutton United,4 - 4 - 2
+252,3916429,2022-08-06 09:00:00,Bobby Madden,xG_for,0.53,A,158319,AFC Wimbledon,3 - 5 - 2
+253,3916429,2022-08-06 09:00:00,Bobby Madden,xG_ag,1.18,A,158319,AFC Wimbledon,3 - 5 - 2
+254,3916427,2022-08-06 09:00:00,Adam Herczeg,xG_for,0.49,A,10007,Stockport County,3 - 5 - 2
+255,3916427,2022-08-06 09:00:00,Adam Herczeg,xG_ag,1.73,A,10007,Stockport County,3 - 5 - 2
+256,3916431,2022-08-06 09:00:00,Will Finnie,xG_for,0.13,A,8493,Rochdale,3 - 5 - 2
+257,3916431,2022-08-06 09:00:00,Will Finnie,xG_ag,0.71,A,8493,Rochdale,3 - 5 - 2
+258,3916596,2022-08-06 09:00:00,Alan Young,xG_for,0.08,A,10006,Walsall,3 - 4 - 1 - 2
+259,3916596,2022-08-06 09:00:00,Alan Young,xG_ag,0.46,A,10006,Walsall,3 - 4 - 1 - 2
+260,3916426,2022-08-06 09:00:00,Andy Woolmer,xG_for,0.78,A,282326,Salford City,3 - 4 - 1 - 2
+261,3916426,2022-08-06 09:00:00,Andy Woolmer,xG_ag,0.46,A,282326,Salford City,3 - 4 - 1 - 2
+262,3916425,2022-08-13 09:00:00,Oliver Yates,xG_for,0.52,A,9903,Doncaster Rovers,4 - 2 - 3 - 1
+263,3916425,2022-08-13 09:00:00,Oliver Yates,xG_ag,1.36,A,9903,Doncaster Rovers,4 - 2 - 3 - 1
+264,3916401,2022-08-13 09:00:00,Leigh Doughty,xG_for,1.86,A,9818,Mansfield Town,3 - 5 - 2
+265,3916401,2022-08-13 09:00:00,Leigh Doughty,xG_ag,0.58,A,9818,Mansfield Town,3 - 5 - 2
+266,3916403,2022-08-13 09:00:00,Thomas Kirk,xG_for,0.32,A,10005,Grimsby Town,4 - 3 - 3
+267,3916403,2022-08-13 09:00:00,Thomas Kirk,xG_ag,0.87,A,10005,Grimsby Town,4 - 3 - 3
+268,3916399,2022-08-13 09:00:00,Andrew Kitchen,xG_for,1.04,A,9795,Swindon Town,3 - 5 - 2
+269,3916399,2022-08-13 09:00:00,Andrew Kitchen,xG_ag,1.83,A,9795,Swindon Town,3 - 5 - 2
+270,3916400,2022-08-13 09:00:00,Tom Nield,xG_for,0.46,A,8647,Crawley Town,3 - 4 - 2 - 1
+271,3916400,2022-08-13 09:00:00,Tom Nield,xG_ag,0.91,A,8647,Crawley Town,3 - 4 - 2 - 1
+272,3916406,2022-08-13 09:00:00,Craig Hicks,xG_for,0.36,A,9784,Crewe Alexandra,4 - 2 - 3 - 1
+273,3916406,2022-08-13 09:00:00,Craig Hicks,xG_ag,1.59,A,9784,Crewe Alexandra,4 - 2 - 3 - 1
+274,3916402,2022-08-13 09:00:00,Sunny Sukhvir Gill,xG_for,1.09,A,8488,Hartlepool United,3 - 4 - 1 - 2
+275,3916402,2022-08-13 09:00:00,Sunny Sukhvir Gill,xG_ag,2.21,A,8488,Hartlepool United,3 - 4 - 1 - 2
+276,3916595,2022-08-13 09:00:00,Will Finnie,xG_for,0.38,A,10262,Newport County,3 - 5 - 2
+277,3916595,2022-08-13 09:00:00,Will Finnie,xG_ag,0.84,A,10262,Newport County,3 - 5 - 2
+278,3916405,2022-08-13 09:00:00,David Rock,xG_for,0.06,A,8416,Colchester United,4 - 4 - 2
+279,3916405,2022-08-13 09:00:00,David Rock,xG_ag,0.98,A,8416,Colchester United,4 - 4 - 2
+280,3916398,2022-08-13 09:00:00,Andy Davies,xG_for,0.57,A,6350,Barrow,4 - 3 - 3
+281,3916398,2022-08-13 09:00:00,Andy Davies,xG_ag,0.7,A,6350,Barrow,4 - 3 - 3
+282,3916422,2022-08-16 13:45:00,Andy Haines,xG_for,0.73,A,10006,Walsall,3 - 4 - 1 - 2
+283,3916422,2022-08-16 13:45:00,Andy Haines,xG_ag,0.5,A,10006,Walsall,3 - 4 - 1 - 2
+284,3916423,2022-08-13 09:00:00,Charles Breakspear,xG_for,0.65,A,10253,Stevenage,3 - 5 - 2
+285,3916423,2022-08-13 09:00:00,Charles Breakspear,xG_ag,0.47,A,10253,Stevenage,3 - 5 - 2
+286,3916404,2022-08-13 09:00:00,Scott Oldham,xG_for,0.78,A,10173,Gillingham,4 - 2 - 3 - 1
+287,3916404,2022-08-13 09:00:00,Scott Oldham,xG_ag,0.88,A,10173,Gillingham,4 - 2 - 3 - 1
+288,3916420,2022-08-16 13:45:00,Steve Martin,xG_for,0.52,A,8651,Northampton Town,4 - 1 - 4 - 1
+289,3916420,2022-08-16 13:45:00,Steve Martin,xG_ag,0.7,A,8651,Northampton Town,4 - 1 - 4 - 1
+290,3916421,2022-08-16 13:45:00,Carl Brook,xG_for,1.11,A,8484,Bradford City,4 - 2 - 3 - 1
+291,3916421,2022-08-16 13:45:00,Carl Brook,xG_ag,0.56,A,8484,Bradford City,4 - 2 - 3 - 1
+292,3916419,2022-08-16 13:45:00,Thomas Parsons,xG_for,1.2,A,158316,Sutton United,4 - 4 - 2
+293,3916419,2022-08-16 13:45:00,Thomas Parsons,xG_ag,0.54,A,158316,Sutton United,4 - 4 - 2
+294,3916418,2022-08-16 13:45:00,Lee Swabey,xG_for,1.58,A,7946,Harrogate Town,3 - 4 - 2 - 1
+295,3916418,2022-08-16 13:45:00,Lee Swabey,xG_ag,0.95,A,7946,Harrogate Town,3 - 4 - 2 - 1
+296,3916412,2022-08-16 13:45:00,Declan Bourne,xG_for,0.16,A,10007,Stockport County,3 - 5 - 2
+297,3916412,2022-08-16 13:45:00,Declan Bourne,xG_ag,1.73,A,10007,Stockport County,3 - 5 - 2
+298,3916416,2022-08-16 13:45:00,Thomas Kirk,xG_for,0.53,A,8313,Tranmere Rovers,3 - 5 - 2
+299,3916416,2022-08-16 13:45:00,Thomas Kirk,xG_ag,0.38,A,8313,Tranmere Rovers,3 - 5 - 2
+300,3916415,2022-08-16 13:45:00,Ben Speedie,xG_for,0.54,A,158319,AFC Wimbledon,3 - 4 - 1 - 2
+301,3916415,2022-08-16 13:45:00,Ben Speedie,xG_ag,2.84,A,158319,AFC Wimbledon,3 - 4 - 1 - 2
+302,3916594,2022-08-16 13:45:00,Sunny Sukhvir Gill,xG_for,0.97,A,282326,Salford City,3 - 4 - 1 - 2
+303,3916594,2022-08-16 13:45:00,Sunny Sukhvir Gill,xG_ag,1.41,A,282326,Salford City,3 - 4 - 1 - 2
+304,3916414,2022-08-16 13:45:00,Tom Reeves,xG_for,0.18,A,8493,Rochdale,3 - 4 - 3
+305,3916414,2022-08-16 13:45:00,Tom Reeves,xG_ag,0.84,A,8493,Rochdale,3 - 4 - 3
+306,3916413,2022-08-16 13:45:00,Rob Lewis,xG_for,1.48,A,8351,Leyton Orient,4 - 3 - 3
+307,3916413,2022-08-16 13:45:00,Rob Lewis,xG_ag,0.71,A,8351,Leyton Orient,4 - 3 - 3
+308,3916434,2022-08-20 07:00:00,Scott Oldham,xG_for,0.89,A,8484,Bradford City,4 - 2 - 3 - 1
+309,3916434,2022-08-20 07:00:00,Scott Oldham,xG_ag,0.3,A,8484,Bradford City,4 - 2 - 3 - 1
+310,3916409,2022-08-20 09:00:00,David Webb,xG_for,0.62,A,8651,Northampton Town,4 - 1 - 4 - 1
+311,3916409,2022-08-20 09:00:00,David Webb,xG_ag,0.7,A,8651,Northampton Town,4 - 1 - 4 - 1
+312,3916407,2022-08-20 09:00:00,Thomas Parsons,xG_for,0.3,A,7946,Harrogate Town,3 - 5 - 2
+313,3916407,2022-08-20 09:00:00,Thomas Parsons,xG_ag,0.44,A,7946,Harrogate Town,3 - 5 - 2
+314,3916411,2022-08-20 09:00:00,Thomas Kirk,xG_for,1.09,A,8351,Leyton Orient,4 - 3 - 3
+315,3916411,2022-08-20 09:00:00,Thomas Kirk,xG_ag,0.51,A,8351,Leyton Orient,4 - 3 - 3
+316,3916408,2022-08-20 09:00:00,Andrew Kitchen,xG_for,1.63,A,282326,Salford City,3 - 4 - 1 - 2
+317,3916408,2022-08-20 09:00:00,Andrew Kitchen,xG_ag,0.61,A,282326,Salford City,3 - 4 - 1 - 2
+318,3916410,2022-08-20 09:00:00,James Oldham,xG_for,0.57,A,158319,AFC Wimbledon,3 - 5 - 2
+319,3916410,2022-08-20 09:00:00,James Oldham,xG_ag,0.58,A,158319,AFC Wimbledon,3 - 5 - 2
+320,3916424,2022-08-20 09:00:00,Robert Madley,xG_for,0.61,A,10006,Walsall,3 - 4 - 1 - 2
+321,3916424,2022-08-20 09:00:00,Robert Madley,xG_ag,0.49,A,10006,Walsall,3 - 4 - 1 - 2
+322,3916433,2022-08-20 09:00:00,Anthony Backhouse,xG_for,0.42,A,10007,Stockport County,3 - 5 - 2
+323,3916433,2022-08-20 09:00:00,Anthony Backhouse,xG_ag,1.4,A,10007,Stockport County,3 - 5 - 2
+324,3916435,2022-08-20 09:00:00,Martin Woods,xG_for,0.53,A,158316,Sutton United,4 - 4 - 2
+325,3916435,2022-08-20 09:00:00,Martin Woods,xG_ag,0.7,A,158316,Sutton United,4 - 4 - 2
+326,3916593,2022-08-20 09:00:00,Tom Nield,xG_for,0.39,A,8313,Tranmere Rovers,3 - 5 - 2
+327,3916593,2022-08-20 09:00:00,Tom Nield,xG_ag,1.55,A,8313,Tranmere Rovers,3 - 5 - 2
+328,3916457,2022-08-27 09:00:00,Sunny Sukhvir Gill,xG_for,0.41,A,9784,Crewe Alexandra,4 - 2 - 3 - 1
+329,3916457,2022-08-27 09:00:00,Sunny Sukhvir Gill,xG_ag,0.61,A,9784,Crewe Alexandra,4 - 2 - 3 - 1
+330,3916445,2022-08-20 09:00:00,Craig Hicks,xG_for,0.76,A,10196,Carlisle United,3 - 5 - 2
+331,3916445,2022-08-20 09:00:00,Craig Hicks,xG_ag,1.46,A,10196,Carlisle United,3 - 5 - 2
+332,3916458,2022-08-27 09:00:00,John Busby,xG_for,0.51,A,6350,Barrow,4 - 3 - 3
+333,3916458,2022-08-27 09:00:00,John Busby,xG_ag,0.61,A,6350,Barrow,4 - 3 - 3
+334,3916456,2022-08-27 09:00:00,Marc Edwards,xG_for,0.37,A,10173,Gillingham,3 - 4 - 3
+335,3916456,2022-08-27 09:00:00,Marc Edwards,xG_ag,0.26,A,10173,Gillingham,3 - 4 - 3
+336,3916446,2022-08-20 09:00:00,Samuel Barrott,xG_for,0.13,A,8493,Rochdale,4 - 3 - 3
+337,3916446,2022-08-20 09:00:00,Samuel Barrott,xG_ag,1.5,A,8493,Rochdale,4 - 3 - 3
+338,3916592,2022-08-27 09:00:00,Carl Boyeson,xG_for,1.43,A,10262,Newport County,3 - 5 - 2
+339,3916592,2022-08-27 09:00:00,Carl Boyeson,xG_ag,0.33,A,10262,Newport County,3 - 5 - 2
+340,3916453,2022-08-27 09:00:00,Alan Young,xG_for,0.24,A,8647,Crawley Town,3 - 4 - 3
+341,3916453,2022-08-27 09:00:00,Alan Young,xG_ag,0.47,A,8647,Crawley Town,3 - 4 - 3
+342,3916452,2022-08-27 09:00:00,Darren Drysdale,xG_for,0.31,A,10253,Stevenage,3 - 4 - 3
+343,3916452,2022-08-27 09:00:00,Darren Drysdale,xG_ag,0.59,A,10253,Stevenage,3 - 4 - 3
+344,3916455,2022-08-27 09:00:00,Declan Bourne,xG_for,1.66,A,8488,Hartlepool United,4 - 4 - 2
+345,3916455,2022-08-27 09:00:00,Declan Bourne,xG_ag,3.09,A,8488,Hartlepool United,4 - 4 - 2
+346,3916454,2022-08-27 09:00:00,Neil Hair,xG_for,1.24,A,9903,Doncaster Rovers,4 - 2 - 3 - 1
+347,3916454,2022-08-27 09:00:00,Neil Hair,xG_ag,0.54,A,9903,Doncaster Rovers,4 - 2 - 3 - 1
+348,3916451,2022-08-27 09:00:00,Samuel Allison,xG_for,0.59,A,9795,Swindon Town,3 - 4 - 3
+349,3916451,2022-08-27 09:00:00,Samuel Allison,xG_ag,1.03,A,9795,Swindon Town,3 - 4 - 3
+350,3916450,2022-08-27 09:00:00,Lee Swabey,xG_for,0.52,A,9818,Mansfield Town,3 - 5 - 2
+351,3916450,2022-08-27 09:00:00,Lee Swabey,xG_ag,1.98,A,9818,Mansfield Town,3 - 5 - 2
+352,3916449,2022-08-27 09:00:00,Rebecca Welch,xG_for,0.12,A,8416,Colchester United,4 - 2 - 3 - 1
+353,3916449,2022-08-27 09:00:00,Rebecca Welch,xG_ag,0.44,A,8416,Colchester United,4 - 2 - 3 - 1
+354,3916437,2022-09-03 09:00:00,Adam Herczeg,xG_for,0.56,A,8493,Rochdale,4 - 2 - 3 - 1
+355,3916437,2022-09-03 09:00:00,Adam Herczeg,xG_ag,1.56,A,8493,Rochdale,4 - 2 - 3 - 1
+356,3916438,2022-09-03 09:00:00,Thomas Parsons,xG_for,0.59,A,8488,Hartlepool United,3 - 4 - 1 - 2
+357,3916438,2022-09-03 09:00:00,Thomas Parsons,xG_ag,0.71,A,8488,Hartlepool United,3 - 4 - 1 - 2
+358,3916448,2022-08-27 09:00:00,Peter Wright,xG_for,1.24,A,10005,Grimsby Town,4 - 5 - 1
+359,3916448,2022-08-27 09:00:00,Peter Wright,xG_ag,1.32,A,10005,Grimsby Town,4 - 5 - 1
+360,3916447,2022-09-03 09:00:00,Marc Edwards,xG_for,1.97,A,10006,Walsall,4 - 2 - 3 - 1
+361,3916447,2022-09-03 09:00:00,Marc Edwards,xG_ag,0.89,A,10006,Walsall,4 - 2 - 3 - 1
+362,3916439,2022-09-03 09:00:00,Tom Nield,xG_for,0.83,A,10253,Stevenage,3 - 5 - 2
+363,3916439,2022-09-03 09:00:00,Tom Nield,xG_ag,1.31,A,10253,Stevenage,3 - 5 - 2
+364,3916440,2022-09-03 09:00:00,Thomas Kirk,xG_for,2.04,A,9818,Mansfield Town,3 - 5 - 1 - 1
+365,3916440,2022-09-03 09:00:00,Thomas Kirk,xG_ag,1.28,A,9818,Mansfield Town,3 - 5 - 1 - 1
+366,3916436,2022-09-03 09:00:00,Martin Woods,xG_for,1.49,A,9795,Swindon Town,4 - 3 - 3
+367,3916436,2022-09-03 09:00:00,Martin Woods,xG_ag,0.37,A,9795,Swindon Town,4 - 3 - 3
+368,3916441,2022-09-03 09:00:00,David Webb,xG_for,0.55,A,8313,Tranmere Rovers,4 - 3 - 1 - 2
+369,3916441,2022-09-03 09:00:00,David Webb,xG_ag,0.72,A,8313,Tranmere Rovers,4 - 3 - 1 - 2
+370,3916443,2022-09-03 09:00:00,Seb Stockbridge,xG_for,0.69,A,8647,Crawley Town,3 - 4 - 3
+371,3916443,2022-09-03 09:00:00,Seb Stockbridge,xG_ag,1.41,A,8647,Crawley Town,3 - 4 - 3
+372,3916444,2022-09-03 09:00:00,Sunny Sukhvir Gill,xG_for,0.49,A,158319,AFC Wimbledon,3 - 5 - 2
+373,3916444,2022-09-03 09:00:00,Sunny Sukhvir Gill,xG_ag,1.08,A,158319,AFC Wimbledon,3 - 5 - 2
+374,3916591,2022-09-03 09:00:00,Scott Oldham,xG_for,1.47,A,10005,Grimsby Town,4 - 4 - 2
+375,3916591,2022-09-03 09:00:00,Scott Oldham,xG_ag,0.57,A,10005,Grimsby Town,4 - 4 - 2
+376,3916442,2022-09-03 09:00:00,Chris Pollard,xG_for,0.85,A,6350,Barrow,4 - 3 - 3
+377,3916442,2022-09-03 09:00:00,Chris Pollard,xG_ag,0.78,A,6350,Barrow,4 - 3 - 3
+378,3916459,2022-09-03 09:00:00,Neil Hair,xG_for,1.06,A,7946,Harrogate Town,4 - 4 - 2
+379,3916459,2022-09-03 09:00:00,Neil Hair,xG_ag,1.8,A,7946,Harrogate Town,4 - 4 - 2
+380,3916464,2022-09-13 13:45:00,Scott Oldham,xG_for,0.46,A,9903,Doncaster Rovers,4 - 2 - 3 - 1
+381,3916464,2022-09-13 13:45:00,Scott Oldham,xG_ag,1.64,A,9903,Doncaster Rovers,4 - 2 - 3 - 1
+382,3916465,2022-09-13 13:45:00,Charles Breakspear,xG_for,0.62,A,8651,Northampton Town,4 - 2 - 3 - 1
+383,3916465,2022-09-13 13:45:00,Charles Breakspear,xG_ag,0.97,A,8651,Northampton Town,4 - 2 - 3 - 1
+384,3916463,2022-09-13 13:45:00,Neil Hair,xG_for,1.09,A,10007,Stockport County,4 - 1 - 2 - 1 - 2
+385,3916463,2022-09-13 13:45:00,Neil Hair,xG_ag,0.93,A,10007,Stockport County,4 - 1 - 2 - 1 - 2
+386,3916486,2022-09-13 13:45:00,Martin Coy,xG_for,1.38,A,9784,Crewe Alexandra,4 - 2 - 3 - 1
+387,3916486,2022-09-13 13:45:00,Martin Coy,xG_ag,1.61,A,9784,Crewe Alexandra,4 - 2 - 3 - 1
+388,3916462,2022-09-13 13:45:00,Andy Haines,xG_for,1.2,A,10173,Gillingham,4 - 2 - 3 - 1
+389,3916462,2022-09-13 13:45:00,Andy Haines,xG_ag,1.37,A,10173,Gillingham,4 - 2 - 3 - 1
+390,3916482,2022-09-13 13:45:00,Simon Mather,xG_for,1.26,A,8351,Leyton Orient,4 - 3 - 3
+391,3916482,2022-09-13 13:45:00,Simon Mather,xG_ag,1.28,A,8351,Leyton Orient,4 - 3 - 3
+392,3916483,2022-09-13 13:45:00,Samuel Allison,xG_for,1.16,A,10196,Carlisle United,3 - 5 - 2
+393,3916483,2022-09-13 13:45:00,Samuel Allison,xG_ag,0.66,A,10196,Carlisle United,3 - 5 - 2
+394,3916484,2022-09-13 13:45:00,Ben Toner,xG_for,1.57,A,282326,Salford City,3 - 4 - 1 - 2
+395,3916484,2022-09-13 13:45:00,Ben Toner,xG_ag,1.1,A,282326,Salford City,3 - 4 - 1 - 2
+396,3916589,2022-09-13 13:45:00,Oliver Langford,xG_for,0.41,A,10262,Newport County,3 - 5 - 2
+397,3916589,2022-09-13 13:45:00,Oliver Langford,xG_ag,1.08,A,10262,Newport County,3 - 5 - 2
+398,3916481,2022-09-13 13:45:00,Darren Handley,xG_for,1.51,A,158316,Sutton United,4 - 4 - 2
+399,3916481,2022-09-13 13:45:00,Darren Handley,xG_ag,1.57,A,158316,Sutton United,4 - 4 - 2
+400,3916480,2022-09-13 13:45:00,Adam Herczeg,xG_for,1.35,A,8484,Bradford City,4 - 2 - 3 - 1
+401,3916480,2022-09-13 13:45:00,Adam Herczeg,xG_ag,0.54,A,8484,Bradford City,4 - 2 - 3 - 1
+402,3916475,2022-09-17 09:00:00,Lee Swabey,xG_for,0.84,A,10253,Stevenage,3 - 4 - 1 - 2
+403,3916475,2022-09-17 09:00:00,Lee Swabey,xG_ag,1.53,A,10253,Stevenage,3 - 4 - 1 - 2
+404,3916485,2022-09-17 09:00:00,Sunny Sukhvir Gill,xG_for,0.74,A,10005,Grimsby Town,4 - 4 - 2
+405,3916485,2022-09-17 09:00:00,Sunny Sukhvir Gill,xG_ag,0.54,A,10005,Grimsby Town,4 - 4 - 2
+406,3916479,2022-09-13 13:45:00,Carl Boyeson,xG_for,0.6,A,8416,Colchester United,3 - 4 - 1 - 2
+407,3916479,2022-09-13 13:45:00,Carl Boyeson,xG_ag,0.77,A,8416,Colchester United,3 - 4 - 1 - 2
+408,3916476,2022-09-17 09:00:00,Andy Haines,xG_for,0.7,A,158319,AFC Wimbledon,3 - 4 - 3
+409,3916476,2022-09-17 09:00:00,Andy Haines,xG_ag,1.39,A,158319,AFC Wimbledon,3 - 4 - 3
+410,3916477,2022-09-17 09:00:00,Rebecca Welch,xG_for,0.61,A,8647,Crawley Town,3 - 5 - 2
+411,3916477,2022-09-17 09:00:00,Rebecca Welch,xG_ag,0.75,A,8647,Crawley Town,3 - 5 - 2
+412,3916478,2022-09-17 09:00:00,Charles Breakspear,xG_for,0.48,A,9795,Swindon Town,4 - 3 - 3
+413,3916478,2022-09-17 09:00:00,Charles Breakspear,xG_ag,0.32,A,9795,Swindon Town,4 - 3 - 3
+414,3916487,2022-09-17 09:00:00,Tom Reeves,xG_for,1.91,A,9818,Mansfield Town,3 - 5 - 1 - 1
+415,3916487,2022-09-17 09:00:00,Tom Reeves,xG_ag,0.21,A,9818,Mansfield Town,3 - 5 - 1 - 1
+416,3916499,2022-09-17 09:00:00,Andy Davies,xG_for,0.28,A,10006,Walsall,4 - 4 - 2
+417,3916499,2022-09-17 09:00:00,Andy Davies,xG_ag,1.28,A,10006,Walsall,4 - 4 - 2
+418,3916588,2022-09-17 09:00:00,James Oldham,xG_for,1.29,A,6350,Barrow,4 - 3 - 3
+419,3916588,2022-09-17 09:00:00,James Oldham,xG_ag,0.53,A,6350,Barrow,4 - 3 - 3
+420,3916501,2022-09-17 09:00:00,David Rock,xG_for,1.35,A,8313,Tranmere Rovers,4 - 4 - 2
+421,3916501,2022-09-17 09:00:00,David Rock,xG_ag,0.42,A,8313,Tranmere Rovers,4 - 4 - 2
+422,3916500,2022-09-17 09:00:00,Sam Purkiss,xG_for,0.34,A,8493,Rochdale,4 - 2 - 3 - 1
+423,3916500,2022-09-17 09:00:00,Sam Purkiss,xG_ag,2.17,A,8493,Rochdale,4 - 2 - 3 - 1
+424,3916503,2022-09-17 09:00:00,Will Finnie,xG_for,0.31,A,8488,Hartlepool United,3 - 4 - 2 - 1
+425,3916503,2022-09-17 09:00:00,Will Finnie,xG_ag,1.46,A,8488,Hartlepool United,3 - 4 - 2 - 1
+426,3916502,2022-09-17 09:00:00,Ross Joyce,xG_for,0.49,A,7946,Harrogate Town,4 - 2 - 3 - 1
+427,3916502,2022-09-17 09:00:00,Ross Joyce,xG_ag,0.67,A,7946,Harrogate Town,4 - 2 - 3 - 1
