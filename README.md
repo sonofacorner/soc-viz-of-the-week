@@ -3,6 +3,7 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [xG Rolling Charts for the Premier League (09262022)](#xg-rolling-charts-for-the-premier-league-09262022)
     - [League Two xG Scatter Plots (09192022)](#league-two-xg-scatter-plots-09192022)
     - [Swiss Super League | xGOT - xG Differential (09122022)](#swiss-super-league--xgot---xg-differential-09122022)
     - [Brighton's Touchmap vs. Leicester (09052022)](#brightons-touchmap-vs-leicester-09052022)
@@ -29,6 +30,10 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### xG Rolling Charts for the Premier League ([09262022](09262022/))
+
+<img src ="09262022\figures\09262022_epl_xG_rolling_gradient.png" width="60%">
 
 ### League Two xG Scatter Plots ([09192022](09192022/))
 
