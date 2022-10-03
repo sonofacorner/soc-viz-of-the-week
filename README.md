@@ -3,6 +3,7 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [Which Teams are Failing to Meet Expectations (10032022)](#which-teams-are-failing-to-meet-expectations-10032022)
     - [xG Rolling Charts for the Premier League (09262022)](#xg-rolling-charts-for-the-premier-league-09262022)
     - [League Two xG Scatter Plots (09192022)](#league-two-xg-scatter-plots-09192022)
     - [Swiss Super League | xGOT - xG Differential (09122022)](#swiss-super-league--xgot---xg-differential-09122022)
@@ -30,6 +31,10 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### Which Teams are Failing to Meet Expectations ([10032022](10032022/))
+
+<img src ="09262022\figures\10032022_underperformers.png" width="60%">
 
 ### xG Rolling Charts for the Premier League ([09262022](09262022/))
 
