@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ### Which Teams are Failing to Meet Expectations ([10032022](10032022/))
 
-<img src ="09262022\figures\10032022_underperformers.png" width="60%">
+<img src ="10032022\figures\10032022_underperformers.png" width="60%">
 
 ### xG Rolling Charts for the Premier League ([09262022](09262022/))
 
