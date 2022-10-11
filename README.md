@@ -3,6 +3,7 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [La Liga's Gatekeepers (10102022)](#la-ligas-gatekeepers-10102022)
     - [Which Teams are Failing to Meet Expectations (10032022)](#which-teams-are-failing-to-meet-expectations-10032022)
     - [xG Rolling Charts for the Premier League (09262022)](#xg-rolling-charts-for-the-premier-league-09262022)
     - [League Two xG Scatter Plots (09192022)](#league-two-xg-scatter-plots-09192022)
@@ -31,6 +32,10 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### La Liga's Gatekeepers ([10102022](10102022/))
+
+<img src ="10102022\figures\10102022_laliga_gk.png" width="60%">
 
 ### Which Teams are Failing to Meet Expectations ([10032022](10032022/))
 
