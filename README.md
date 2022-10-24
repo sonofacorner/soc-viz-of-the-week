@@ -3,6 +3,7 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [Contested Zones in Serie A (10242022)](#contested-zones-in-serie-a-10242022)
     - [Liga MX's Top Shooters (10172022)](#liga-mxs-top-shooters-10172022)
     - [La Liga's Gatekeepers (10102022)](#la-ligas-gatekeepers-10102022)
     - [Which Teams are Failing to Meet Expectations (10032022)](#which-teams-are-failing-to-meet-expectations-10032022)
@@ -33,6 +34,10 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### Contested Zones in Serie A ([10242022](10242022/))
+
+<img src ="10242022\figures\10242022_seriea_zones.png" width="60%">
 
 ### Liga MX's Top Shooters ([10172022](10172022/))
 
