@@ -3,6 +3,7 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [Premier League Shot Simulation (10312022)](#premier-league-shot-simulation-10312022)
     - [Contested Zones in Serie A (10242022)](#contested-zones-in-serie-a-10242022)
     - [Liga MX's Top Shooters (10172022)](#liga-mxs-top-shooters-10172022)
     - [La Liga's Gatekeepers (10102022)](#la-ligas-gatekeepers-10102022)
@@ -34,6 +35,10 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### Premier League Shot Simulation ([10312022](10312022/))
+
+<img src ="10312022\figures\10312022_epl_goals.png" width="60%">
 
 ### Contested Zones in Serie A ([10242022](10242022/))
 
