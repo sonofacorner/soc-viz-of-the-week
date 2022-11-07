@@ -1,0 +1,2634 @@
+,team_name,team_id,player_id,player_first_name,player_last_name,minutes,long_balls_att,long_balls_succ
+1,Crystal Palace,9826,163616,Luka,Milivojevic,15,1,0
+2,Crystal Palace,9826,1308370,Malcolm,Ebiowei,4,1,1
+0,Crystal Palace,9826,157838,Nathaniel,Clyne,90,2,0
+1,Crystal Palace,9826,503659,Joachim,Andersen,90,21,12
+2,Crystal Palace,9826,844425,Marc,Guehi,90,12,3
+3,Crystal Palace,9826,1120224,Tyrick,Mitchell,90,7,3
+4,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,75,3,1
+5,Crystal Palace,9826,214570,Jeffrey,Schlupp,86,3,0
+6,Crystal Palace,9826,154280,Jordan,Ayew,90,1,1
+7,Crystal Palace,9826,818975,Eberechi,Eze,86,2,2
+8,Crystal Palace,9826,198510,Wilfried,Zaha,90,1,0
+11,Arsenal,9825,1021586,Gabriel,Martinelli,90,3,3
+12,Arsenal,9825,534670,Martin,Ødegaard,89,1,1
+14,Arsenal,9825,207236,Granit,Xhaka,90,3,1
+15,Arsenal,9825,434325,Thomas,Partey,90,5,3
+16,Arsenal,9825,623621,Oleksandr,Zinchenko,83,3,1
+17,Arsenal,9825,795179,,Gabriel,90,9,5
+18,Arsenal,9825,955406,William,Saliba,90,4,2
+19,Arsenal,9825,776151,Ben,White,90,4,1
+3,Liverpool,8650,950561,Darwin,Nunez,39,1,1
+5,Liverpool,8650,38807,James,Milner,31,3,1
+0,Fulham,9879,469804,Kenny,Tete,90,2,1
+1,Fulham,9879,683402,Tosin,Adarabioyo,90,7,3
+2,Fulham,9879,198444,Tim,Ream,90,8,4
+3,Fulham,9879,662428,Antonee,Robinson,90,7,1
+4,Fulham,9879,502420,Harrison,Reed,90,4,1
+5,Fulham,9879,524434,Joao,Palhinha,90,3,1
+6,Fulham,9879,240478,Neeskens,Kebano,66,1,0
+7,Fulham,9879,575779,Andreas,Pereira,89,2,1
+9,Fulham,9879,351860,Aleksandar,Mitrovic,90,1,1
+10,Liverpool,8650,860914,Luis,Diaz,78,1,1
+11,Liverpool,8650,242709,Roberto,Firmino,51,1,1
+12,Liverpool,8650,292462,Mohamed,Salah,90,2,1
+13,Liverpool,8650,172949,Thiago,Alcántara,51,10,9
+14,Liverpool,8650,359188,,Fabinho,59,6,4
+15,Liverpool,8650,156008,Jordan,Henderson,90,8,5
+16,Liverpool,8650,357880,Andrew,Robertson,90,4,1
+17,Liverpool,8650,209405,Virgil,van Dijk,90,14,7
+18,Liverpool,8650,171698,Joel,Matip,90,6,3
+19,Liverpool,8650,760712,Trent,Alexander-Arnold,90,14,5
+1,AFC Bournemouth,8678,439369,Ryan,Christie,4,1,0
+3,Aston Villa,10252,610184,Emiliano,Buendia,45,2,2
+6,Aston Villa,10252,787350,Douglas,Luiz,8,4,4
+0,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,6,1
+1,AFC Bournemouth,8678,819762,Chris,Mepham,90,9,6
+2,AFC Bournemouth,8678,819215,Lloyd,Kelly,90,7,2
+3,AFC Bournemouth,8678,160447,Adam,Smith,90,5,3
+4,AFC Bournemouth,8678,610267,Ben,Pearson,72,6,4
+5,AFC Bournemouth,8678,532743,Philip,Billing,90,3,1
+6,AFC Bournemouth,8678,789630,Marcus,Tavernier,86,2,1
+7,AFC Bournemouth,8678,982633,Jordan,Zemura,90,5,2
+8,AFC Bournemouth,8678,469202,Kieffer,Moore,90,2,1
+9,AFC Bournemouth,8678,591734,Dominic,Solanke,89,1,1
+10,Aston Villa,10252,184536,Philippe,Coutinho,81,1,0
+12,Aston Villa,10252,671331,Leon,Bailey,90,3,2
+13,Aston Villa,10252,1021929,Jacob,Ramsey,45,4,3
+14,Aston Villa,10252,816325,Boubacar,Kamara,82,6,5
+15,Aston Villa,10252,356406,John,McGinn,90,7,4
+16,Aston Villa,10252,210111,Lucas,Digne,90,6,3
+17,Aston Villa,10252,570434,Diego,Carlos,90,9,5
+18,Aston Villa,10252,710159,Ezri,Konsa,90,2,1
+19,Aston Villa,10252,729731,Matty,Cash,90,8,4
+0,Leeds United,8463,722207,Rasmus,Kristensen,90,5,2
+1,Leeds United,8463,628201,Robin,Koch,90,6,2
+2,Leeds United,8463,420568,Diego,Llorente,90,6,3
+3,Leeds United,8463,796974,Pascal,Struijk,90,4,0
+4,Leeds United,8463,640220,Marc,Roca,73,5,3
+5,Leeds United,8463,729769,Tyler,Adams,90,2,1
+7,Leeds United,8463,193869,,Rodrigo,65,4,2
+8,Leeds United,8463,751649,Jack,Harrison,90,4,3
+11,Wolverhampton Wanderers,8602,843040,Pedro,Neto,90,3,2
+12,Wolverhampton Wanderers,8602,789502,Morgan,Gibbs-White,90,3,2
+14,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,15,12
+15,Wolverhampton Wanderers,8602,424129,Leander,Dendoncker,90,1,1
+16,Wolverhampton Wanderers,8602,933845,Rayan Ait,Nouri,90,4,1
+17,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,9,4
+18,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,10,6
+19,Wolverhampton Wanderers,8602,360918,,Jonny,90,3,2
+0,Newcastle United,10261,820024,Sean,Longstaff,10,2,0
+0,Newcastle United,10261,191869,Kieran,Trippier,90,5,4
+1,Newcastle United,10261,189982,Fabian,Schär,90,9,3
+2,Newcastle United,10261,188058,Daniel,Burn,90,2,2
+3,Newcastle United,10261,538112,Matt,Targett,90,5,1
+4,Newcastle United,10261,860975,Joseph,Willock,80,2,2
+5,Newcastle United,10261,850354,Bruno,Guimaraes,89,7,2
+6,Newcastle United,10261,535936,,Joelinton,90,3,3
+8,Newcastle United,10261,184321,Callum,Wilson,89,1,0
+10,Nottingham Forest,10203,796747,Sam,Surridge,63,1,1
+12,Nottingham Forest,10203,575804,Harry,Toffolo,90,8,1
+13,Nottingham Forest,10203,299215,Jesse,Lingard,90,2,2
+14,Nottingham Forest,10203,160243,Jack,Colback,90,2,1
+15,Nottingham Forest,10203,914134,Lewis,O'Brien,75,3,0
+16,Nottingham Forest,10203,1078788,Neco,Williams,90,5,1
+17,Nottingham Forest,10203,551805,Scott,McKenna,90,4,2
+18,Nottingham Forest,10203,592102,Moussa,Niakhaté,83,4,2
+19,Nottingham Forest,10203,716687,Joe,Worrall,90,5,3
+0,Tottenham Hotspur,8586,163670,Ivan,Perisic,24,2,0
+3,Tottenham Hotspur,8586,488412,Clément,Lenglet,4,1,1
+5,Southampton,8466,237563,Stuart,Armstrong,45,1,0
+6,Southampton,8466,215387,Jack,Stephens,45,1,1
+0,Tottenham Hotspur,8586,789066,Cristian,Romero,90,11,8
+1,Tottenham Hotspur,8586,361315,Eric,Dier,90,15,11
+2,Tottenham Hotspur,8586,276121,Ben,Davies,86,6,5
+3,Tottenham Hotspur,8586,797908,Emerson,Royal,87,5,2
+4,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,11,8
+5,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,86,7,5
+6,Tottenham Hotspur,8586,773991,Ryan,Sessegnon,66,2,0
+7,Tottenham Hotspur,8586,935379,Dejan,Kulusevski,86,1,1
+8,Tottenham Hotspur,8586,212867,Heung-Min,Son,90,1,1
+9,Tottenham Hotspur,8586,194165,Harry,Kane,90,1,0
+12,Southampton,8466,862645,Moussa,Djenepo,72,3,0
+13,Southampton,8466,1190867,Romeo,Lavia,90,3,3
+15,Southampton,8466,279490,James,Ward-Prowse,90,1,1
+16,Southampton,8466,734042,Kyle,Walker-Peters,89,1,0
+17,Southampton,8466,938247,Mohammed,Salisu,90,9,4
+18,Southampton,8466,490868,Jan,Bednarek,90,4,2
+19,Southampton,8466,789596,Yan,Valery,45,2,0
+0,Everton,8668,603329,Mason,Holgate,72,9,2
+3,Chelsea,8455,688295,Christian,Pulisic,25,1,0
+6,Chelsea,8455,873289,Marc,Cucurella,15,1,0
+0,Everton,8668,662936,Ben,Godfrey,18,1,1
+1,Everton,8668,496042,Yerry,Mina,70,5,4
+2,Everton,8668,243138,James,Tarkowski,90,8,4
+3,Everton,8668,1112684,Nathan,Patterson,90,1,1
+4,Everton,8668,352887,Abdoulaye,Doucouré,90,1,1
+5,Everton,8668,604785,Alex,Iwobi,90,7,3
+6,Everton,8668,874025,Vitalii,Mykolenko,90,3,1
+8,Everton,8668,492586,Demarai,Gray,90,1,0
+9,Everton,8668,906937,Anthony,Gordon,90,1,1
+11,Chelsea,8455,246575,Raheem,Sterling,90,1,0
+13,Chelsea,8455,672469,Ben,Chilwell,65,3,0
+14,Chelsea,8455,282775,,Jorginho,89,2,1
+15,Chelsea,8455,319300,N'Golo,Kanté,90,6,2
+16,Chelsea,8455,807729,Reece,James,90,3,2
+17,Chelsea,8455,210428,Kalidou,Koulibaly,75,3,1
+18,Chelsea,8455,80562,Thiago,Silva,90,11,6
+19,Chelsea,8455,72541,César,Azpilicueta,90,2,1
+1,Brentford,9937,759566,Joshua,Dasilva,31,3,3
+2,Brentford,9937,1010426,Keane,Lewis-Potter,31,1,0
+3,Brentford,9937,865131,Shandon,Baptiste,17,1,1
+5,Brentford,9937,659018,Mads,Bech,7,1,1
+0,Leicester City,8197,917802,Wesley,Fofana,90,3,1
+1,Leicester City,8197,43248,Jonny,Evans,90,1,0
+2,Leicester City,8197,436036,Daniel,Amartey,90,3,3
+3,Leicester City,8197,465750,Timothy,Castagne,90,1,0
+4,Leicester City,8197,465960,Youri,Tielemans,90,3,2
+5,Leicester City,8197,533228,Wilfred,Ndidi,90,2,0
+6,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,73,5,5
+8,Leicester City,8197,493165,James,Maddison,90,5,4
+12,Brentford,9937,923312,Bryan,Mbeumo,90,3,2
+13,Brentford,9937,650616,Mathias,Jensen,59,8,7
+14,Brentford,9937,266520,Christian,Nørgaard,73,2,2
+15,Brentford,9937,688273,Vitaly,Janelt,90,4,3
+16,Brentford,9937,562892,Rico,Henry,90,3,0
+17,Brentford,9937,240538,Ben,Mee,59,5,3
+18,Brentford,9937,174031,Pontus,Jansson,90,5,2
+19,Brentford,9937,1002039,Aaron,Hickey,83,7,3
+3,Manchester United,10260,1050166,Anthony,Elanga,1,1,1
+0,Manchester United,10260,751550,Diogo,Dalot,90,5,1
+1,Manchester United,10260,255610,Harry,Maguire,90,13,7
+2,Manchester United,10260,847983,Lisandro,Martinez,90,7,5
+3,Manchester United,10260,362694,Luke,Shaw,89,3,1
+4,Manchester United,10260,843099,Scott,McTominay,78,2,2
+5,Manchester United,10260,322049,,Fred,53,1,0
+6,Manchester United,10260,846381,Jadon,Sancho,89,3,3
+7,Manchester United,10260,422685,Bruno,Fernandes,89,5,3
+9,Manchester United,10260,157723,Christian,Eriksen,90,7,2
+12,Brighton & Hove Albion,10204,167008,Pascal,Gross,90,4,0
+13,Brighton & Hove Albion,10204,318615,Leandro,Trossard,75,1,1
+14,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,90,3,1
+15,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,2,2
+16,Brighton & Hove Albion,10204,416850,Solly,March,89,7,3
+17,Brighton & Hove Albion,10204,303346,Adam,Webster,90,6,1
+18,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,12,2
+19,Brighton & Hove Albion,10204,304455,Joel,Veltman,90,5,1
+0,West Ham United,8654,721089,Gianluca,Scamacca,33,1,1
+5,Manchester City,8456,488139,Bernardo,Silva,12,1,1
+8,Manchester City,8456,609755,Kalvin,Phillips,1,1,0
+0,West Ham United,8654,307317,Vladimir,Coufal,90,3,0
+1,West Ham United,8654,770267,Ben,Johnson,90,12,5
+2,West Ham United,8654,281207,Kurt,Zouma,90,4,1
+3,West Ham United,8654,155782,Aaron,Cresswell,90,2,1
+4,West Ham United,8654,524437,Tomas,Soucek,90,3,1
+5,West Ham United,8654,654096,Declan,Rice,90,3,2
+6,West Ham United,8654,523825,Jarrod,Bowen,89,1,0
+7,West Ham United,8654,210276,Manuel,Lanzini,57,1,0
+8,West Ham United,8654,683450,Pablo,Fornals,89,2,1
+10,Manchester City,8456,312765,Jack,Grealish,90,6,4
+12,Manchester City,8456,815006,Phil,Foden,88,3,3
+13,Manchester City,8456,178818,Ilkay,Gündogan,78,3,3
+14,Manchester City,8456,675088,,Rodri,89,4,3
+15,Manchester City,8456,169200,Kevin,De Bruyne,88,4,1
+16,Manchester City,8456,361757,Joao,Cancelo,90,7,5
+17,Manchester City,8456,417068,Nathan,Aké,90,9,4
+18,Manchester City,8456,614006,Ruben,Dias,90,5,5
+19,Manchester City,8456,159833,Kyle,Walker,90,6,4
+0,Aston Villa,10252,610184,Emiliano,Buendia,30,2,2
+5,Everton,8668,742405,Tom,Davies,55,7,6
+0,Aston Villa,10252,729731,Matty,Cash,89,6,2
+1,Aston Villa,10252,570434,Diego,Carlos,89,4,1
+2,Aston Villa,10252,419664,Tyrone,Mings,90,5,1
+3,Aston Villa,10252,210111,Lucas,Digne,90,4,0
+4,Aston Villa,10252,356406,John,McGinn,90,5,3
+5,Aston Villa,10252,816325,Boubacar,Kamara,90,9,5
+6,Aston Villa,10252,1021929,Jacob,Ramsey,89,1,0
+7,Aston Villa,10252,184536,Philippe,Coutinho,60,2,1
+8,Aston Villa,10252,214426,Danny,Ings,78,2,0
+11,Everton,8668,906937,Anthony,Gordon,90,1,0
+13,Everton,8668,874025,Vitalii,Mykolenko,90,5,1
+14,Everton,8668,604785,Alex,Iwobi,90,6,4
+15,Everton,8668,352887,Abdoulaye,Doucouré,35,1,0
+16,Everton,8668,1112684,Nathan,Patterson,90,2,1
+17,Everton,8668,243138,James,Tarkowski,90,8,5
+18,Everton,8668,247761,Conor,Coady,81,11,7
+19,Everton,8668,603329,Mason,Holgate,90,10,6
+1,Arsenal,9825,582499,Kieran,Tierney,13,3,0
+5,Leicester City,8197,282012,Dennis,Praet,27,1,1
+0,Arsenal,9825,776151,Ben,White,75,3,0
+1,Arsenal,9825,955406,William,Saliba,90,3,1
+2,Arsenal,9825,795179,,Gabriel,90,2,0
+3,Arsenal,9825,623621,Oleksandr,Zinchenko,77,1,0
+4,Arsenal,9825,434325,Thomas,Partey,90,8,3
+5,Arsenal,9825,207236,Granit,Xhaka,90,2,2
+6,Arsenal,9825,961995,Bukayo,Saka,84,1,1
+7,Arsenal,9825,534670,Martin,Ødegaard,90,1,0
+8,Arsenal,9825,1021586,Gabriel,Martinelli,90,1,1
+9,Arsenal,9825,576165,Gabriel,Jesus,84,1,1
+11,Leicester City,8197,493165,James,Maddison,90,4,4
+12,Leicester City,8197,710158,James,Justin,90,5,3
+13,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,90,5,1
+14,Leicester City,8197,533228,Wilfred,Ndidi,90,3,1
+15,Leicester City,8197,465960,Youri,Tielemans,63,5,2
+16,Leicester City,8197,465750,Timothy,Castagne,90,5,4
+17,Leicester City,8197,436036,Daniel,Amartey,63,6,3
+18,Leicester City,8197,43248,Jonny,Evans,90,5,2
+19,Leicester City,8197,917802,Wesley,Fofana,90,5,1
+0,Brighton & Hove Albion,10204,304455,Joel,Veltman,90,2,0
+1,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,8,4
+2,Brighton & Hove Albion,10204,303346,Adam,Webster,90,3,1
+3,Brighton & Hove Albion,10204,416850,Solly,March,74,2,1
+4,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,9,7
+5,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,90,6,2
+6,Brighton & Hove Albion,10204,318615,Leandro,Trossard,75,3,2
+7,Brighton & Hove Albion,10204,37234,Adam,Lallana,65,1,0
+8,Brighton & Hove Albion,10204,167008,Pascal,Gross,90,5,3
+10,Newcastle United,10261,466482,Allan,Saint-Maximin,75,3,2
+12,Newcastle United,10261,442277,Miguel,Almiron,90,1,0
+13,Newcastle United,10261,535936,,Joelinton,90,1,1
+14,Newcastle United,10261,850354,Bruno,Guimaraes,90,3,0
+15,Newcastle United,10261,860975,Joseph,Willock,76,3,2
+16,Newcastle United,10261,188058,Daniel,Burn,90,6,2
+17,Newcastle United,10261,956682,Sven,Botman,90,4,1
+18,Newcastle United,10261,189982,Fabian,Schär,90,11,4
+19,Newcastle United,10261,191869,Kieran,Trippier,90,9,1
+0,Manchester City,8456,312765,Jack,Grealish,45,1,1
+1,Manchester City,8456,263653,John,Stones,26,1,1
+5,AFC Bournemouth,8678,160496,Junior,Stanislas,27,1,0
+6,AFC Bournemouth,8678,532743,Philip,Billing,27,1,1
+7,AFC Bournemouth,8678,785411,Marcos,Senesi,10,1,0
+0,Manchester City,8456,159833,Kyle,Walker,82,7,3
+1,Manchester City,8456,614006,Ruben,Dias,64,3,1
+3,Manchester City,8456,361757,Joao,Cancelo,90,2,1
+4,Manchester City,8456,169200,Kevin,De Bruyne,90,2,2
+5,Manchester City,8456,675088,,Rodri,90,6,5
+6,Manchester City,8456,178818,Ilkay,Gündogan,65,2,2
+7,Manchester City,8456,278343,Riyad,Mahrez,90,8,7
+9,Manchester City,8456,815006,Phil,Foden,45,2,1
+10,AFC Bournemouth,8678,469202,Kieffer,Moore,89,1,1
+11,AFC Bournemouth,8678,439369,Ryan,Christie,63,2,0
+12,AFC Bournemouth,8678,789630,Marcus,Tavernier,80,4,4
+13,AFC Bournemouth,8678,564794,Jack,Stacey,90,5,0
+14,AFC Bournemouth,8678,562724,Lewis,Cook,63,1,0
+15,AFC Bournemouth,8678,610267,Ben,Pearson,90,3,3
+16,AFC Bournemouth,8678,160447,Adam,Smith,90,9,4
+17,AFC Bournemouth,8678,819215,Lloyd,Kelly,90,6,3
+18,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,1,0
+19,AFC Bournemouth,8678,819762,Chris,Mepham,90,4,1
+0,Southampton,8466,519835,Adam,Armstrong,29,1,0
+6,Leeds United,8463,159342,Mateusz,Klich,6,1,0
+0,Southampton,8466,951765,Armel,Bella-Kotchap,90,3,1
+1,Southampton,8466,490868,Jan,Bednarek,70,8,3
+2,Southampton,8466,938247,Mohammed,Salisu,90,11,4
+3,Southampton,8466,734042,Kyle,Walker-Peters,90,2,2
+4,Southampton,8466,1190867,Romeo,Lavia,90,5,4
+5,Southampton,8466,279490,James,Ward-Prowse,90,3,2
+6,Southampton,8466,862645,Moussa,Djenepo,89,2,0
+8,Southampton,8466,261936,Mohamed,Elyounoussi,61,3,2
+9,Southampton,8466,599353,Che,Adams,90,1,0
+12,Leeds United,8463,193869,,Rodrigo,90,4,3
+13,Leeds United,8463,952322,Brenden,Aaronson,90,3,2
+14,Leeds United,8463,729769,Tyler,Adams,90,10,3
+15,Leeds United,8463,640220,Marc,Roca,88,5,3
+16,Leeds United,8463,796974,Pascal,Struijk,90,4,1
+17,Leeds United,8463,420568,Diego,Llorente,90,8,4
+18,Leeds United,8463,628201,Robin,Koch,90,10,3
+19,Leeds United,8463,722207,Rasmus,Kristensen,90,5,0
+1,Wolverhampton Wanderers,8602,470834,Nélson,Semedo,12,3,1
+3,Fulham,9879,1113816,Jay,Stansfield,7,1,0
+0,Wolverhampton Wanderers,8602,360918,,Jonny,78,3,1
+1,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,8,6
+2,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,14,5
+3,Wolverhampton Wanderers,8602,933845,Rayan Ait,Nouri,90,5,2
+4,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,12,5
+5,Wolverhampton Wanderers,8602,424129,Leander,Dendoncker,90,6,5
+7,Wolverhampton Wanderers,8602,524435,Daniel,Podence,90,6,2
+10,Fulham,9879,351860,Aleksandar,Mitrovic,90,2,1
+12,Fulham,9879,575779,Andreas,Pereira,86,2,0
+14,Fulham,9879,524434,Joao,Palhinha,90,3,3
+15,Fulham,9879,502420,Harrison,Reed,90,6,3
+16,Fulham,9879,662428,Antonee,Robinson,90,4,1
+17,Fulham,9879,198444,Tim,Ream,90,6,5
+18,Fulham,9879,683402,Tosin,Adarabioyo,90,3,1
+19,Fulham,9879,469804,Kenny,Tete,89,3,1
+0,Brentford,9937,688273,Vitaly,Janelt,28,3,2
+5,Manchester United,10260,843099,Scott,McTominay,45,1,0
+6,Manchester United,10260,230982,Raphaël,Varane,45,2,2
+7,Manchester United,10260,865118,Tyrell,Malacia,45,1,0
+1,Brentford,9937,174031,Pontus,Jansson,90,1,1
+2,Brentford,9937,240538,Ben,Mee,90,4,0
+4,Brentford,9937,759566,Joshua,Dasilva,62,1,1
+5,Brentford,9937,266520,Christian,Nørgaard,80,3,1
+6,Brentford,9937,650616,Mathias,Jensen,74,3,3
+7,Brentford,9937,562892,Rico,Henry,90,1,0
+9,Brentford,9937,408987,Ivan,Toney,90,2,1
+10,Manchester United,10260,30893,Cristiano,Ronaldo,90,1,1
+12,Manchester United,10260,422685,Bruno,Fernandes,90,4,1
+14,Manchester United,10260,322049,,Fred,45,1,0
+15,Manchester United,10260,157723,Christian,Eriksen,87,2,1
+16,Manchester United,10260,362694,Luke,Shaw,45,3,2
+17,Manchester United,10260,847983,Lisandro,Martinez,45,3,2
+18,Manchester United,10260,255610,Harry,Maguire,90,5,4
+19,Manchester United,10260,751550,Diogo,Dalot,90,6,2
+0,Nottingham Forest,10203,796747,Sam,Surridge,18,1,0
+4,West Ham United,8654,210276,Manuel,Lanzini,22,1,1
+0,Nottingham Forest,10203,716687,Joe,Worrall,90,3,0
+1,Nottingham Forest,10203,592102,Moussa,Niakhaté,79,4,2
+2,Nottingham Forest,10203,551805,Scott,McKenna,90,3,1
+3,Nottingham Forest,10203,1078788,Neco,Williams,90,7,1
+4,Nottingham Forest,10203,765693,Orel,Mangala,84,3,2
+5,Nottingham Forest,10203,914134,Lewis,O'Brien,90,1,0
+6,Nottingham Forest,10203,575804,Harry,Toffolo,90,5,0
+7,Nottingham Forest,10203,299215,Jesse,Lingard,90,1,0
+8,Nottingham Forest,10203,1076756,Brennan,Johnson,90,1,1
+11,West Ham United,8654,491883,Said,Benrahma,90,1,0
+12,West Ham United,8654,683450,Pablo,Fornals,68,3,1
+13,West Ham United,8654,523825,Jarrod,Bowen,85,1,1
+14,West Ham United,8654,654096,Declan,Rice,90,8,5
+16,West Ham United,8654,155782,Aaron,Cresswell,90,5,3
+17,West Ham United,8654,770267,Ben,Johnson,90,6,1
+18,West Ham United,8654,281207,Kurt,Zouma,90,3,1
+19,West Ham United,8654,307317,Vladimir,Coufal,90,10,4
+4,Tottenham Hotspur,8586,654908,,Richarlison,33,1,0
+7,Tottenham Hotspur,8586,215299,Lucas,Moura,8,1,0
+0,Chelsea,8455,807729,Reece,James,90,6,5
+1,Chelsea,8455,80562,Thiago,Silva,90,5,3
+2,Chelsea,8455,210428,Kalidou,Koulibaly,90,11,7
+4,Chelsea,8455,319300,N'Golo,Kanté,84,2,1
+5,Chelsea,8455,282775,,Jorginho,73,4,2
+6,Chelsea,8455,873289,Marc,Cucurella,90,3,2
+8,Chelsea,8455,750032,Mason,Mount,90,3,2
+10,Tottenham Hotspur,8586,194165,Harry,Kane,90,4,4
+14,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,79,2,1
+15,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,3,2
+16,Tottenham Hotspur,8586,797908,Emerson,Royal,82,1,1
+17,Tottenham Hotspur,8586,276121,Ben,Davies,90,2,0
+18,Tottenham Hotspur,8586,361315,Eric,Dier,90,14,6
+19,Tottenham Hotspur,8586,789066,Cristian,Romero,90,3,2
+0,Liverpool,8650,156008,Jordan,Henderson,27,5,4
+1,Liverpool,8650,568571,Joseph,Gomez,27,3,2
+0,Liverpool,8650,760712,Trent,Alexander-Arnold,90,19,11
+1,Liverpool,8650,948567,Nathaniel,Phillips,63,12,7
+2,Liverpool,8650,209405,Virgil,van Dijk,90,7,5
+3,Liverpool,8650,357880,Andrew,Robertson,63,2,0
+4,Liverpool,8650,963964,Harvey,Elliott,79,2,1
+5,Liverpool,8650,359188,,Fabinho,90,12,9
+6,Liverpool,8650,38807,James,Milner,63,3,2
+7,Liverpool,8650,292462,Mohamed,Salah,90,4,4
+8,Liverpool,8650,950561,Darwin,Nunez,57,1,1
+9,Liverpool,8650,860914,Luis,Diaz,90,2,2
+11,Crystal Palace,9826,818975,Eberechi,Eze,79,7,5
+12,Crystal Palace,9826,214570,Jeffrey,Schlupp,88,5,2
+15,Crystal Palace,9826,1120224,Tyrick,Mitchell,79,5,1
+16,Crystal Palace,9826,844425,Marc,Guehi,90,5,1
+17,Crystal Palace,9826,503659,Joachim,Andersen,90,7,2
+18,Crystal Palace,9826,146830,Joel,Ward,90,11,0
+19,Crystal Palace,9826,157838,Nathaniel,Clyne,90,2,2
+3,Wolverhampton Wanderers,8602,424129,Leander,Dendoncker,32,1,1
+5,Wolverhampton Wanderers,8602,493647,Adama,Traoré,19,1,1
+6,Wolverhampton Wanderers,8602,470834,Nélson,Semedo,19,2,1
+7,Wolverhampton Wanderers,8602,620026,Hee-Chan,Hwang,9,1,0
+0,Tottenham Hotspur,8586,643533,Davinson,Sánchez,90,4,1
+1,Tottenham Hotspur,8586,361315,Eric,Dier,90,13,10
+2,Tottenham Hotspur,8586,276121,Ben,Davies,90,6,2
+3,Tottenham Hotspur,8586,797908,Emerson,Royal,90,2,0
+4,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,6,6
+5,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,90,3,1
+6,Tottenham Hotspur,8586,163670,Ivan,Perisic,76,1,0
+7,Tottenham Hotspur,8586,935379,Dejan,Kulusevski,86,1,1
+9,Tottenham Hotspur,8586,194165,Harry,Kane,90,3,2
+10,Wolverhampton Wanderers,8602,536455,Goncalo,Guedes,81,2,2
+11,Wolverhampton Wanderers,8602,524435,Daniel,Podence,59,1,0
+12,Wolverhampton Wanderers,8602,933845,Rayan Ait,Nouri,71,1,0
+13,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,58,3,3
+14,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,14,9
+15,Wolverhampton Wanderers,8602,955529,Matheus,Nunes,90,6,5
+16,Wolverhampton Wanderers,8602,843040,Pedro,Neto,71,2,2
+17,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,7,0
+18,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,4,1
+19,Wolverhampton Wanderers,8602,360918,,Jonny,90,5,3
+3,Crystal Palace,9826,295067,Will,Hughes,8,1,1
+4,Crystal Palace,9826,950829,Chris,Richards,1,1,0
+6,Aston Villa,10252,787350,Douglas,Luiz,17,4,4
+0,Crystal Palace,9826,146830,Joel,Ward,90,6,3
+1,Crystal Palace,9826,503659,Joachim,Andersen,90,12,8
+2,Crystal Palace,9826,844425,Marc,Guehi,90,5,3
+3,Crystal Palace,9826,1120224,Tyrick,Mitchell,90,10,3
+4,Crystal Palace,9826,214570,Jeffrey,Schlupp,82,3,1
+5,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,90,5,5
+6,Crystal Palace,9826,818975,Eberechi,Eze,89,2,1
+9,Crystal Palace,9826,198510,Wilfried,Zaha,82,1,0
+10,Aston Villa,10252,610184,Emiliano,Buendia,73,3,2
+12,Aston Villa,10252,671331,Leon,Bailey,66,1,0
+13,Aston Villa,10252,1021929,Jacob,Ramsey,90,3,2
+14,Aston Villa,10252,816325,Boubacar,Kamara,90,3,2
+15,Aston Villa,10252,356406,John,McGinn,73,5,3
+16,Aston Villa,10252,210111,Lucas,Digne,90,5,4
+17,Aston Villa,10252,419664,Tyrone,Mings,90,18,8
+18,Aston Villa,10252,710159,Ezri,Konsa,90,3,0
+19,Aston Villa,10252,729731,Matty,Cash,90,4,0
+1,Everton,8668,939542,Dwight,McNeil,33,1,0
+2,Nottingham Forest,10203,775614,Ryan,Yates,35,3,3
+0,Everton,8668,603329,Mason,Holgate,90,10,3
+1,Everton,8668,247761,Conor,Coady,90,11,6
+2,Everton,8668,243138,James,Tarkowski,90,10,6
+4,Everton,8668,742405,Tom,Davies,57,5,0
+5,Everton,8668,604785,Alex,Iwobi,90,9,3
+6,Everton,8668,874025,Vitalii,Mykolenko,90,5,0
+7,Everton,8668,906937,Anthony,Gordon,90,2,1
+8,Everton,8668,492586,Demarai,Gray,90,5,2
+10,Nottingham Forest,10203,1076756,Brennan,Johnson,90,1,0
+11,Nottingham Forest,10203,643717,Taiwo,Awoniyi,61,1,1
+12,Nottingham Forest,10203,299215,Jesse,Lingard,84,2,1
+13,Nottingham Forest,10203,575804,Harry,Toffolo,90,2,0
+14,Nottingham Forest,10203,914134,Lewis,O'Brien,90,1,1
+15,Nottingham Forest,10203,765693,Orel,Mangala,55,2,0
+16,Nottingham Forest,10203,1078788,Neco,Williams,90,9,1
+17,Nottingham Forest,10203,551805,Scott,McKenna,90,7,2
+18,Nottingham Forest,10203,156013,Steve,Cook,90,6,3
+19,Nottingham Forest,10203,716687,Joe,Worrall,90,10,4
+0,Fulham,9879,182962,Tom,Cairney,13,5,4
+1,Fulham,9879,350472,Kevin,Mbabu,13,1,0
+4,Brentford,9937,688273,Vitaly,Janelt,30,3,2
+6,Brentford,9937,532220,Saman,Ghoddos,7,1,0
+0,Fulham,9879,469804,Kenny,Tete,77,4,2
+1,Fulham,9879,683402,Tosin,Adarabioyo,90,10,3
+2,Fulham,9879,198444,Tim,Ream,90,9,3
+3,Fulham,9879,662428,Antonee,Robinson,90,3,1
+4,Fulham,9879,502420,Harrison,Reed,90,3,1
+6,Fulham,9879,1113816,Jay,Stansfield,77,2,0
+7,Fulham,9879,575779,Andreas,Pereira,90,5,2
+8,Fulham,9879,262550,Bobby,Reid,90,1,0
+12,Brentford,9937,923312,Bryan,Mbeumo,90,4,2
+13,Brentford,9937,266520,Christian,Nørgaard,90,7,4
+14,Brentford,9937,650616,Mathias,Jensen,60,5,4
+16,Brentford,9937,562892,Rico,Henry,90,3,1
+17,Brentford,9937,240538,Ben,Mee,90,16,8
+18,Brentford,9937,174031,Pontus,Jansson,90,7,2
+19,Brentford,9937,1002039,Aaron,Hickey,59,1,1
+1,Leicester City,8197,465960,Youri,Tielemans,25,3,1
+3,Southampton,8466,599353,Che,Adams,31,1,1
+0,Leicester City,8197,465750,Timothy,Castagne,90,4,1
+1,Leicester City,8197,43248,Jonny,Evans,90,13,9
+2,Leicester City,8197,436036,Daniel,Amartey,90,6,4
+3,Leicester City,8197,710158,James,Justin,90,8,3
+4,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,90,8,4
+5,Leicester City,8197,533228,Wilfred,Ndidi,90,3,0
+6,Leicester City,8197,493165,James,Maddison,90,3,3
+9,Leicester City,8197,760359,Harvey,Barnes,76,4,2
+10,Southampton,8466,1177312,Sékou,Mara,59,1,0
+12,Southampton,8466,519835,Adam,Armstrong,70,3,3
+14,Southampton,8466,1190867,Romeo,Lavia,90,1,1
+15,Southampton,8466,279490,James,Ward-Prowse,90,7,3
+16,Southampton,8466,862645,Moussa,Djenepo,90,6,3
+17,Southampton,8466,938247,Mohammed,Salisu,90,11,4
+18,Southampton,8466,951765,Armel,Bella-Kotchap,90,7,1
+19,Southampton,8466,734042,Kyle,Walker-Peters,90,4,1
+0,AFC Bournemouth,8678,1171140,Jaidon,Anthony,45,2,2
+2,AFC Bournemouth,8678,439369,Ryan,Christie,25,2,2
+5,Arsenal,9825,664444,Takehiro,Tomiyasu,16,1,1
+0,AFC Bournemouth,8678,819762,Chris,Mepham,90,8,3
+1,AFC Bournemouth,8678,785411,Marcos,Senesi,45,3,2
+2,AFC Bournemouth,8678,819215,Lloyd,Kelly,90,3,1
+3,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,1,1
+4,AFC Bournemouth,8678,160447,Adam,Smith,90,3,0
+6,AFC Bournemouth,8678,610267,Ben,Pearson,45,2,0
+7,AFC Bournemouth,8678,982633,Jordan,Zemura,90,4,1
+8,AFC Bournemouth,8678,469202,Kieffer,Moore,90,1,0
+9,AFC Bournemouth,8678,532743,Philip,Billing,65,1,0
+11,Arsenal,9825,1021586,Gabriel,Martinelli,75,1,1
+12,Arsenal,9825,534670,Martin,Ødegaard,74,3,2
+13,Arsenal,9825,961995,Bukayo,Saka,88,1,0
+14,Arsenal,9825,207236,Granit,Xhaka,88,1,0
+15,Arsenal,9825,434325,Thomas,Partey,90,3,1
+16,Arsenal,9825,623621,Oleksandr,Zinchenko,90,3,1
+17,Arsenal,9825,795179,,Gabriel,90,4,1
+18,Arsenal,9825,955406,William,Saliba,90,2,2
+19,Arsenal,9825,776151,Ben,White,74,4,3
+0,Leeds United,8463,191175,Adam,Forshaw,29,1,1
+4,Leeds United,8463,1049805,Sam,Greenwood,8,2,0
+5,Chelsea,8455,688295,Christian,Pulisic,26,2,2
+6,Chelsea,8455,360559,Hakim,Ziyech,26,2,1
+7,Chelsea,8455,672469,Ben,Chilwell,13,1,0
+0,Leeds United,8463,722207,Rasmus,Kristensen,90,4,2
+1,Leeds United,8463,628201,Robin,Koch,90,9,1
+2,Leeds United,8463,420568,Diego,Llorente,90,3,2
+5,Leeds United,8463,640220,Marc,Roca,61,2,1
+8,Leeds United,8463,751649,Jack,Harrison,82,2,0
+9,Leeds United,8463,193869,,Rodrigo,83,3,1
+12,Chelsea,8455,750032,Mason,Mount,77,4,2
+13,Chelsea,8455,873289,Marc,Cucurella,90,9,6
+14,Chelsea,8455,966027,Conor,Gallagher,64,4,2
+15,Chelsea,8455,282775,,Jorginho,64,2,2
+16,Chelsea,8455,604982,Ruben,Loftus-Cheek,90,3,3
+17,Chelsea,8455,210428,Kalidou,Koulibaly,84,16,8
+18,Chelsea,8455,80562,Thiago,Silva,90,9,6
+19,Chelsea,8455,807729,Reece,James,90,4,3
+3,West Ham United,8654,770267,Ben,Johnson,15,1,1
+0,West Ham United,8654,307317,Vladimir,Coufal,75,3,3
+1,West Ham United,8654,281207,Kurt,Zouma,90,14,5
+2,West Ham United,8654,604088,Thilo,Kehrer,90,7,4
+3,West Ham United,8654,155782,Aaron,Cresswell,90,11,3
+4,West Ham United,8654,524437,Tomas,Soucek,90,6,3
+5,West Ham United,8654,654096,Declan,Rice,90,6,5
+6,West Ham United,8654,523825,Jarrod,Bowen,90,2,2
+7,West Ham United,8654,683450,Pablo,Fornals,62,2,1
+8,West Ham United,8654,491883,Said,Benrahma,75,2,0
+10,Brighton & Hove Albion,10204,113836,Danny,Welbeck,90,2,1
+12,Brighton & Hove Albion,10204,167008,Pascal,Gross,90,3,0
+13,Brighton & Hove Albion,10204,318615,Leandro,Trossard,89,3,1
+15,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,4,3
+16,Brighton & Hove Albion,10204,416850,Solly,March,85,4,3
+17,Brighton & Hove Albion,10204,303346,Adam,Webster,90,9,3
+18,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,6,2
+19,Brighton & Hove Albion,10204,304455,Joel,Veltman,90,6,3
+0,Newcastle United,10261,169719,Chris,Wood,20,1,1
+1,Newcastle United,10261,820024,Sean,Longstaff,20,1,0
+4,Manchester City,8456,614006,Ruben,Dias,69,2,0
+0,Newcastle United,10261,191869,Kieran,Trippier,90,8,4
+1,Newcastle United,10261,189982,Fabian,Schär,90,9,2
+2,Newcastle United,10261,956682,Sven,Botman,90,4,2
+3,Newcastle United,10261,188058,Daniel,Burn,89,3,1
+4,Newcastle United,10261,860975,Joseph,Willock,70,1,1
+5,Newcastle United,10261,850354,Bruno,Guimaraes,90,5,3
+6,Newcastle United,10261,535936,,Joelinton,90,3,2
+7,Newcastle United,10261,442277,Miguel,Almiron,83,1,1
+9,Newcastle United,10261,466482,Allan,Saint-Maximin,90,1,0
+10,Manchester City,8456,815006,Phil,Foden,90,2,1
+12,Manchester City,8456,488139,Bernardo,Silva,90,3,1
+13,Manchester City,8456,178818,Ilkay,Gündogan,90,2,2
+14,Manchester City,8456,675088,,Rodri,90,7,4
+15,Manchester City,8456,169200,Kevin,De Bruyne,90,1,1
+16,Manchester City,8456,361757,Joao,Cancelo,90,6,4
+17,Manchester City,8456,417068,Nathan,Aké,21,2,1
+18,Manchester City,8456,263653,John,Stones,90,4,4
+19,Manchester City,8456,159833,Kyle,Walker,90,6,4
+1,Manchester United,10260,322049,,Fred,19,1,0
+4,Manchester United,10260,760320,Aaron,Wan-Bissaka,4,1,0
+6,Liverpool,8650,963965,Fabio,Carvalho,17,1,1
+0,Manchester United,10260,751550,Diogo,Dalot,86,3,1
+1,Manchester United,10260,230982,Raphaël,Varane,90,3,1
+2,Manchester United,10260,847983,Lisandro,Martinez,90,5,2
+3,Manchester United,10260,865118,Tyrell,Malacia,90,2,1
+4,Manchester United,10260,157723,Christian,Eriksen,86,3,1
+5,Manchester United,10260,843099,Scott,McTominay,90,2,2
+6,Manchester United,10260,846381,Jadon,Sancho,71,1,0
+7,Manchester United,10260,422685,Bruno,Fernandes,90,2,1
+9,Manchester United,10260,696365,Marcus,Rashford,86,4,1
+12,Liverpool,8650,292462,Mohamed,Salah,90,1,0
+13,Liverpool,8650,38807,James,Milner,73,2,2
+14,Liverpool,8650,156008,Jordan,Henderson,59,6,3
+15,Liverpool,8650,963964,Harvey,Elliott,90,1,1
+16,Liverpool,8650,357880,Andrew,Robertson,85,2,0
+17,Liverpool,8650,209405,Virgil,van Dijk,90,12,8
+18,Liverpool,8650,568571,Joseph,Gomez,90,12,7
+19,Liverpool,8650,760712,Trent,Alexander-Arnold,90,8,5
+1,Southampton,8466,1177312,Sékou,Mara,13,1,1
+3,Southampton,8466,815465,Romain,Perraud,1,1,0
+0,Southampton,8466,734042,Kyle,Walker-Peters,90,2,0
+1,Southampton,8466,951765,Armel,Bella-Kotchap,90,5,2
+2,Southampton,8466,938247,Mohammed,Salisu,90,10,3
+3,Southampton,8466,862645,Moussa,Djenepo,89,2,2
+4,Southampton,8466,279490,James,Ward-Prowse,90,5,1
+5,Southampton,8466,1190867,Romeo,Lavia,90,3,2
+6,Southampton,8466,261936,Mohamed,Elyounoussi,63,2,1
+8,Southampton,8466,519835,Adam,Armstrong,77,1,1
+9,Southampton,8466,599353,Che,Adams,90,3,3
+10,Manchester United,10260,696365,Marcus,Rashford,90,5,2
+11,Manchester United,10260,846381,Jadon,Sancho,68,1,1
+12,Manchester United,10260,422685,Bruno,Fernandes,90,3,1
+13,Manchester United,10260,1050166,Anthony,Elanga,80,2,0
+14,Manchester United,10260,157723,Christian,Eriksen,89,5,2
+16,Manchester United,10260,865118,Tyrell,Malacia,90,2,1
+17,Manchester United,10260,847983,Lisandro,Martinez,90,13,1
+18,Manchester United,10260,230982,Raphaël,Varane,90,11,3
+19,Manchester United,10260,751550,Diogo,Dalot,90,6,2
+1,Brentford,9937,865131,Shandon,Baptiste,22,2,1
+2,Brentford,9937,688273,Vitaly,Janelt,21,1,0
+5,Everton,8668,290410,Michael,Keane,22,1,0
+6,Everton,8668,742405,Tom,Davies,12,1,0
+0,Brentford,9937,1002039,Aaron,Hickey,90,2,0
+1,Brentford,9937,71908,Mathias,Jørgensen,68,1,0
+2,Brentford,9937,240538,Ben,Mee,90,6,1
+3,Brentford,9937,562892,Rico,Henry,90,5,1
+4,Brentford,9937,759566,Joshua,Dasilva,89,2,1
+5,Brentford,9937,266520,Christian,Nørgaard,69,6,2
+6,Brentford,9937,650616,Mathias,Jensen,90,11,3
+7,Brentford,9937,923312,Bryan,Mbeumo,78,1,1
+8,Brentford,9937,408987,Ivan,Toney,90,1,1
+9,Brentford,9937,666857,Yoane,Wissa,68,1,1
+10,Everton,8668,492586,Demarai,Gray,90,1,1
+12,Everton,8668,939542,Dwight,McNeil,86,3,2
+13,Everton,8668,874025,Vitalii,Mykolenko,86,3,0
+14,Everton,8668,604785,Alex,Iwobi,90,2,1
+15,Everton,8668,1185748,Amadou,Onana,78,1,0
+16,Everton,8668,1112684,Nathan,Patterson,90,3,1
+17,Everton,8668,243138,James,Tarkowski,90,8,3
+18,Everton,8668,247761,Conor,Coady,90,9,6
+19,Everton,8668,603329,Mason,Holgate,68,7,2
+2,Brighton & Hove Albion,10204,862608,Kaoru,Mitoma,11,1,0
+6,Leeds United,8463,159342,Mateusz,Klich,31,2,0
+7,Leeds United,8463,191175,Adam,Forshaw,16,1,0
+0,Brighton & Hove Albion,10204,304455,Joel,Veltman,70,6,1
+1,Brighton & Hove Albion,10204,303346,Adam,Webster,90,10,8
+2,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,13,5
+3,Brighton & Hove Albion,10204,416850,Solly,March,70,1,0
+4,Brighton & Hove Albion,10204,167008,Pascal,Gross,90,3,1
+5,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,5,3
+6,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,90,1,1
+7,Brighton & Hove Albion,10204,688278,Pervis,Estupinan,79,4,2
+8,Brighton & Hove Albion,10204,318615,Leandro,Trossard,79,4,3
+10,Leeds United,8463,193869,,Rodrigo,90,4,3
+13,Leeds United,8463,717176,Daniel,James,59,1,0
+14,Leeds United,8463,640220,Marc,Roca,59,4,3
+15,Leeds United,8463,729769,Tyler,Adams,90,1,0
+16,Leeds United,8463,796974,Pascal,Struijk,90,2,0
+17,Leeds United,8463,420568,Diego,Llorente,90,12,3
+18,Leeds United,8463,628201,Robin,Koch,90,15,5
+19,Leeds United,8463,722207,Rasmus,Kristensen,90,8,2
+1,Chelsea,8455,688295,Christian,Pulisic,15,1,0
+2,Chelsea,8455,239219,Mateo,Kovacic,15,1,0
+5,Leicester City,8197,479020,Ayoze,Pérez,35,2,2
+0,Chelsea,8455,807729,Reece,James,90,7,6
+1,Chelsea,8455,793907,Trevoh,Chalobah,90,3,3
+2,Chelsea,8455,80562,Thiago,Silva,90,15,7
+3,Chelsea,8455,873289,Marc,Cucurella,89,2,1
+4,Chelsea,8455,966027,Conor,Gallagher,28,1,0
+5,Chelsea,8455,282775,,Jorginho,75,5,5
+6,Chelsea,8455,604982,Ruben,Loftus-Cheek,90,1,1
+7,Chelsea,8455,750032,Mason,Mount,45,1,1
+11,Leicester City,8197,760359,Harvey,Barnes,90,1,0
+12,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,90,4,2
+13,Leicester City,8197,465960,Youri,Tielemans,89,7,6
+14,Leicester City,8197,282012,Dennis,Praet,55,1,1
+15,Leicester City,8197,882401,Boubakary,Soumaré,55,6,5
+16,Leicester City,8197,710158,James,Justin,90,5,1
+17,Leicester City,8197,43248,Jonny,Evans,90,4,2
+18,Leicester City,8197,436036,Daniel,Amartey,90,5,4
+19,Leicester City,8197,465750,Timothy,Castagne,90,2,0
+1,Liverpool,8650,38807,James,Milner,21,2,2
+2,Liverpool,8650,671529,Konstantinos,Tsimikas,21,2,0
+3,Liverpool,8650,1310118,Stefan,Bajcetic,20,3,1
+6,AFC Bournemouth,8678,532743,Philip,Billing,45,2,1
+8,AFC Bournemouth,8678,343316,Emiliano,Marcondes,8,1,1
+0,Liverpool,8650,760712,Trent,Alexander-Arnold,83,15,9
+1,Liverpool,8650,568571,Joseph,Gomez,90,9,3
+2,Liverpool,8650,209405,Virgil,van Dijk,90,11,7
+3,Liverpool,8650,357880,Andrew,Robertson,69,5,3
+5,Liverpool,8650,359188,,Fabinho,90,3,2
+6,Liverpool,8650,156008,Jordan,Henderson,70,6,4
+7,Liverpool,8650,292462,Mohamed,Salah,90,1,0
+8,Liverpool,8650,242709,Roberto,Firmino,69,3,1
+10,AFC Bournemouth,8678,469202,Kieffer,Moore,90,1,0
+11,AFC Bournemouth,8678,789630,Marcus,Tavernier,90,1,0
+12,AFC Bournemouth,8678,439369,Ryan,Christie,45,1,0
+13,AFC Bournemouth,8678,1171140,Jaidon,Anthony,90,2,1
+14,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,2,0
+15,AFC Bournemouth,8678,562724,Lewis,Cook,77,4,1
+16,AFC Bournemouth,8678,982633,Jordan,Zemura,90,4,2
+17,AFC Bournemouth,8678,785411,Marcos,Senesi,90,5,4
+18,AFC Bournemouth,8678,819762,Chris,Mepham,82,6,1
+19,AFC Bournemouth,8678,160447,Adam,Smith,45,2,0
+0,Manchester City,8456,974753,Julián,Álvarez,29,1,1
+0,Manchester City,8456,159833,Kyle,Walker,90,11,9
+2,Manchester City,8456,614006,Ruben,Dias,90,1,1
+3,Manchester City,8456,361757,Joao,Cancelo,61,5,3
+4,Manchester City,8456,169200,Kevin,De Bruyne,89,4,2
+5,Manchester City,8456,675088,,Rodri,90,11,11
+6,Manchester City,8456,488139,Bernardo,Silva,90,4,3
+7,Manchester City,8456,278343,Riyad,Mahrez,61,2,2
+11,Crystal Palace,9826,818975,Eberechi,Eze,90,1,0
+12,Crystal Palace,9826,214570,Jeffrey,Schlupp,90,3,0
+13,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,90,2,2
+15,Crystal Palace,9826,1120224,Tyrick,Mitchell,57,2,0
+16,Crystal Palace,9826,844425,Marc,Guehi,90,4,1
+17,Crystal Palace,9826,503659,Joachim,Andersen,90,14,6
+18,Crystal Palace,9826,146830,Joel,Ward,90,11,2
+19,Crystal Palace,9826,157838,Nathaniel,Clyne,74,4,0
+4,Fulham,9879,696443,Issa,Diop,11,1,1
+0,Arsenal,9825,776151,Ben,White,90,7,4
+1,Arsenal,9825,955406,William,Saliba,90,10,9
+2,Arsenal,9825,795179,,Gabriel,90,5,4
+3,Arsenal,9825,582499,Kieran,Tierney,61,3,1
+4,Arsenal,9825,339992,Mohamed,Elneny,90,3,3
+5,Arsenal,9825,207236,Granit,Xhaka,90,8,6
+6,Arsenal,9825,961995,Bukayo,Saka,90,2,2
+7,Arsenal,9825,534670,Martin,Ødegaard,89,8,7
+8,Arsenal,9825,1021586,Gabriel,Martinelli,90,4,4
+10,Fulham,9879,351860,Aleksandar,Mitrovic,90,4,2
+12,Fulham,9879,575779,Andreas,Pereira,79,2,1
+13,Fulham,9879,262550,Bobby,Reid,90,1,1
+14,Fulham,9879,524434,Joao,Palhinha,88,2,0
+15,Fulham,9879,502420,Harrison,Reed,90,3,0
+16,Fulham,9879,662428,Antonee,Robinson,90,3,1
+17,Fulham,9879,198444,Tim,Ream,88,6,1
+18,Fulham,9879,683402,Tosin,Adarabioyo,90,11,1
+19,Fulham,9879,469804,Kenny,Tete,79,1,0
+0,Aston Villa,10252,610184,Emiliano,Buendia,24,3,2
+1,Aston Villa,10252,1021929,Jacob,Ramsey,24,1,0
+2,Aston Villa,10252,671331,Leon,Bailey,12,1,1
+4,West Ham United,8654,307317,Vladimir,Coufal,67,5,0
+5,West Ham United,8654,491883,Said,Benrahma,45,3,1
+6,West Ham United,8654,158545,Michail,Antonio,25,1,0
+0,Aston Villa,10252,729731,Matty,Cash,90,4,1
+1,Aston Villa,10252,710159,Ezri,Konsa,90,4,3
+2,Aston Villa,10252,425255,Calum,Chambers,90,6,3
+3,Aston Villa,10252,210111,Lucas,Digne,90,8,2
+4,Aston Villa,10252,787350,Douglas,Luiz,66,4,0
+5,Aston Villa,10252,816325,Boubacar,Kamara,90,7,4
+6,Aston Villa,10252,356406,John,McGinn,89,6,4
+7,Aston Villa,10252,184536,Philippe,Coutinho,66,3,1
+8,Aston Villa,10252,540088,Ollie,Watkins,90,1,1
+9,Aston Villa,10252,214426,Danny,Ings,78,1,0
+10,West Ham United,8654,721089,Gianluca,Scamacca,65,1,1
+11,West Ham United,8654,683450,Pablo,Fornals,90,4,2
+12,West Ham United,8654,523825,Jarrod,Bowen,90,2,1
+13,West Ham United,8654,267371,,Emerson,45,1,0
+14,West Ham United,8654,654096,Declan,Rice,90,2,2
+15,West Ham United,8654,524437,Tomas,Soucek,90,5,5
+16,West Ham United,8654,770267,Ben,Johnson,23,3,1
+17,West Ham United,8654,155782,Aaron,Cresswell,90,6,4
+18,West Ham United,8654,281207,Kurt,Zouma,90,7,4
+19,West Ham United,8654,604088,Thilo,Kehrer,90,4,2
+0,Wolverhampton Wanderers,8602,524435,Daniel,Podence,7,1,0
+1,Wolverhampton Wanderers,8602,620026,Hee-Chan,Hwang,6,1,0
+4,Newcastle United,10261,538112,Matt,Targett,25,2,0
+5,Newcastle United,10261,521148,Jacob,Murphy,7,1,0
+6,Newcastle United,10261,1089691,Elliot,Anderson,6,1,1
+0,Wolverhampton Wanderers,8602,470834,Nélson,Semedo,90,3,0
+1,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,7,2
+2,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,6,2
+3,Wolverhampton Wanderers,8602,360918,,Jonny,90,4,4
+4,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,14,11
+5,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,89,4,1
+6,Wolverhampton Wanderers,8602,955529,Matheus,Nunes,90,5,2
+7,Wolverhampton Wanderers,8602,536455,Goncalo,Guedes,83,2,0
+8,Wolverhampton Wanderers,8602,292313,Raul,Jiménez,90,1,1
+9,Wolverhampton Wanderers,8602,843040,Pedro,Neto,84,1,1
+10,Newcastle United,10261,466482,Allan,Saint-Maximin,89,2,2
+13,Newcastle United,10261,535936,,Joelinton,90,5,4
+14,Newcastle United,10261,820024,Sean,Longstaff,90,4,2
+16,Newcastle United,10261,188058,Daniel,Burn,65,2,0
+17,Newcastle United,10261,956682,Sven,Botman,90,3,3
+18,Newcastle United,10261,189982,Fabian,Schär,90,15,7
+19,Newcastle United,10261,191869,Kieran,Trippier,90,15,8
+0,Nottingham Forest,10203,769673,Emmanuel,Dennis,21,1,1
+2,Nottingham Forest,10203,148302,Cheikhou,Kouyaté,15,1,1
+3,Nottingham Forest,10203,201704,Remo,Freuler,15,1,0
+0,Nottingham Forest,10203,716687,Joe,Worrall,90,3,3
+1,Nottingham Forest,10203,156013,Steve,Cook,75,8,4
+2,Nottingham Forest,10203,551805,Scott,McKenna,90,3,3
+3,Nottingham Forest,10203,1078788,Neco,Williams,90,7,2
+4,Nottingham Forest,10203,775614,Ryan,Yates,75,3,3
+5,Nottingham Forest,10203,914134,Lewis,O'Brien,75,2,1
+6,Nottingham Forest,10203,575804,Harry,Toffolo,90,3,0
+7,Nottingham Forest,10203,1076756,Brennan,Johnson,89,1,1
+8,Nottingham Forest,10203,789502,Morgan,Gibbs-White,90,3,1
+10,Tottenham Hotspur,8586,194165,Harry,Kane,90,5,4
+11,Tottenham Hotspur,8586,212867,Heung-Min,Son,74,2,2
+12,Tottenham Hotspur,8586,935379,Dejan,Kulusevski,83,1,0
+13,Tottenham Hotspur,8586,163670,Ivan,Perisic,74,2,1
+14,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,89,1,0
+15,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,5,2
+16,Tottenham Hotspur,8586,797908,Emerson,Royal,90,3,1
+17,Tottenham Hotspur,8586,276121,Ben,Davies,90,3,3
+18,Tottenham Hotspur,8586,361315,Eric,Dier,90,4,0
+19,Tottenham Hotspur,8586,643533,Davinson,Sánchez,90,5,0
+2,Crystal Palace,9826,163616,Luka,Milivojevic,14,2,1
+4,Brentford,9937,888912,Mikkel,Damsgaard,22,1,0
+5,Brentford,9937,856685,Frank,Onyeka,22,1,1
+6,Brentford,9937,759566,Joshua,Dasilva,22,2,1
+7,Brentford,9937,666857,Yoane,Wissa,11,1,1
+8,Brentford,9937,532220,Saman,Ghoddos,11,1,1
+0,Crystal Palace,9826,157838,Nathaniel,Clyne,90,4,1
+1,Crystal Palace,9826,503659,Joachim,Andersen,90,22,12
+2,Crystal Palace,9826,844425,Marc,Guehi,90,11,7
+3,Crystal Palace,9826,146830,Joel,Ward,90,6,3
+5,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,90,6,6
+6,Crystal Palace,9826,818975,Eberechi,Eze,76,2,2
+7,Crystal Palace,9826,1029063,Michael,Olise,80,3,1
+9,Crystal Palace,9826,198510,Wilfried,Zaha,90,1,1
+10,Brentford,9937,1010426,Keane,Lewis-Potter,68,1,0
+11,Brentford,9937,408987,Ivan,Toney,90,2,1
+13,Brentford,9937,650616,Mathias,Jensen,79,7,3
+14,Brentford,9937,865131,Shandon,Baptiste,68,6,4
+15,Brentford,9937,688273,Vitaly,Janelt,90,8,6
+16,Brentford,9937,562892,Rico,Henry,90,2,1
+17,Brentford,9937,240538,Ben,Mee,90,9,3
+18,Brentford,9937,71908,Mathias,Jørgensen,90,3,2
+19,Brentford,9937,1002039,Aaron,Hickey,79,2,0
+0,Fulham,9879,182962,Tom,Cairney,12,1,0
+0,Fulham,9879,469804,Kenny,Tete,90,2,0
+1,Fulham,9879,683402,Tosin,Adarabioyo,90,4,1
+2,Fulham,9879,198444,Tim,Ream,90,3,1
+3,Fulham,9879,662428,Antonee,Robinson,90,6,5
+4,Fulham,9879,502420,Harrison,Reed,89,1,0
+5,Fulham,9879,524434,Joao,Palhinha,90,2,1
+6,Fulham,9879,262550,Bobby,Reid,90,1,0
+7,Fulham,9879,575779,Andreas,Pereira,78,3,0
+9,Fulham,9879,351860,Aleksandar,Mitrovic,90,1,1
+10,Brighton & Hove Albion,10204,318615,Leandro,Trossard,90,4,3
+11,Brighton & Hove Albion,10204,167008,Pascal,Gross,90,5,2
+12,Brighton & Hove Albion,10204,688278,Pervis,Estupinan,63,3,2
+13,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,79,3,1
+14,Brighton & Hove Albion,10204,848290,Enock,Mwepu,63,2,1
+16,Brighton & Hove Albion,10204,416850,Solly,March,90,7,3
+17,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,18,11
+18,Brighton & Hove Albion,10204,303346,Adam,Webster,90,10,6
+19,Brighton & Hove Albion,10204,304455,Joel,Veltman,64,3,2
+1,Southampton,8466,862645,Moussa,Djenepo,17,2,0
+3,Chelsea,8455,239219,Mateo,Kovacic,45,6,4
+5,Chelsea,8455,688295,Christian,Pulisic,24,1,0
+6,Chelsea,8455,672469,Ben,Chilwell,24,2,1
+0,Southampton,8466,734042,Kyle,Walker-Peters,90,1,1
+1,Southampton,8466,951765,Armel,Bella-Kotchap,90,9,1
+2,Southampton,8466,938247,Mohammed,Salisu,90,5,0
+3,Southampton,8466,815465,Romain,Perraud,73,1,0
+5,Southampton,8466,938539,Ibrahima,Diallo,90,5,1
+6,Southampton,8466,261936,Mohamed,Elyounoussi,90,2,1
+7,Southampton,8466,279490,James,Ward-Prowse,90,1,1
+8,Southampton,8466,519835,Adam,Armstrong,86,3,0
+10,Chelsea,8455,749736,Kai,Havertz,66,1,1
+12,Chelsea,8455,360559,Hakim,Ziyech,90,5,3
+13,Chelsea,8455,750032,Mason,Mount,90,3,3
+14,Chelsea,8455,282775,,Jorginho,66,5,4
+15,Chelsea,8455,604982,Ruben,Loftus-Cheek,45,1,1
+16,Chelsea,8455,873289,Marc,Cucurella,90,4,3
+17,Chelsea,8455,210428,Kalidou,Koulibaly,90,8,4
+18,Chelsea,8455,80562,Thiago,Silva,90,11,4
+19,Chelsea,8455,72541,César,Azpilicueta,66,3,1
+1,Leeds United,8463,159342,Mateusz,Klich,26,1,0
+0,Leeds United,8463,722207,Rasmus,Kristensen,90,1,1
+1,Leeds United,8463,628201,Robin,Koch,90,13,6
+2,Leeds United,8463,420568,Diego,Llorente,90,9,5
+3,Leeds United,8463,796974,Pascal,Struijk,90,1,0
+4,Leeds United,8463,729769,Tyler,Adams,90,6,3
+5,Leeds United,8463,640220,Marc,Roca,90,10,4
+7,Leeds United,8463,952322,Brenden,Aaronson,76,1,1
+10,Everton,8668,906937,Anthony,Gordon,90,1,1
+13,Everton,8668,604785,Alex,Iwobi,90,3,0
+14,Everton,8668,1185748,Amadou,Onana,90,3,0
+16,Everton,8668,874025,Vitalii,Mykolenko,90,4,3
+17,Everton,8668,243138,James,Tarkowski,90,8,3
+18,Everton,8668,247761,Conor,Coady,90,6,2
+19,Everton,8668,1112684,Nathan,Patterson,90,1,0
+0,AFC Bournemouth,8678,194323,Ryan,Fredericks,21,1,0
+5,Wolverhampton Wanderers,8602,524435,Daniel,Podence,15,1,1
+0,AFC Bournemouth,8678,160447,Adam,Smith,90,8,4
+1,AFC Bournemouth,8678,819762,Chris,Mepham,90,1,1
+2,AFC Bournemouth,8678,819215,Lloyd,Kelly,90,10,3
+3,AFC Bournemouth,8678,982633,Jordan,Zemura,69,1,0
+4,AFC Bournemouth,8678,562724,Lewis,Cook,90,2,1
+5,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,2,1
+6,AFC Bournemouth,8678,789630,Marcus,Tavernier,90,4,0
+7,AFC Bournemouth,8678,532743,Philip,Billing,77,1,1
+8,AFC Bournemouth,8678,439369,Ryan,Christie,86,1,0
+10,Wolverhampton Wanderers,8602,536455,Goncalo,Guedes,75,1,1
+11,Wolverhampton Wanderers,8602,292313,Raul,Jiménez,90,1,0
+12,Wolverhampton Wanderers,8602,843040,Pedro,Neto,90,5,3
+13,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,90,5,5
+14,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,17,11
+15,Wolverhampton Wanderers,8602,955529,Matheus,Nunes,75,4,2
+16,Wolverhampton Wanderers,8602,360918,,Jonny,90,4,2
+17,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,10,7
+18,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,9,9
+19,Wolverhampton Wanderers,8602,470834,Nélson,Semedo,60,2,1
+0,Arsenal,9825,664444,Takehiro,Tomiyasu,26,1,0
+4,Aston Villa,10252,787350,Douglas,Luiz,17,1,1
+0,Arsenal,9825,776151,Ben,White,64,2,0
+1,Arsenal,9825,955406,William,Saliba,90,4,3
+2,Arsenal,9825,795179,,Gabriel,90,5,4
+3,Arsenal,9825,582499,Kieran,Tierney,90,10,5
+4,Arsenal,9825,901495,Albert Sambi,Lokonga,90,6,5
+5,Arsenal,9825,207236,Granit,Xhaka,90,3,3
+6,Arsenal,9825,961995,Bukayo,Saka,88,1,1
+7,Arsenal,9825,534670,Martin,Ødegaard,81,3,2
+8,Arsenal,9825,1021586,Gabriel,Martinelli,90,3,2
+10,Aston Villa,10252,610184,Emiliano,Buendia,73,1,0
+11,Aston Villa,10252,540088,Ollie,Watkins,90,1,0
+12,Aston Villa,10252,671331,Leon,Bailey,90,2,1
+13,Aston Villa,10252,356406,John,McGinn,73,3,3
+14,Aston Villa,10252,816325,Boubacar,Kamara,83,5,2
+16,Aston Villa,10252,210111,Lucas,Digne,90,4,1
+17,Aston Villa,10252,419664,Tyrone,Mings,90,11,2
+18,Aston Villa,10252,710159,Ezri,Konsa,90,7,2
+19,Aston Villa,10252,729731,Matty,Cash,90,4,1
+0,Manchester City,8456,1096353,Cole,Palmer,35,1,1
+1,Manchester City,8456,278343,Riyad,Mahrez,35,1,1
+2,Manchester City,8456,844477,Sergio,Gomez,22,1,1
+3,Manchester City,8456,169200,Kevin,De Bruyne,21,2,2
+4,Manchester City,8456,1288450,Rico,Lewis,15,1,1
+5,Nottingham Forest,10203,769673,Emmanuel,Dennis,32,1,0
+6,Nottingham Forest,10203,643717,Taiwo,Awoniyi,32,1,0
+8,Nottingham Forest,10203,575804,Harry,Toffolo,21,1,0
+9,Nottingham Forest,10203,990989,Giulian,Biancone,12,1,1
+0,Manchester City,8456,159833,Kyle,Walker,90,5,2
+1,Manchester City,8456,263653,John,Stones,75,6,5
+2,Manchester City,8456,614006,Ruben,Dias,90,5,3
+3,Manchester City,8456,361757,Joao,Cancelo,68,5,4
+4,Manchester City,8456,488139,Bernardo,Silva,90,4,3
+5,Manchester City,8456,675088,,Rodri,55,4,3
+6,Manchester City,8456,178818,Ilkay,Gündogan,90,7,6
+7,Manchester City,8456,974753,Julián,Álvarez,90,3,3
+9,Manchester City,8456,815006,Phil,Foden,55,2,0
+13,Nottingham Forest,10203,914134,Lewis,O'Brien,90,1,0
+16,Nottingham Forest,10203,1078788,Neco,Williams,90,6,2
+17,Nottingham Forest,10203,551805,Scott,McKenna,90,5,0
+18,Nottingham Forest,10203,148302,Cheikhou,Kouyaté,78,4,2
+19,Nottingham Forest,10203,716687,Joe,Worrall,90,6,3
+1,West Ham United,8654,49543,Angelo,Ogbonna,18,2,1
+3,Tottenham Hotspur,8586,654908,,Richarlison,14,1,0
+0,West Ham United,8654,307317,Vladimir,Coufal,90,2,1
+1,West Ham United,8654,604088,Thilo,Kehrer,90,5,2
+2,West Ham United,8654,281207,Kurt,Zouma,90,3,1
+3,West Ham United,8654,155782,Aaron,Cresswell,72,1,1
+5,West Ham United,8654,654096,Declan,Rice,90,7,7
+8,West Ham United,8654,683450,Pablo,Fornals,85,9,8
+9,West Ham United,8654,158545,Michail,Antonio,90,1,0
+11,Tottenham Hotspur,8586,194165,Harry,Kane,90,3,2
+13,Tottenham Hotspur,8586,163670,Ivan,Perisic,90,4,4
+14,Tottenham Hotspur,8586,724306,Yves,Bissouma,90,5,4
+15,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,7,5
+16,Tottenham Hotspur,8586,797908,Emerson,Royal,90,5,3
+17,Tottenham Hotspur,8586,276121,Ben,Davies,90,6,4
+18,Tottenham Hotspur,8586,361315,Eric,Dier,90,7,2
+19,Tottenham Hotspur,8586,643533,Davinson,Sánchez,90,7,2
+1,Liverpool,8650,38807,James,Milner,19,2,2
+2,Liverpool,8650,671529,Konstantinos,Tsimikas,19,1,1
+0,Liverpool,8650,760712,Trent,Alexander-Arnold,71,11,4
+1,Liverpool,8650,568571,Joseph,Gomez,90,12,5
+2,Liverpool,8650,209405,Virgil,van Dijk,90,10,3
+3,Liverpool,8650,357880,Andrew,Robertson,71,1,1
+4,Liverpool,8650,963964,Harvey,Elliott,90,5,4
+5,Liverpool,8650,359188,,Fabinho,90,10,5
+6,Liverpool,8650,156008,Jordan,Henderson,71,4,3
+9,Liverpool,8650,860914,Luis,Diaz,90,3,3
+10,Newcastle United,10261,230916,Ryan,Fraser,64,2,0
+12,Newcastle United,10261,442277,Miguel,Almiron,84,2,0
+13,Newcastle United,10261,535936,,Joelinton,90,2,0
+14,Newcastle United,10261,820024,Sean,Longstaff,90,5,1
+15,Newcastle United,10261,860975,Joseph,Willock,90,1,1
+16,Newcastle United,10261,538112,Matt,Targett,90,4,1
+17,Newcastle United,10261,188058,Daniel,Burn,90,6,1
+18,Newcastle United,10261,279489,Jamaal,Lascelles,90,2,2
+19,Newcastle United,10261,191869,Kieran,Trippier,90,3,1
+2,Manchester United,10260,208494,,Casemiro,31,5,4
+0,Leicester City,8197,710158,James,Justin,90,5,2
+1,Leicester City,8197,533228,Wilfred,Ndidi,90,3,1
+2,Leicester City,8197,43248,Jonny,Evans,90,14,8
+3,Leicester City,8197,916332,Luke,Thomas,90,4,1
+4,Leicester City,8197,882401,Boubakary,Soumaré,90,2,2
+5,Leicester City,8197,493165,James,Maddison,90,3,2
+6,Leicester City,8197,465960,Youri,Tielemans,76,5,1
+7,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,90,5,2
+9,Leicester City,8197,286119,Jamie,Vardy,87,1,1
+10,Manchester United,10260,696365,Marcus,Rashford,87,3,2
+12,Manchester United,10260,422685,Bruno,Fernandes,90,8,4
+13,Manchester United,10260,1050166,Anthony,Elanga,59,1,1
+14,Manchester United,10260,157723,Christian,Eriksen,90,7,3
+15,Manchester United,10260,843099,Scott,McTominay,90,4,3
+16,Manchester United,10260,865118,Tyrell,Malacia,90,2,0
+17,Manchester United,10260,847983,Lisandro,Martinez,90,4,0
+18,Manchester United,10260,230982,Raphaël,Varane,90,5,1
+19,Manchester United,10260,751550,Diogo,Dalot,90,7,4
+3,Liverpool,8650,38807,James,Milner,31,4,2
+4,Liverpool,8650,357880,Andrew,Robertson,31,1,0
+6,Liverpool,8650,171698,Joel,Matip,10,3,2
+0,Everton,8668,1112684,Nathan,Patterson,90,7,2
+1,Everton,8668,247761,Conor,Coady,90,8,2
+2,Everton,8668,243138,James,Tarkowski,90,7,3
+3,Everton,8668,874025,Vitalii,Mykolenko,90,4,1
+4,Everton,8668,742405,Tom,Davies,62,3,2
+5,Everton,8668,1185748,Amadou,Onana,90,2,1
+6,Everton,8668,604785,Alex,Iwobi,90,3,2
+7,Everton,8668,492586,Demarai,Gray,90,2,2
+10,Liverpool,8650,860914,Luis,Diaz,90,1,1
+11,Liverpool,8650,950561,Darwin,Nunez,80,1,0
+12,Liverpool,8650,292462,Mohamed,Salah,90,2,2
+14,Liverpool,8650,359188,,Fabinho,90,3,2
+15,Liverpool,8650,963964,Harvey,Elliott,80,4,2
+16,Liverpool,8650,671529,Konstantinos,Tsimikas,59,1,1
+17,Liverpool,8650,209405,Virgil,van Dijk,90,9,6
+18,Liverpool,8650,568571,Joseph,Gomez,90,11,5
+19,Liverpool,8650,760712,Trent,Alexander-Arnold,59,8,4
+0,Brentford,9937,856685,Frank,Onyeka,31,3,0
+2,Brentford,9937,71908,Mathias,Jørgensen,23,2,1
+7,Leeds United,8463,159342,Mateusz,Klich,31,1,1
+8,Leeds United,8463,190666,Luke,Ayling,20,1,1
+0,Brentford,9937,1002039,Aaron,Hickey,90,3,1
+1,Brentford,9937,174031,Pontus,Jansson,90,3,1
+2,Brentford,9937,240538,Ben,Mee,90,8,3
+3,Brentford,9937,562892,Rico,Henry,90,2,0
+4,Brentford,9937,865131,Shandon,Baptiste,59,2,2
+5,Brentford,9937,688273,Vitaly,Janelt,67,2,1
+6,Brentford,9937,650616,Mathias,Jensen,83,5,2
+9,Brentford,9937,1010426,Keane,Lewis-Potter,59,1,0
+11,Leeds United,8463,751649,Jack,Harrison,45,1,0
+13,Leeds United,8463,846369,Luis,Sinisterra,59,1,1
+14,Leeds United,8463,640220,Marc,Roca,86,4,3
+15,Leeds United,8463,729769,Tyler,Adams,90,2,1
+16,Leeds United,8463,796974,Pascal,Struijk,90,2,0
+17,Leeds United,8463,420568,Diego,Llorente,90,6,1
+18,Leeds United,8463,628201,Robin,Koch,90,8,2
+19,Leeds United,8463,962046,Cody,Drameh,70,2,1
+1,Chelsea,8455,750032,Mason,Mount,30,2,0
+6,West Ham United,8654,49543,Angelo,Ogbonna,7,2,0
+0,Chelsea,8455,917802,Wesley,Fofana,90,5,0
+1,Chelsea,8455,80562,Thiago,Silva,90,6,4
+2,Chelsea,8455,210428,Kalidou,Koulibaly,90,5,2
+4,Chelsea,8455,966027,Conor,Gallagher,60,1,0
+5,Chelsea,8455,604982,Ruben,Loftus-Cheek,83,4,3
+6,Chelsea,8455,239219,Mateo,Kovacic,72,3,1
+7,Chelsea,8455,873289,Marc,Cucurella,71,3,1
+10,West Ham United,8654,158545,Michail,Antonio,74,1,1
+11,West Ham United,8654,683450,Pablo,Fornals,86,2,1
+12,West Ham United,8654,766435,Lucas,Paquetá,83,3,1
+13,West Ham United,8654,523825,Jarrod,Bowen,90,1,0
+14,West Ham United,8654,654096,Declan,Rice,90,2,1
+15,West Ham United,8654,524437,Tomas,Soucek,90,2,2
+16,West Ham United,8654,267371,,Emerson,90,5,5
+17,West Ham United,8654,281207,Kurt,Zouma,90,6,2
+18,West Ham United,8654,604088,Thilo,Kehrer,90,6,3
+19,West Ham United,8654,307317,Vladimir,Coufal,90,9,2
+2,Newcastle United,10261,188058,Daniel,Burn,11,1,0
+0,Newcastle United,10261,191869,Kieran,Trippier,90,9,4
+1,Newcastle United,10261,956682,Sven,Botman,90,10,6
+2,Newcastle United,10261,189982,Fabian,Schär,90,12,5
+3,Newcastle United,10261,538112,Matt,Targett,79,4,2
+4,Newcastle United,10261,860975,Joseph,Willock,90,2,1
+5,Newcastle United,10261,820024,Sean,Longstaff,90,3,3
+6,Newcastle United,10261,535936,,Joelinton,90,2,0
+12,Crystal Palace,9826,154280,Jordan,Ayew,90,1,0
+13,Crystal Palace,9826,214570,Jeffrey,Schlupp,90,1,0
+14,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,90,6,0
+15,Crystal Palace,9826,818975,Eberechi,Eze,62,1,0
+16,Crystal Palace,9826,1120224,Tyrick,Mitchell,63,3,1
+17,Crystal Palace,9826,844425,Marc,Guehi,90,6,4
+18,Crystal Palace,9826,503659,Joachim,Andersen,90,10,2
+19,Crystal Palace,9826,146830,Joel,Ward,90,4,1
+3,AFC Bournemouth,8678,194323,Ryan,Fredericks,45,4,1
+0,Nottingham Forest,10203,716687,Joe,Worrall,90,13,8
+1,Nottingham Forest,10203,156013,Steve,Cook,90,5,2
+2,Nottingham Forest,10203,551805,Scott,McKenna,90,10,4
+3,Nottingham Forest,10203,1078788,Neco,Williams,90,5,2
+4,Nottingham Forest,10203,775614,Ryan,Yates,90,3,2
+5,Nottingham Forest,10203,148302,Cheikhou,Kouyaté,76,4,4
+6,Nottingham Forest,10203,793876,Renan,Lodi,90,5,2
+7,Nottingham Forest,10203,1076756,Brennan,Johnson,85,2,1
+8,Nottingham Forest,10203,789502,Morgan,Gibbs-White,90,2,1
+9,Nottingham Forest,10203,299215,Jesse,Lingard,67,3,1
+11,AFC Bournemouth,8678,532743,Philip,Billing,89,2,0
+12,AFC Bournemouth,8678,789630,Marcus,Tavernier,90,2,0
+13,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,3,2
+14,AFC Bournemouth,8678,562724,Lewis,Cook,90,3,0
+15,AFC Bournemouth,8678,439369,Ryan,Christie,85,1,0
+16,AFC Bournemouth,8678,982633,Jordan,Zemura,45,3,1
+17,AFC Bournemouth,8678,819215,Lloyd,Kelly,90,9,2
+18,AFC Bournemouth,8678,819762,Chris,Mepham,90,7,0
+19,AFC Bournemouth,8678,160447,Adam,Smith,90,6,1
+0,Tottenham Hotspur,8586,935379,Dejan,Kulusevski,12,2,1
+2,Fulham,9879,350472,Kevin,Mbabu,61,1,1
+4,Fulham,9879,94086,,Willian,30,1,1
+5,Fulham,9879,182962,Tom,Cairney,29,2,1
+0,Tottenham Hotspur,8586,789066,Cristian,Romero,90,6,5
+1,Tottenham Hotspur,8586,361315,Eric,Dier,90,5,5
+2,Tottenham Hotspur,8586,488412,Clément,Lenglet,90,6,2
+3,Tottenham Hotspur,8586,797908,Emerson,Royal,90,3,2
+4,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,7,4
+5,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,90,3,2
+6,Tottenham Hotspur,8586,773991,Ryan,Sessegnon,90,2,1
+7,Tottenham Hotspur,8586,654908,,Richarlison,90,1,0
+9,Tottenham Hotspur,8586,194165,Harry,Kane,78,1,1
+10,Fulham,9879,351860,Aleksandar,Mitrovic,90,2,0
+12,Fulham,9879,575779,Andreas,Pereira,61,1,1
+14,Fulham,9879,524434,Joao,Palhinha,85,5,5
+15,Fulham,9879,502420,Harrison,Reed,90,1,0
+17,Fulham,9879,198444,Tim,Ream,90,4,1
+18,Fulham,9879,683402,Tosin,Adarabioyo,90,9,6
+19,Fulham,9879,469804,Kenny,Tete,90,6,4
+0,Wolverhampton Wanderers,8602,536455,Goncalo,Guedes,45,2,2
+3,Southampton,8466,237563,Stuart,Armstrong,34,3,3
+4,Southampton,8466,862645,Moussa,Djenepo,34,1,0
+5,Southampton,8466,1130774,Samuel,Edozie,17,1,0
+0,Wolverhampton Wanderers,8602,360918,,Jonny,90,3,2
+1,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,8,4
+2,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,13,4
+3,Wolverhampton Wanderers,8602,933845,Rayan Ait,Nouri,90,4,2
+4,Wolverhampton Wanderers,8602,955529,Matheus,Nunes,90,7,7
+5,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,6,4
+6,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,90,4,2
+7,Wolverhampton Wanderers,8602,843040,Pedro,Neto,82,2,1
+9,Wolverhampton Wanderers,8602,524435,Daniel,Podence,82,5,3
+12,Southampton,8466,798659,Joe,Aribo,73,1,1
+13,Southampton,8466,261936,Mohamed,Elyounoussi,56,1,0
+14,Southampton,8466,279490,James,Ward-Prowse,90,4,1
+15,Southampton,8466,938539,Ibrahima,Diallo,56,3,2
+16,Southampton,8466,815465,Romain,Perraud,73,4,1
+17,Southampton,8466,938247,Mohammed,Salisu,90,5,3
+18,Southampton,8466,951765,Armel,Bella-Kotchap,90,3,2
+19,Southampton,8466,734042,Kyle,Walker-Peters,90,1,0
+0,Aston Villa,10252,23354,Ashley,Young,63,7,3
+2,Aston Villa,10252,610184,Emiliano,Buendia,1,1,1
+3,Manchester City,8456,278343,Riyad,Mahrez,17,2,1
+0,Aston Villa,10252,729731,Matty,Cash,27,2,0
+1,Aston Villa,10252,710159,Ezri,Konsa,90,7,0
+2,Aston Villa,10252,419664,Tyrone,Mings,90,5,4
+3,Aston Villa,10252,210111,Lucas,Digne,90,3,3
+4,Aston Villa,10252,787350,Douglas,Luiz,90,6,2
+5,Aston Villa,10252,816325,Boubacar,Kamara,90,3,1
+6,Aston Villa,10252,356406,John,McGinn,65,1,0
+10,Manchester City,8456,815006,Phil,Foden,90,2,1
+12,Manchester City,8456,488139,Bernardo,Silva,73,3,3
+13,Manchester City,8456,178818,Ilkay,Gündogan,90,7,6
+14,Manchester City,8456,675088,,Rodri,90,7,3
+15,Manchester City,8456,169200,Kevin,De Bruyne,90,7,4
+16,Manchester City,8456,361757,Joao,Cancelo,90,9,4
+17,Manchester City,8456,614006,Ruben,Dias,90,3,2
+18,Manchester City,8456,263653,John,Stones,90,3,3
+19,Manchester City,8456,159833,Kyle,Walker,80,9,4
+0,Brighton & Hove Albion,10204,661519,Deniz,Undav,6,1,1
+7,Leicester City,8197,436036,Daniel,Amartey,18,3,2
+0,Brighton & Hove Albion,10204,304455,Joel,Veltman,90,11,7
+1,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,16,13
+2,Brighton & Hove Albion,10204,303346,Adam,Webster,90,9,3
+3,Brighton & Hove Albion,10204,416850,Solly,March,89,7,4
+4,Brighton & Hove Albion,10204,167008,Pascal,Gross,90,6,2
+5,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,3,1
+6,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,89,3,3
+7,Brighton & Hove Albion,10204,318615,Leandro,Trossard,89,3,3
+11,Leicester City,8197,643709,Kelechi,Iheanacho,72,2,1
+12,Leicester City,8197,465960,Youri,Tielemans,72,4,2
+14,Leicester City,8197,493165,James,Maddison,90,3,0
+15,Leicester City,8197,882401,Boubakary,Soumaré,72,2,2
+16,Leicester City,8197,916332,Luke,Thomas,90,4,3
+17,Leicester City,8197,43248,Jonny,Evans,90,8,4
+18,Leicester City,8197,533228,Wilfred,Ndidi,90,6,0
+19,Leicester City,8197,710158,James,Justin,90,4,1
+1,Manchester United,10260,322049,,Fred,23,1,0
+7,Arsenal,9825,664444,Takehiro,Tomiyasu,10,1,1
+0,Manchester United,10260,751550,Diogo,Dalot,90,7,2
+1,Manchester United,10260,230982,Raphaël,Varane,90,2,0
+2,Manchester United,10260,847983,Lisandro,Martinez,80,8,3
+3,Manchester United,10260,865118,Tyrell,Malacia,90,3,2
+5,Manchester United,10260,157723,Christian,Eriksen,90,6,3
+6,Manchester United,10260,967622,,Antony,58,1,0
+7,Manchester United,10260,422685,Bruno,Fernandes,90,3,2
+9,Manchester United,10260,696365,Marcus,Rashford,80,1,1
+10,Arsenal,9825,576165,Gabriel,Jesus,90,2,1
+11,Arsenal,9825,1021586,Gabriel,Martinelli,90,4,3
+12,Arsenal,9825,534670,Martin,Ødegaard,73,2,0
+13,Arsenal,9825,961995,Bukayo,Saka,90,4,3
+14,Arsenal,9825,207236,Granit,Xhaka,90,4,3
+15,Arsenal,9825,901495,Albert Sambi,Lokonga,74,3,2
+17,Arsenal,9825,795179,,Gabriel,90,6,3
+18,Arsenal,9825,955406,William,Saliba,90,3,3
+19,Arsenal,9825,776151,Ben,White,80,2,0
+0,Aston Villa,10252,787350,Douglas,Luiz,46,4,3
+1,Aston Villa,10252,610184,Emiliano,Buendia,23,1,1
+5,Southampton,8466,1195885,Juan,Larios,45,1,0
+0,Aston Villa,10252,23354,Ashley,Young,90,8,5
+1,Aston Villa,10252,710159,Ezri,Konsa,90,10,3
+2,Aston Villa,10252,419664,Tyrone,Mings,90,9,4
+3,Aston Villa,10252,210111,Lucas,Digne,90,6,4
+4,Aston Villa,10252,1021929,Jacob,Ramsey,67,2,1
+5,Aston Villa,10252,816325,Boubacar,Kamara,44,3,2
+6,Aston Villa,10252,356406,John,McGinn,90,4,1
+7,Aston Villa,10252,671331,Leon,Bailey,67,1,0
+8,Aston Villa,10252,184536,Philippe,Coutinho,84,2,1
+10,Southampton,8466,599353,Che,Adams,71,1,1
+11,Southampton,8466,519835,Adam,Armstrong,71,3,1
+14,Southampton,8466,279490,James,Ward-Prowse,90,4,2
+15,Southampton,8466,938539,Ibrahima,Diallo,45,3,1
+16,Southampton,8466,815465,Romain,Perraud,45,2,0
+17,Southampton,8466,938247,Mohammed,Salisu,90,9,3
+18,Southampton,8466,951765,Armel,Bella-Kotchap,90,13,3
+19,Southampton,8466,734042,Kyle,Walker-Peters,90,2,1
+1,Nottingham Forest,10203,716687,Joe,Worrall,27,5,1
+6,Fulham,9879,182962,Tom,Cairney,7,2,1
+0,Nottingham Forest,10203,246331,Willy,Boly,63,6,3
+1,Nottingham Forest,10203,156013,Steve,Cook,63,5,2
+2,Nottingham Forest,10203,551805,Scott,McKenna,90,4,2
+3,Nottingham Forest,10203,1078788,Neco,Williams,88,6,3
+4,Nottingham Forest,10203,775614,Ryan,Yates,90,4,2
+5,Nottingham Forest,10203,201704,Remo,Freuler,70,1,1
+6,Nottingham Forest,10203,793876,Renan,Lodi,90,6,2
+7,Nottingham Forest,10203,789502,Morgan,Gibbs-White,90,2,0
+10,Fulham,9879,351860,Aleksandar,Mitrovic,89,2,2
+11,Fulham,9879,262550,Bobby,Reid,89,2,0
+12,Fulham,9879,575779,Andreas,Pereira,83,6,4
+13,Fulham,9879,94086,,Willian,70,2,1
+14,Fulham,9879,524434,Joao,Palhinha,90,2,2
+15,Fulham,9879,502420,Harrison,Reed,90,3,1
+16,Fulham,9879,198444,Tim,Ream,90,6,4
+17,Fulham,9879,696443,Issa,Diop,90,10,1
+18,Fulham,9879,683402,Tosin,Adarabioyo,90,8,3
+19,Fulham,9879,469804,Kenny,Tete,90,4,2
+1,Wolverhampton Wanderers,8602,1054122,Boubacar,Traore,20,1,1
+5,Manchester City,8456,278343,Riyad,Mahrez,18,3,2
+6,Manchester City,8456,178818,Ilkay,Gündogan,18,2,1
+0,Wolverhampton Wanderers,8602,360918,,Jonny,90,3,3
+1,Wolverhampton Wanderers,8602,961306,Nathan,Collins,33,3,1
+2,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,5,1
+4,Wolverhampton Wanderers,8602,955529,Matheus,Nunes,90,3,1
+5,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,10,9
+6,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,90,6,5
+7,Wolverhampton Wanderers,8602,843040,Pedro,Neto,86,1,1
+10,Manchester City,8456,312765,Jack,Grealish,77,1,1
+12,Manchester City,8456,815006,Phil,Foden,72,2,1
+13,Manchester City,8456,488139,Bernardo,Silva,71,3,2
+14,Manchester City,8456,675088,,Rodri,81,4,4
+15,Manchester City,8456,169200,Kevin,De Bruyne,72,4,3
+17,Manchester City,8456,614006,Ruben,Dias,90,3,2
+18,Manchester City,8456,521318,Manuel,Akanji,90,6,4
+19,Manchester City,8456,263653,John,Stones,90,2,1
+1,Newcastle United,10261,820024,Sean,Longstaff,18,3,1
+4,AFC Bournemouth,8678,564794,Jack,Stacey,3,1,0
+0,Newcastle United,10261,191869,Kieran,Trippier,90,7,2
+1,Newcastle United,10261,189982,Fabian,Schär,90,12,8
+2,Newcastle United,10261,188058,Daniel,Burn,90,10,7
+3,Newcastle United,10261,538112,Matt,Targett,90,4,2
+4,Newcastle United,10261,860975,Joseph,Willock,90,1,1
+5,Newcastle United,10261,850354,Bruno,Guimaraes,72,3,1
+6,Newcastle United,10261,535936,,Joelinton,90,1,1
+11,AFC Bournemouth,8678,439369,Ryan,Christie,87,2,0
+12,AFC Bournemouth,8678,532743,Philip,Billing,89,1,0
+13,AFC Bournemouth,8678,789630,Marcus,Tavernier,80,3,1
+14,AFC Bournemouth,8678,562724,Lewis,Cook,90,2,1
+15,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,2,0
+16,AFC Bournemouth,8678,982633,Jordan,Zemura,90,1,0
+17,AFC Bournemouth,8678,785411,Marcos,Senesi,90,3,0
+18,AFC Bournemouth,8678,819762,Chris,Mepham,90,3,1
+19,AFC Bournemouth,8678,160447,Adam,Smith,90,3,2
+0,Tottenham Hotspur,8586,797908,Emerson,Royal,35,2,0
+2,Tottenham Hotspur,8586,789066,Cristian,Romero,31,1,1
+5,Leicester City,8197,643709,Kelechi,Iheanacho,16,1,0
+6,Leicester City,8197,882401,Boubakary,Soumaré,5,1,1
+0,Tottenham Hotspur,8586,643533,Davinson,Sánchez,59,2,1
+1,Tottenham Hotspur,8586,361315,Eric,Dier,90,15,9
+2,Tottenham Hotspur,8586,488412,Clément,Lenglet,90,3,0
+3,Tottenham Hotspur,8586,163670,Ivan,Perisic,55,1,0
+4,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,5,5
+5,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,90,3,2
+6,Tottenham Hotspur,8586,773991,Ryan,Sessegnon,90,2,1
+8,Tottenham Hotspur,8586,654908,,Richarlison,59,2,2
+9,Tottenham Hotspur,8586,194165,Harry,Kane,90,6,4
+12,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,74,4,3
+13,Leicester City,8197,465960,Youri,Tielemans,90,9,9
+14,Leicester City,8197,493165,James,Maddison,90,6,4
+15,Leicester City,8197,533228,Wilfred,Ndidi,85,3,2
+16,Leicester City,8197,710158,James,Justin,90,6,6
+17,Leicester City,8197,693678,Wout,Faes,90,3,2
+18,Leicester City,8197,43248,Jonny,Evans,90,10,7
+0,Brentford,9937,888912,Mikkel,Damsgaard,27,1,1
+1,Brentford,9937,856685,Frank,Onyeka,27,1,1
+2,Brentford,9937,865131,Shandon,Baptiste,21,1,0
+0,Brentford,9937,552718,Kristoffer,Ajer,90,5,2
+1,Brentford,9937,174031,Pontus,Jansson,90,2,1
+2,Brentford,9937,240538,Ben,Mee,90,8,5
+4,Brentford,9937,759566,Joshua,Dasilva,63,1,1
+5,Brentford,9937,688273,Vitaly,Janelt,63,3,2
+6,Brentford,9937,650616,Mathias,Jensen,69,4,3
+7,Brentford,9937,562892,Rico,Henry,90,4,2
+8,Brentford,9937,923312,Bryan,Mbeumo,76,1,1
+12,Arsenal,9825,1025462,Fabio,Vieira,89,1,0
+13,Arsenal,9825,961995,Bukayo,Saka,89,1,1
+14,Arsenal,9825,207236,Granit,Xhaka,90,4,2
+15,Arsenal,9825,434325,Thomas,Partey,78,5,3
+16,Arsenal,9825,582499,Kieran,Tierney,90,4,2
+17,Arsenal,9825,795179,,Gabriel,90,7,1
+18,Arsenal,9825,955406,William,Saliba,90,4,1
+19,Arsenal,9825,776151,Ben,White,86,1,1
+1,Everton,8668,352887,Abdoulaye,Doucouré,9,1,0
+0,Everton,8668,1112684,Nathan,Patterson,90,3,2
+1,Everton,8668,247761,Conor,Coady,90,15,7
+2,Everton,8668,243138,James,Tarkowski,90,7,3
+3,Everton,8668,874025,Vitalii,Mykolenko,90,3,1
+4,Everton,8668,1185748,Amadou,Onana,90,4,2
+5,Everton,8668,179410,Idrissa Gana,Gueye,90,3,3
+6,Everton,8668,604785,Alex,Iwobi,90,3,1
+7,Everton,8668,492586,Demarai,Gray,81,7,4
+8,Everton,8668,391064,Neal,Maupay,89,1,1
+9,Everton,8668,906937,Anthony,Gordon,74,1,1
+11,West Ham United,8654,683450,Pablo,Fornals,61,2,2
+12,West Ham United,8654,766435,Lucas,Paquetá,61,1,1
+13,West Ham United,8654,523825,Jarrod,Bowen,90,5,2
+14,West Ham United,8654,654096,Declan,Rice,90,3,2
+15,West Ham United,8654,524437,Tomas,Soucek,90,6,5
+16,West Ham United,8654,155782,Aaron,Cresswell,89,7,3
+17,West Ham United,8654,604088,Thilo,Kehrer,90,1,0
+18,West Ham United,8654,281207,Kurt,Zouma,90,5,4
+19,West Ham United,8654,307317,Vladimir,Coufal,90,8,2
+0,Arsenal,9825,901495,Albert Sambi,Lokonga,17,1,1
+1,Arsenal,9825,582499,Kieran,Tierney,17,2,1
+3,Arsenal,9825,1025462,Fabio,Vieira,10,1,0
+4,Arsenal,9825,664444,Takehiro,Tomiyasu,1,1,0
+5,Tottenham Hotspur,8586,773991,Ryan,Sessegnon,19,1,0
+7,Tottenham Hotspur,8586,643533,Davinson,Sánchez,19,2,0
+8,Tottenham Hotspur,8586,239920,Matt,Doherty,19,2,0
+9,Tottenham Hotspur,8586,873014,Oliver,Skipp,15,1,0
+0,Arsenal,9825,776151,Ben,White,89,5,1
+1,Arsenal,9825,955406,William,Saliba,90,2,1
+2,Arsenal,9825,795179,,Gabriel,90,2,1
+3,Arsenal,9825,623621,Oleksandr,Zinchenko,73,2,2
+4,Arsenal,9825,434325,Thomas,Partey,73,4,3
+5,Arsenal,9825,207236,Granit,Xhaka,90,3,3
+7,Arsenal,9825,534670,Martin,Ødegaard,80,1,1
+8,Arsenal,9825,1021586,Gabriel,Martinelli,90,1,1
+9,Arsenal,9825,576165,Gabriel,Jesus,80,1,1
+10,Tottenham Hotspur,8586,194165,Harry,Kane,90,2,1
+11,Tottenham Hotspur,8586,212867,Heung-Min,Son,71,3,2
+12,Tottenham Hotspur,8586,654908,,Richarlison,71,5,2
+13,Tottenham Hotspur,8586,163670,Ivan,Perisic,71,1,1
+14,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,90,1,0
+15,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,75,5,3
+16,Tottenham Hotspur,8586,797908,Emerson,Royal,62,2,1
+17,Tottenham Hotspur,8586,488412,Clément,Lenglet,71,7,2
+18,Tottenham Hotspur,8586,361315,Eric,Dier,90,8,4
+19,Tottenham Hotspur,8586,789066,Cristian,Romero,90,4,1
+1,Brentford,9937,666857,Yoane,Wissa,29,2,0
+3,Brentford,9937,759566,Joshua,Dasilva,29,1,0
+4,Brentford,9937,71908,Mathias,Jørgensen,26,1,1
+0,AFC Bournemouth,8678,160447,Adam,Smith,90,11,5
+1,AFC Bournemouth,8678,819762,Chris,Mepham,90,5,1
+2,AFC Bournemouth,8678,785411,Marcos,Senesi,90,3,1
+4,AFC Bournemouth,8678,789630,Marcus,Tavernier,90,1,0
+5,AFC Bournemouth,8678,562724,Lewis,Cook,90,3,2
+6,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,6,3
+7,AFC Bournemouth,8678,532743,Philip,Billing,90,3,1
+10,Brentford,9937,888912,Mikkel,Damsgaard,61,1,0
+12,Brentford,9937,923312,Bryan,Mbeumo,61,2,2
+13,Brentford,9937,650616,Mathias,Jensen,90,7,3
+14,Brentford,9937,688273,Vitaly,Janelt,90,3,3
+15,Brentford,9937,865131,Shandon,Baptiste,84,2,0
+16,Brentford,9937,562892,Rico,Henry,90,2,2
+17,Brentford,9937,240538,Ben,Mee,90,10,5
+18,Brentford,9937,174031,Pontus,Jansson,64,5,3
+19,Brentford,9937,552718,Kristoffer,Ajer,61,2,2
+0,Crystal Palace,9826,109897,James,Tomkins,46,3,0
+1,Crystal Palace,9826,214570,Jeffrey,Schlupp,16,1,1
+4,Chelsea,8455,604982,Ruben,Loftus-Cheek,34,2,1
+6,Chelsea,8455,966027,Conor,Gallagher,14,1,0
+7,Chelsea,8455,688295,Christian,Pulisic,6,1,0
+1,Crystal Palace,9826,146830,Joel,Ward,90,4,0
+2,Crystal Palace,9826,844425,Marc,Guehi,90,4,0
+3,Crystal Palace,9826,1120224,Tyrick,Mitchell,90,8,2
+4,Crystal Palace,9826,1029063,Michael,Olise,90,1,1
+5,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,84,1,1
+6,Crystal Palace,9826,818975,Eberechi,Eze,74,2,1
+7,Crystal Palace,9826,154280,Jordan,Ayew,90,3,1
+12,Chelsea,8455,750032,Mason,Mount,84,2,2
+13,Chelsea,8455,282775,,Jorginho,56,3,1
+14,Chelsea,8455,239219,Mateo,Kovacic,90,7,4
+16,Chelsea,8455,672469,Ben,Chilwell,90,3,1
+17,Chelsea,8455,80562,Thiago,Silva,90,19,15
+18,Chelsea,8455,917802,Wesley,Fofana,90,3,1
+19,Chelsea,8455,807729,Reece,James,90,6,4
+2,Fulham,9879,696443,Issa,Diop,45,2,2
+4,Newcastle United,10261,1089691,Elliot,Anderson,31,1,0
+8,Newcastle United,10261,538112,Matt,Targett,7,1,1
+1,Fulham,9879,683402,Tosin,Adarabioyo,90,3,0
+2,Fulham,9879,198444,Tim,Ream,90,5,0
+4,Fulham,9879,502420,Harrison,Reed,90,2,1
+7,Fulham,9879,575779,Andreas,Pereira,90,2,1
+12,Newcastle United,10261,442277,Miguel,Almiron,90,3,3
+13,Newcastle United,10261,860975,Joseph,Willock,90,2,2
+14,Newcastle United,10261,850354,Bruno,Guimaraes,59,12,9
+15,Newcastle United,10261,820024,Sean,Longstaff,90,3,2
+16,Newcastle United,10261,188058,Daniel,Burn,83,6,5
+17,Newcastle United,10261,956682,Sven,Botman,90,6,5
+18,Newcastle United,10261,189982,Fabian,Schär,83,11,5
+19,Newcastle United,10261,191869,Kieran,Trippier,83,7,5
+0,Liverpool,8650,860914,Luis,Diaz,45,1,1
+2,Liverpool,8650,38807,James,Milner,31,3,0
+0,Liverpool,8650,760712,Trent,Alexander-Arnold,90,12,7
+1,Liverpool,8650,171698,Joel,Matip,90,8,4
+2,Liverpool,8650,209405,Virgil,van Dijk,90,6,2
+4,Liverpool,8650,156008,Jordan,Henderson,59,2,2
+5,Liverpool,8650,359188,,Fabinho,90,9,4
+6,Liverpool,8650,172949,Thiago,Alcántara,89,8,4
+9,Liverpool,8650,963965,Fabio,Carvalho,45,1,0
+11,Brighton & Hove Albion,10204,113836,Danny,Welbeck,90,1,0
+12,Brighton & Hove Albion,10204,688278,Pervis,Estupinan,76,2,1
+13,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,90,7,7
+14,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,2,1
+15,Brighton & Hove Albion,10204,167008,Pascal,Gross,65,4,1
+16,Brighton & Hove Albion,10204,416850,Solly,March,90,3,1
+17,Brighton & Hove Albion,10204,303346,Adam,Webster,90,5,3
+18,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,9,5
+19,Brighton & Hove Albion,10204,304455,Joel,Veltman,90,5,0
+0,Southampton,8466,519835,Adam,Armstrong,30,1,1
+1,Southampton,8466,815465,Romain,Perraud,30,1,1
+4,Everton,8668,906937,Anthony,Gordon,16,1,1
+0,Southampton,8466,734042,Kyle,Walker-Peters,90,6,1
+1,Southampton,8466,951765,Armel,Bella-Kotchap,90,8,4
+2,Southampton,8466,557799,Duje,Caleta-Car,90,11,4
+3,Southampton,8466,1195885,Juan,Larios,60,2,1
+4,Southampton,8466,237563,Stuart,Armstrong,89,2,2
+5,Southampton,8466,279490,James,Ward-Prowse,90,5,3
+7,Southampton,8466,798659,Joe,Aribo,90,1,0
+8,Southampton,8466,599353,Che,Adams,90,4,4
+9,Southampton,8466,1177312,Sékou,Mara,60,1,0
+10,Everton,8668,492586,Demarai,Gray,89,3,0
+11,Everton,8668,391064,Neal,Maupay,89,2,2
+12,Everton,8668,939542,Dwight,McNeil,74,1,1
+13,Everton,8668,604785,Alex,Iwobi,90,6,4
+14,Everton,8668,179410,Idrissa Gana,Gueye,90,6,2
+15,Everton,8668,1185748,Amadou,Onana,74,4,3
+16,Everton,8668,874025,Vitalii,Mykolenko,90,6,2
+17,Everton,8668,243138,James,Tarkowski,90,5,4
+18,Everton,8668,247761,Conor,Coady,90,10,5
+19,Everton,8668,77690,Seamus,Coleman,90,4,2
+0,West Ham United,8654,683450,Pablo,Fornals,56,2,2
+2,West Ham United,8654,267371,,Emerson,16,1,1
+3,Wolverhampton Wanderers,8602,493647,Adama,Traoré,66,1,0
+5,Wolverhampton Wanderers,8602,1107731,Chem,Campbell,18,1,0
+0,West Ham United,8654,604088,Thilo,Kehrer,90,1,1
+1,West Ham United,8654,169162,Craig,Dawson,90,7,7
+2,West Ham United,8654,281207,Kurt,Zouma,90,3,0
+3,West Ham United,8654,155782,Aaron,Cresswell,90,4,2
+4,West Ham United,8654,524437,Tomas,Soucek,90,1,0
+5,West Ham United,8654,654096,Declan,Rice,90,7,6
+6,West Ham United,8654,523825,Jarrod,Bowen,90,1,0
+7,West Ham United,8654,766435,Lucas,Paquetá,74,2,2
+9,West Ham United,8654,721089,Gianluca,Scamacca,66,2,1
+10,Wolverhampton Wanderers,8602,843040,Pedro,Neto,24,1,1
+15,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,90,8,5
+17,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,10,2
+18,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,17,7
+19,Wolverhampton Wanderers,8602,360918,,Jonny,90,3,1
+0,Manchester City,8456,844477,Sergio,Gomez,49,1,1
+5,Manchester United,10260,258269,Victor Nilsson,Lindelöf,50,2,2
+8,Manchester United,10260,208494,,Casemiro,31,3,0
+0,Manchester City,8456,159833,Kyle,Walker,41,1,1
+1,Manchester City,8456,521318,Manuel,Akanji,90,5,3
+2,Manchester City,8456,417068,Nathan,Aké,90,5,3
+3,Manchester City,8456,361757,Joao,Cancelo,90,5,5
+4,Manchester City,8456,169200,Kevin,De Bruyne,75,3,2
+5,Manchester City,8456,178818,Ilkay,Gündogan,75,2,2
+6,Manchester City,8456,488139,Bernardo,Silva,90,2,1
+8,Manchester City,8456,737066,Erling Braut,Haaland,90,1,1
+9,Manchester City,8456,312765,Jack,Grealish,75,1,1
+10,Manchester United,10260,696365,Marcus,Rashford,59,1,1
+12,Manchester United,10260,422685,Bruno,Fernandes,90,3,1
+13,Manchester United,10260,967622,,Antony,90,1,1
+14,Manchester United,10260,157723,Christian,Eriksen,90,6,2
+15,Manchester United,10260,843099,Scott,McTominay,59,4,2
+17,Manchester United,10260,847983,Lisandro,Martinez,90,6,3
+19,Manchester United,10260,751550,Diogo,Dalot,90,2,1
+0,Leeds United,8463,743192,Junior,Firpo,32,2,1
+2,Leeds United,8463,190666,Luke,Ayling,22,2,0
+3,Leeds United,8463,941213,Crysencio,Summerville,11,2,0
+4,Leeds United,8463,159342,Mateusz,Klich,11,2,0
+5,Aston Villa,10252,490868,Jan,Bednarek,45,6,5
+6,Aston Villa,10252,610184,Emiliano,Buendia,26,3,3
+0,Leeds United,8463,722207,Rasmus,Kristensen,68,4,1
+1,Leeds United,8463,628201,Robin,Koch,90,8,3
+2,Leeds United,8463,150591,Liam,Cooper,90,5,1
+3,Leeds United,8463,796974,Pascal,Struijk,90,3,2
+4,Leeds United,8463,729769,Tyler,Adams,90,3,1
+5,Leeds United,8463,640220,Marc,Roca,58,8,4
+6,Leeds United,8463,751649,Jack,Harrison,79,2,0
+7,Leeds United,8463,952322,Brenden,Aaronson,79,2,0
+8,Leeds United,8463,846369,Luis,Sinisterra,48,2,1
+9,Leeds United,8463,193869,,Rodrigo,68,1,0
+10,Aston Villa,10252,184536,Philippe,Coutinho,90,1,1
+13,Aston Villa,10252,356406,John,McGinn,90,7,3
+14,Aston Villa,10252,787350,Douglas,Luiz,90,6,4
+15,Aston Villa,10252,1021929,Jacob,Ramsey,83,4,2
+16,Aston Villa,10252,281857,Ludwig,Augustinsson,45,4,1
+17,Aston Villa,10252,419664,Tyrone,Mings,90,5,4
+18,Aston Villa,10252,710159,Ezri,Konsa,90,8,3
+19,Aston Villa,10252,23354,Ashley,Young,90,7,3
+5,Nottingham Forest,10203,775614,Ryan,Yates,45,3,1
+6,Nottingham Forest,10203,195299,Serge,Aurier,45,1,0
+0,Leicester City,8197,465750,Timothy,Castagne,90,1,0
+1,Leicester City,8197,693678,Wout,Faes,90,7,3
+2,Leicester City,8197,43248,Jonny,Evans,90,7,4
+3,Leicester City,8197,710158,James,Justin,90,6,2
+4,Leicester City,8197,533228,Wilfred,Ndidi,45,2,2
+5,Leicester City,8197,493165,James,Maddison,85,2,1
+6,Leicester City,8197,465960,Youri,Tielemans,80,1,0
+7,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,90,3,1
+8,Leicester City,8197,760359,Harvey,Barnes,90,1,1
+11,Nottingham Forest,10203,299215,Jesse,Lingard,69,2,1
+12,Nottingham Forest,10203,789502,Morgan,Gibbs-White,90,2,1
+14,Nottingham Forest,10203,914134,Lewis,O'Brien,45,1,0
+15,Nottingham Forest,10203,148302,Cheikhou,Kouyaté,45,2,1
+16,Nottingham Forest,10203,793876,Renan,Lodi,90,7,1
+17,Nottingham Forest,10203,551805,Scott,McKenna,90,4,2
+18,Nottingham Forest,10203,156013,Steve,Cook,90,12,5
+19,Nottingham Forest,10203,1078788,Neco,Williams,45,4,0
+0,AFC Bournemouth,8678,564794,Jack,Stacey,18,1,1
+1,AFC Bournemouth,8678,819762,Chris,Mepham,90,4,2
+2,AFC Bournemouth,8678,785411,Marcos,Senesi,90,7,3
+3,AFC Bournemouth,8678,160447,Adam,Smith,90,4,1
+4,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,3,3
+5,AFC Bournemouth,8678,562724,Lewis,Cook,90,3,1
+7,AFC Bournemouth,8678,439369,Ryan,Christie,90,2,1
+9,AFC Bournemouth,8678,789630,Marcus,Tavernier,90,2,1
+12,Leicester City,8197,493165,James,Maddison,90,3,1
+13,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,90,3,2
+15,Leicester City,8197,465960,Youri,Tielemans,90,6,0
+16,Leicester City,8197,710158,James,Justin,86,3,0
+17,Leicester City,8197,43248,Jonny,Evans,90,5,3
+18,Leicester City,8197,693678,Wout,Faes,90,4,2
+19,Leicester City,8197,465750,Timothy,Castagne,67,3,2
+0,Chelsea,8455,239219,Mateo,Kovacic,24,1,0
+0,Chelsea,8455,72541,César,Azpilicueta,90,4,0
+1,Chelsea,8455,793907,Trevoh,Chalobah,90,4,2
+2,Chelsea,8455,210428,Kalidou,Koulibaly,90,7,2
+3,Chelsea,8455,873289,Marc,Cucurella,90,3,2
+5,Chelsea,8455,282775,,Jorginho,90,1,1
+6,Chelsea,8455,966027,Conor,Gallagher,86,1,0
+7,Chelsea,8455,750032,Mason,Mount,72,4,2
+9,Chelsea,8455,749736,Kai,Havertz,86,1,1
+12,Wolverhampton Wanderers,8602,524435,Daniel,Podence,90,5,4
+13,Wolverhampton Wanderers,8602,493647,Adama,Traoré,72,1,0
+14,Wolverhampton Wanderers,8602,955529,Matheus,Nunes,90,5,3
+15,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,90,7,6
+16,Wolverhampton Wanderers,8602,360918,,Jonny,72,1,1
+17,Wolverhampton Wanderers,8602,1013277,Toti,Gomes,90,7,1
+18,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,6,2
+19,Wolverhampton Wanderers,8602,470834,Nélson,Semedo,90,4,3
+1,Manchester City,8456,1096353,Cole,Palmer,20,1,0
+2,Manchester City,8456,974753,Julián,Álvarez,20,1,1
+0,Manchester City,8456,521318,Manuel,Akanji,90,3,1
+1,Manchester City,8456,614006,Ruben,Dias,90,5,3
+2,Manchester City,8456,417068,Nathan,Aké,90,3,2
+3,Manchester City,8456,361757,Joao,Cancelo,70,3,1
+4,Manchester City,8456,169200,Kevin,De Bruyne,70,2,1
+5,Manchester City,8456,675088,,Rodri,90,11,9
+6,Manchester City,8456,488139,Bernardo,Silva,78,8,7
+7,Manchester City,8456,278343,Riyad,Mahrez,70,2,2
+9,Manchester City,8456,815006,Phil,Foden,58,4,3
+10,Southampton,8466,599353,Che,Adams,90,1,1
+14,Southampton,8466,938539,Ibrahima,Diallo,90,2,1
+15,Southampton,8466,279490,James,Ward-Prowse,90,4,3
+17,Southampton,8466,938247,Mohammed,Salisu,90,10,4
+18,Southampton,8466,951765,Armel,Bella-Kotchap,90,11,4
+19,Southampton,8466,734042,Kyle,Walker-Peters,79,3,2
+1,Newcastle United,10261,466482,Allan,Saint-Maximin,12,1,1
+5,Brentford,9937,688273,Vitaly,Janelt,45,4,4
+0,Newcastle United,10261,191869,Kieran,Trippier,84,6,2
+1,Newcastle United,10261,189982,Fabian,Schär,90,4,1
+2,Newcastle United,10261,956682,Sven,Botman,90,5,2
+3,Newcastle United,10261,188058,Daniel,Burn,90,5,2
+4,Newcastle United,10261,820024,Sean,Longstaff,90,1,1
+5,Newcastle United,10261,850354,Bruno,Guimaraes,78,6,2
+6,Newcastle United,10261,860975,Joseph,Willock,90,4,2
+7,Newcastle United,10261,442277,Miguel,Almiron,84,1,1
+10,Brentford,9937,408987,Ivan,Toney,90,2,1
+12,Brentford,9937,562892,Rico,Henry,90,1,1
+14,Brentford,9937,865131,Shandon,Baptiste,63,1,0
+15,Brentford,9937,650616,Mathias,Jensen,90,11,9
+16,Brentford,9937,1002039,Aaron,Hickey,84,2,0
+17,Brentford,9937,240538,Ben,Mee,71,2,1
+18,Brentford,9937,711357,Ethan,Pinnock,90,6,3
+19,Brentford,9937,552718,Kristoffer,Ajer,90,8,4
+5,Tottenham Hotspur,8586,163670,Ivan,Perisic,10,1,0
+0,Brighton & Hove Albion,10204,304455,Joel,Veltman,88,7,2
+1,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,8,4
+2,Brighton & Hove Albion,10204,303346,Adam,Webster,90,5,4
+3,Brighton & Hove Albion,10204,416850,Solly,March,90,1,0
+4,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,1,1
+7,Brighton & Hove Albion,10204,167008,Pascal,Gross,82,2,1
+8,Brighton & Hove Albion,10204,318615,Leandro,Trossard,90,3,2
+10,Tottenham Hotspur,8586,194165,Harry,Kane,89,2,0
+11,Tottenham Hotspur,8586,212867,Heung-Min,Son,80,1,0
+12,Tottenham Hotspur,8586,773991,Ryan,Sessegnon,90,2,0
+13,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,6,3
+14,Tottenham Hotspur,8586,724306,Yves,Bissouma,70,3,1
+15,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,90,1,1
+16,Tottenham Hotspur,8586,239920,Matt,Doherty,90,5,2
+17,Tottenham Hotspur,8586,276121,Ben,Davies,90,1,0
+18,Tottenham Hotspur,8586,361315,Eric,Dier,90,8,1
+19,Tottenham Hotspur,8586,789066,Cristian,Romero,90,4,2
+0,Crystal Palace,9826,163616,Luka,Milivojevic,26,1,0
+1,Crystal Palace,9826,1120224,Tyrick,Mitchell,25,2,0
+4,Leeds United,8463,941213,Crysencio,Summerville,28,1,0
+0,Crystal Palace,9826,146830,Joel,Ward,90,5,2
+1,Crystal Palace,9826,503659,Joachim,Andersen,90,17,7
+2,Crystal Palace,9826,844425,Marc,Guehi,90,12,6
+3,Crystal Palace,9826,214570,Jeffrey,Schlupp,90,7,2
+4,Crystal Palace,9826,1029063,Michael,Olise,85,2,1
+5,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,64,3,3
+6,Crystal Palace,9826,818975,Eberechi,Eze,90,3,2
+11,Leeds United,8463,751649,Jack,Harrison,90,2,2
+12,Leeds United,8463,193869,,Rodrigo,90,2,2
+13,Leeds United,8463,952322,Brenden,Aaronson,76,2,0
+15,Leeds United,8463,729769,Tyler,Adams,90,7,4
+16,Leeds United,8463,796974,Pascal,Struijk,90,2,0
+17,Leeds United,8463,150591,Liam,Cooper,90,9,2
+18,Leeds United,8463,628201,Robin,Koch,90,6,2
+19,Leeds United,8463,722207,Rasmus,Kristensen,84,1,1
+0,West Ham United,8654,158545,Michail,Antonio,10,2,1
+3,Fulham,9879,182962,Tom,Cairney,19,1,0
+4,Fulham,9879,494417,Harry,Wilson,13,1,1
+1,West Ham United,8654,169162,Craig,Dawson,90,12,6
+2,West Ham United,8654,281207,Kurt,Zouma,90,5,3
+3,West Ham United,8654,155782,Aaron,Cresswell,90,5,2
+4,West Ham United,8654,524437,Tomas,Soucek,90,5,4
+5,West Ham United,8654,654096,Declan,Rice,90,4,4
+7,West Ham United,8654,766435,Lucas,Paquetá,84,3,1
+8,West Ham United,8654,683450,Pablo,Fornals,89,7,5
+9,West Ham United,8654,721089,Gianluca,Scamacca,80,1,1
+10,Fulham,9879,866201,,Vinicius,90,1,0
+11,Fulham,9879,240478,Neeskens,Kebano,89,1,0
+12,Fulham,9879,575779,Andreas,Pereira,77,8,5
+13,Fulham,9879,717176,Daniel,James,77,1,1
+14,Fulham,9879,524434,Joao,Palhinha,90,8,3
+15,Fulham,9879,502420,Harrison,Reed,71,2,1
+16,Fulham,9879,662428,Antonee,Robinson,90,9,4
+17,Fulham,9879,198444,Tim,Ream,90,7,2
+18,Fulham,9879,683402,Tosin,Adarabioyo,90,2,0
+19,Fulham,9879,262550,Bobby,Reid,90,7,3
+1,Arsenal,9825,860920,Edward,Nketiah,1,1,0
+3,Liverpool,8650,242709,Roberto,Firmino,48,1,1
+4,Liverpool,8650,568571,Joseph,Gomez,45,1,1
+0,Arsenal,9825,776151,Ben,White,90,7,2
+1,Arsenal,9825,955406,William,Saliba,90,7,4
+2,Arsenal,9825,795179,,Gabriel,90,7,3
+3,Arsenal,9825,664444,Takehiro,Tomiyasu,90,4,0
+4,Arsenal,9825,434325,Thomas,Partey,90,6,6
+6,Arsenal,9825,961995,Bukayo,Saka,89,1,1
+7,Arsenal,9825,534670,Martin,Ødegaard,82,1,1
+8,Arsenal,9825,1021586,Gabriel,Martinelli,90,1,1
+9,Arsenal,9825,576165,Gabriel,Jesus,89,3,2
+11,Liverpool,8650,860914,Luis,Diaz,42,1,1
+12,Liverpool,8650,570461,Diogo,Jota,81,1,0
+14,Liverpool,8650,172949,Thiago,Alcántara,90,10,5
+15,Liverpool,8650,156008,Jordan,Henderson,90,3,2
+16,Liverpool,8650,671529,Konstantinos,Tsimikas,90,3,1
+17,Liverpool,8650,209405,Virgil,van Dijk,90,11,5
+18,Liverpool,8650,171698,Joel,Matip,69,4,2
+19,Liverpool,8650,760712,Trent,Alexander-Arnold,45,5,1
+0,Everton,8668,939542,Dwight,McNeil,23,2,1
+1,Everton,8668,950474,James,Garner,15,1,0
+0,Everton,8668,77690,Seamus,Coleman,75,1,0
+1,Everton,8668,247761,Conor,Coady,90,8,1
+2,Everton,8668,243138,James,Tarkowski,90,9,6
+3,Everton,8668,874025,Vitalii,Mykolenko,90,7,4
+4,Everton,8668,604785,Alex,Iwobi,90,2,0
+5,Everton,8668,179410,Idrissa Gana,Gueye,76,1,0
+6,Everton,8668,1185748,Amadou,Onana,90,2,1
+11,Manchester United,10260,696365,Marcus,Rashford,90,5,3
+12,Manchester United,10260,422685,Bruno,Fernandes,90,2,1
+13,Manchester United,10260,967622,,Antony,89,1,1
+14,Manchester United,10260,157723,Christian,Eriksen,83,6,3
+15,Manchester United,10260,208494,,Casemiro,90,6,3
+16,Manchester United,10260,362694,Luke,Shaw,90,3,1
+17,Manchester United,10260,847983,Lisandro,Martinez,90,6,1
+18,Manchester United,10260,258269,Victor Nilsson,Lindelöf,90,5,1
+19,Manchester United,10260,751550,Diogo,Dalot,90,6,5
+0,Nottingham Forest,10203,1078788,Neco,Williams,32,5,1
+4,Aston Villa,10252,424129,Leander,Dendoncker,13,2,2
+1,Nottingham Forest,10203,156013,Steve,Cook,90,11,4
+2,Nottingham Forest,10203,551805,Scott,McKenna,90,4,2
+3,Nottingham Forest,10203,575804,Harry,Toffolo,90,4,2
+4,Nottingham Forest,10203,201704,Remo,Freuler,90,4,3
+5,Nottingham Forest,10203,775614,Ryan,Yates,90,1,0
+7,Nottingham Forest,10203,1076756,Brennan,Johnson,90,1,0
+9,Nottingham Forest,10203,789502,Morgan,Gibbs-White,89,4,2
+10,Aston Villa,10252,184536,Philippe,Coutinho,65,2,1
+12,Aston Villa,10252,610184,Emiliano,Buendia,90,2,2
+13,Aston Villa,10252,1021929,Jacob,Ramsey,81,1,1
+14,Aston Villa,10252,787350,Douglas,Luiz,90,7,1
+15,Aston Villa,10252,356406,John,McGinn,77,6,6
+16,Aston Villa,10252,23354,Ashley,Young,90,8,2
+17,Aston Villa,10252,419664,Tyrone,Mings,90,8,4
+18,Aston Villa,10252,710159,Ezri,Konsa,90,9,7
+19,Aston Villa,10252,729731,Matty,Cash,90,5,2
+0,Brentford,9937,803343,Mads,Roerslev,19,1,0
+3,Brentford,9937,673937,Sergi,Canos,10,1,0
+0,Brentford,9937,552718,Kristoffer,Ajer,90,6,3
+1,Brentford,9937,711357,Ethan,Pinnock,90,5,3
+2,Brentford,9937,240538,Ben,Mee,90,7,1
+3,Brentford,9937,562892,Rico,Henry,87,4,2
+4,Brentford,9937,856685,Frank,Onyeka,71,2,1
+6,Brentford,9937,650616,Mathias,Jensen,80,5,1
+7,Brentford,9937,923312,Bryan,Mbeumo,80,1,1
+9,Brentford,9937,666857,Yoane,Wissa,71,2,1
+12,Brighton & Hove Albion,10204,318615,Leandro,Trossard,69,3,2
+13,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,90,7,5
+14,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,1,0
+15,Brighton & Hove Albion,10204,416850,Solly,March,90,4,1
+16,Brighton & Hove Albion,10204,688278,Pervis,Estupinan,45,1,0
+17,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,8,5
+18,Brighton & Hove Albion,10204,303346,Adam,Webster,90,9,7
+19,Brighton & Hove Albion,10204,304455,Joel,Veltman,90,5,2
+4,Crystal Palace,9826,496563,Jairo,Riedewald,34,2,0
+5,Crystal Palace,9826,163616,Luka,Milivojevic,34,3,2
+0,Leicester City,8197,465750,Timothy,Castagne,90,3,1
+1,Leicester City,8197,436036,Daniel,Amartey,90,3,1
+2,Leicester City,8197,693678,Wout,Faes,90,6,2
+3,Leicester City,8197,710158,James,Justin,90,6,2
+5,Leicester City,8197,493165,James,Maddison,90,4,1
+6,Leicester City,8197,465960,Youri,Tielemans,82,5,3
+7,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,90,5,3
+9,Leicester City,8197,644459,Patson,Daka,65,1,0
+10,Crystal Palace,9826,198510,Wilfried,Zaha,77,1,0
+11,Crystal Palace,9826,637746,Odsonne,Edouard,65,1,0
+13,Crystal Palace,9826,818975,Eberechi,Eze,90,2,0
+14,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,56,1,0
+16,Crystal Palace,9826,1120224,Tyrick,Mitchell,56,3,1
+17,Crystal Palace,9826,844425,Marc,Guehi,90,10,5
+18,Crystal Palace,9826,503659,Joachim,Andersen,90,24,14
+19,Crystal Palace,9826,146830,Joel,Ward,90,4,1
+0,Fulham,9879,94086,,Willian,45,4,3
+1,Fulham,9879,182962,Tom,Cairney,45,4,3
+0,Fulham,9879,262550,Bobby,Reid,90,4,2
+1,Fulham,9879,696443,Issa,Diop,90,7,5
+2,Fulham,9879,198444,Tim,Ream,90,11,7
+3,Fulham,9879,662428,Antonee,Robinson,90,4,1
+4,Fulham,9879,502420,Harrison,Reed,45,2,0
+5,Fulham,9879,524434,Joao,Palhinha,90,3,3
+6,Fulham,9879,717176,Daniel,James,45,2,1
+7,Fulham,9879,575779,Andreas,Pereira,87,5,3
+8,Fulham,9879,240478,Neeskens,Kebano,62,1,1
+9,Fulham,9879,351860,Aleksandar,Mitrovic,90,1,0
+12,AFC Bournemouth,8678,532743,Philip,Billing,80,1,1
+13,AFC Bournemouth,8678,439369,Ryan,Christie,89,1,1
+14,AFC Bournemouth,8678,562724,Lewis,Cook,90,4,3
+15,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,1,0
+16,AFC Bournemouth,8678,160447,Adam,Smith,90,2,1
+17,AFC Bournemouth,8678,785411,Marcos,Senesi,90,9,4
+18,AFC Bournemouth,8678,819762,Chris,Mepham,90,5,2
+19,AFC Bournemouth,8678,194323,Ryan,Fredericks,90,2,0
+1,Wolverhampton Wanderers,8602,1054122,Boubacar,Traore,8,1,0
+4,Nottingham Forest,10203,299215,Jesse,Lingard,20,1,1
+5,Nottingham Forest,10203,765693,Orel,Mangala,20,1,0
+0,Wolverhampton Wanderers,8602,360918,,Jonny,90,2,2
+1,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,7,3
+2,Wolverhampton Wanderers,8602,1013277,Toti,Gomes,90,6,4
+3,Wolverhampton Wanderers,8602,933845,Rayan Ait,Nouri,89,1,1
+5,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,11,4
+6,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,82,3,1
+10,Nottingham Forest,10203,789502,Morgan,Gibbs-White,90,6,3
+12,Nottingham Forest,10203,1076756,Brennan,Johnson,90,1,0
+14,Nottingham Forest,10203,201704,Remo,Freuler,84,4,2
+15,Nottingham Forest,10203,775614,Ryan,Yates,90,2,0
+16,Nottingham Forest,10203,575804,Harry,Toffolo,89,3,0
+17,Nottingham Forest,10203,551805,Scott,McKenna,90,9,4
+18,Nottingham Forest,10203,156013,Steve,Cook,90,4,2
+19,Nottingham Forest,10203,1078788,Neco,Williams,90,6,6
+0,Tottenham Hotspur,8586,789066,Cristian,Romero,87,7,4
+1,Tottenham Hotspur,8586,361315,Eric,Dier,90,9,5
+2,Tottenham Hotspur,8586,276121,Ben,Davies,90,10,7
+3,Tottenham Hotspur,8586,239920,Matt,Doherty,89,7,3
+4,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,8,4
+5,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,89,2,1
+6,Tottenham Hotspur,8586,163670,Ivan,Perisic,90,6,3
+11,Everton,8668,492586,Demarai,Gray,90,1,1
+12,Everton,8668,939542,Dwight,McNeil,90,2,0
+13,Everton,8668,179410,Idrissa Gana,Gueye,81,1,0
+14,Everton,8668,1185748,Amadou,Onana,90,1,0
+17,Everton,8668,874025,Vitalii,Mykolenko,90,2,1
+18,Everton,8668,247761,Conor,Coady,90,12,7
+19,Everton,8668,243138,James,Tarkowski,90,10,5
+3,Chelsea,8455,72541,César,Azpilicueta,45,1,0
+4,Chelsea,8455,210428,Kalidou,Koulibaly,45,2,1
+5,Chelsea,8455,966027,Conor,Gallagher,32,1,0
+0,Aston Villa,10252,729731,Matty,Cash,90,6,1
+1,Aston Villa,10252,710159,Ezri,Konsa,90,8,2
+2,Aston Villa,10252,419664,Tyrone,Mings,90,7,3
+3,Aston Villa,10252,23354,Ashley,Young,90,7,4
+5,Aston Villa,10252,787350,Douglas,Luiz,90,3,1
+6,Aston Villa,10252,356406,John,McGinn,73,2,1
+8,Aston Villa,10252,540088,Ollie,Watkins,90,3,2
+10,Chelsea,8455,150565,Pierre-Emerick,Aubameyang,58,1,1
+12,Chelsea,8455,750032,Mason,Mount,90,4,2
+14,Chelsea,8455,239219,Mateo,Kovacic,65,6,2
+15,Chelsea,8455,604982,Ruben,Loftus-Cheek,90,4,2
+16,Chelsea,8455,672469,Ben,Chilwell,90,7,2
+17,Chelsea,8455,873289,Marc,Cucurella,45,2,0
+18,Chelsea,8455,80562,Thiago,Silva,90,7,4
+19,Chelsea,8455,793907,Trevoh,Chalobah,90,2,2
+1,Leeds United,8463,159342,Mateusz,Klich,15,1,1
+4,Arsenal,9825,1025462,Fabio,Vieira,17,1,0
+5,Arsenal,9825,582499,Kieran,Tierney,14,4,1
+6,Arsenal,9825,860920,Edward,Nketiah,8,2,1
+0,Leeds United,8463,722207,Rasmus,Kristensen,90,4,1
+1,Leeds United,8463,628201,Robin,Koch,90,6,1
+2,Leeds United,8463,150591,Liam,Cooper,90,6,2
+3,Leeds United,8463,796974,Pascal,Struijk,90,1,1
+4,Leeds United,8463,729769,Tyler,Adams,90,7,3
+5,Leeds United,8463,640220,Marc,Roca,84,3,1
+7,Leeds United,8463,751649,Jack,Harrison,75,2,1
+9,Leeds United,8463,193869,,Rodrigo,45,3,2
+10,Arsenal,9825,576165,Gabriel,Jesus,82,1,1
+11,Arsenal,9825,1021586,Gabriel,Martinelli,90,4,1
+12,Arsenal,9825,534670,Martin,Ødegaard,73,4,3
+13,Arsenal,9825,961995,Bukayo,Saka,82,1,0
+14,Arsenal,9825,207236,Granit,Xhaka,90,3,3
+15,Arsenal,9825,434325,Thomas,Partey,90,4,2
+16,Arsenal,9825,664444,Takehiro,Tomiyasu,90,7,4
+17,Arsenal,9825,795179,,Gabriel,90,3,0
+18,Arsenal,9825,955406,William,Saliba,90,8,4
+19,Arsenal,9825,776151,Ben,White,76,4,3
+1,Newcastle United,10261,230916,Ryan,Fraser,31,1,0
+0,Manchester United,10260,751550,Diogo,Dalot,90,5,2
+1,Manchester United,10260,230982,Raphaël,Varane,90,11,3
+2,Manchester United,10260,847983,Lisandro,Martinez,90,6,1
+3,Manchester United,10260,362694,Luke,Shaw,90,4,2
+4,Manchester United,10260,208494,,Casemiro,90,5,2
+5,Manchester United,10260,322049,,Fred,90,3,2
+6,Manchester United,10260,967622,,Antony,90,2,0
+7,Manchester United,10260,422685,Bruno,Fernandes,90,4,3
+10,Newcastle United,10261,521148,Jacob,Murphy,59,2,0
+12,Newcastle United,10261,442277,Miguel,Almiron,90,1,0
+13,Newcastle United,10261,535936,,Joelinton,90,1,0
+14,Newcastle United,10261,850354,Bruno,Guimaraes,78,2,0
+15,Newcastle United,10261,820024,Sean,Longstaff,90,5,2
+17,Newcastle United,10261,956682,Sven,Botman,90,7,5
+18,Newcastle United,10261,189982,Fabian,Schär,89,7,6
+19,Newcastle United,10261,191869,Kieran,Trippier,90,11,3
+0,Southampton,8466,557799,Duje,Caleta-Car,48,4,2
+2,Southampton,8466,938539,Ibrahima,Diallo,16,1,0
+0,Southampton,8466,734042,Kyle,Walker-Peters,90,2,1
+1,Southampton,8466,951765,Armel,Bella-Kotchap,42,2,1
+2,Southampton,8466,938247,Mohammed,Salisu,90,8,5
+3,Southampton,8466,815465,Romain,Perraud,90,3,0
+5,Southampton,8466,279490,James,Ward-Prowse,90,2,0
+6,Southampton,8466,604089,Ainsley,Maitland-Niles,74,2,2
+7,Southampton,8466,261936,Mohamed,Elyounoussi,90,2,1
+8,Southampton,8466,519835,Adam,Armstrong,74,2,1
+9,Southampton,8466,599353,Che,Adams,74,2,1
+10,West Ham United,8654,766435,Lucas,Paquetá,87,2,2
+11,West Ham United,8654,721089,Gianluca,Scamacca,87,2,2
+12,West Ham United,8654,523825,Jarrod,Bowen,90,1,0
+14,West Ham United,8654,654096,Declan,Rice,90,5,4
+15,West Ham United,8654,524437,Tomas,Soucek,90,6,4
+16,West Ham United,8654,307317,Vladimir,Coufal,90,3,1
+17,West Ham United,8654,155782,Aaron,Cresswell,90,7,4
+18,West Ham United,8654,604088,Thilo,Kehrer,90,4,2
+19,West Ham United,8654,770267,Ben,Johnson,90,8,1
+1,Liverpool,8650,963965,Fabio,Carvalho,17,1,0
+2,Liverpool,8650,156008,Jordan,Henderson,17,2,0
+4,Liverpool,8650,760712,Trent,Alexander-Arnold,1,1,0
+0,Liverpool,8650,38807,James,Milner,90,8,3
+1,Liverpool,8650,568571,Joseph,Gomez,90,11,5
+2,Liverpool,8650,209405,Virgil,van Dijk,90,5,3
+3,Liverpool,8650,357880,Andrew,Robertson,90,7,2
+4,Liverpool,8650,359188,,Fabinho,73,1,0
+5,Liverpool,8650,172949,Thiago,Alcántara,90,4,2
+6,Liverpool,8650,963964,Harvey,Elliott,73,6,2
+7,Liverpool,8650,242709,Roberto,Firmino,72,1,0
+8,Liverpool,8650,570461,Diogo,Jota,89,2,1
+10,Manchester City,8456,815006,Phil,Foden,90,3,1
+12,Manchester City,8456,488139,Bernardo,Silva,90,5,4
+13,Manchester City,8456,178818,Ilkay,Gündogan,89,3,2
+14,Manchester City,8456,675088,,Rodri,90,12,10
+15,Manchester City,8456,169200,Kevin,De Bruyne,90,7,5
+16,Manchester City,8456,417068,Nathan,Aké,90,6,3
+17,Manchester City,8456,614006,Ruben,Dias,90,9,4
+18,Manchester City,8456,521318,Manuel,Akanji,90,1,0
+19,Manchester City,8456,361757,Joao,Cancelo,90,3,0
+3,Nottingham Forest,10203,575804,Harry,Toffolo,17,1,0
+5,Nottingham Forest,10203,990989,Giulian,Biancone,4,2,0
+0,Brighton & Hove Albion,10204,304455,Joel,Veltman,90,9,4
+1,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,8,5
+2,Brighton & Hove Albion,10204,303346,Adam,Webster,90,10,7
+3,Brighton & Hove Albion,10204,416850,Solly,March,90,3,3
+4,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,8,5
+5,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,90,8,5
+6,Brighton & Hove Albion,10204,318615,Leandro,Trossard,90,2,0
+8,Brighton & Hove Albion,10204,167008,Pascal,Gross,85,2,1
+12,Nottingham Forest,10203,789502,Morgan,Gibbs-White,90,1,1
+13,Nottingham Forest,10203,765693,Orel,Mangala,61,1,0
+14,Nottingham Forest,10203,201704,Remo,Freuler,90,4,2
+15,Nottingham Forest,10203,775614,Ryan,Yates,90,1,0
+16,Nottingham Forest,10203,1078788,Neco,Williams,90,3,1
+17,Nottingham Forest,10203,551805,Scott,McKenna,90,5,0
+18,Nottingham Forest,10203,156013,Steve,Cook,90,8,2
+19,Nottingham Forest,10203,195299,Serge,Aurier,69,1,0
+1,Crystal Palace,9826,706297,Jean-Philippe,Mateta,9,1,0
+4,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,32,5,2
+0,Crystal Palace,9826,146830,Joel,Ward,90,2,0
+1,Crystal Palace,9826,503659,Joachim,Andersen,90,11,5
+2,Crystal Palace,9826,844425,Marc,Guehi,90,12,8
+3,Crystal Palace,9826,1120224,Tyrick,Mitchell,90,6,1
+4,Crystal Palace,9826,214570,Jeffrey,Schlupp,90,3,1
+5,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,90,3,1
+6,Crystal Palace,9826,818975,Eberechi,Eze,89,7,3
+7,Crystal Palace,9826,1029063,Michael,Olise,80,1,1
+9,Crystal Palace,9826,198510,Wilfried,Zaha,90,2,1
+11,Wolverhampton Wanderers,8602,524435,Daniel,Podence,90,1,1
+14,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,7,3
+15,Wolverhampton Wanderers,8602,1054122,Boubacar,Traore,58,1,0
+17,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,12,5
+18,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,10,6
+19,Wolverhampton Wanderers,8602,470834,Nélson,Semedo,90,5,2
+4,Southampton,8466,654045,,Lyanco,26,2,0
+5,Southampton,8466,237563,Stuart,Armstrong,24,3,2
+0,AFC Bournemouth,8678,160447,Adam,Smith,90,7,3
+1,AFC Bournemouth,8678,785411,Marcos,Senesi,77,10,6
+2,AFC Bournemouth,8678,819762,Chris,Mepham,90,8,4
+3,AFC Bournemouth,8678,194323,Ryan,Fredericks,83,2,2
+4,AFC Bournemouth,8678,562724,Lewis,Cook,90,6,5
+6,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,9,2
+7,AFC Bournemouth,8678,789630,Marcus,Tavernier,90,2,2
+8,AFC Bournemouth,8678,532743,Philip,Billing,83,4,1
+11,Southampton,8466,599353,Che,Adams,90,2,2
+12,Southampton,8466,798659,Joe,Aribo,64,3,1
+13,Southampton,8466,279490,James,Ward-Prowse,90,3,1
+14,Southampton,8466,604089,Ainsley,Maitland-Niles,88,4,3
+15,Southampton,8466,261936,Mohamed,Elyounoussi,90,2,1
+16,Southampton,8466,815465,Romain,Perraud,88,4,2
+17,Southampton,8466,938247,Mohammed,Salisu,90,9,2
+18,Southampton,8466,557799,Duje,Caleta-Car,90,7,2
+19,Southampton,8466,734042,Kyle,Walker-Peters,66,5,3
+0,Brentford,9937,865131,Shandon,Baptiste,30,1,0
+2,Brentford,9937,759566,Joshua,Dasilva,17,2,0
+3,Brentford,9937,532220,Saman,Ghoddos,1,1,0
+4,Chelsea,8455,239219,Mateo,Kovacic,75,10,6
+5,Chelsea,8455,688295,Christian,Pulisic,29,1,1
+6,Chelsea,8455,246575,Raheem,Sterling,28,1,0
+0,Brentford,9937,71908,Mathias,Jørgensen,90,6,2
+1,Brentford,9937,240538,Ben,Mee,90,4,1
+2,Brentford,9937,711357,Ethan,Pinnock,90,10,3
+3,Brentford,9937,803343,Mads,Roerslev,90,5,2
+4,Brentford,9937,856685,Frank,Onyeka,60,1,0
+5,Brentford,9937,688273,Vitaly,Janelt,89,2,2
+6,Brentford,9937,650616,Mathias,Jensen,73,4,3
+7,Brentford,9937,562892,Rico,Henry,90,1,0
+10,Chelsea,8455,1077975,Armando,Broja,62,1,0
+11,Chelsea,8455,750032,Mason,Mount,62,1,1
+13,Chelsea,8455,873289,Marc,Cucurella,61,2,0
+14,Chelsea,8455,282775,,Jorginho,90,4,1
+16,Chelsea,8455,604982,Ruben,Loftus-Cheek,90,3,0
+17,Chelsea,8455,210428,Kalidou,Koulibaly,90,14,9
+18,Chelsea,8455,793907,Trevoh,Chalobah,90,3,2
+19,Chelsea,8455,72541,César,Azpilicueta,90,5,1
+5,West Ham United,8654,491883,Said,Benrahma,29,1,1
+6,West Ham United,8654,158545,Michail,Antonio,16,1,0
+0,Liverpool,8650,760712,Trent,Alexander-Arnold,90,10,3
+1,Liverpool,8650,568571,Joseph,Gomez,90,4,1
+2,Liverpool,8650,209405,Virgil,van Dijk,90,4,2
+3,Liverpool,8650,671529,Konstantinos,Tsimikas,81,1,1
+5,Liverpool,8650,156008,Jordan,Henderson,90,10,6
+6,Liverpool,8650,172949,Thiago,Alcántara,58,6,6
+7,Liverpool,8650,963965,Fabio,Carvalho,57,1,1
+8,Liverpool,8650,242709,Roberto,Firmino,81,1,1
+11,West Ham United,8654,523825,Jarrod,Bowen,90,2,2
+12,West Ham United,8654,683450,Pablo,Fornals,61,5,2
+13,West Ham United,8654,654096,Declan,Rice,90,9,8
+14,West Ham United,8654,524437,Tomas,Soucek,90,5,3
+15,West Ham United,8654,844943,Flynn,Downes,74,1,0
+16,West Ham United,8654,155782,Aaron,Cresswell,90,10,6
+17,West Ham United,8654,604088,Thilo,Kehrer,90,10,8
+18,West Ham United,8654,281207,Kurt,Zouma,90,6,3
+19,West Ham United,8654,770267,Ben,Johnson,90,14,4
+0,Newcastle United,10261,860975,Joseph,Willock,45,2,2
+5,Everton,8668,950474,James,Garner,17,2,1
+0,Newcastle United,10261,191869,Kieran,Trippier,90,3,1
+1,Newcastle United,10261,189982,Fabian,Schär,90,9,2
+2,Newcastle United,10261,956682,Sven,Botman,90,3,2
+3,Newcastle United,10261,188058,Daniel,Burn,90,5,1
+4,Newcastle United,10261,820024,Sean,Longstaff,90,1,0
+5,Newcastle United,10261,850354,Bruno,Guimaraes,90,5,2
+7,Newcastle United,10261,442277,Miguel,Almiron,73,1,0
+8,Newcastle United,10261,184321,Callum,Wilson,87,1,1
+9,Newcastle United,10261,521148,Jacob,Murphy,72,1,0
+10,Everton,8668,492586,Demarai,Gray,79,1,0
+12,Everton,8668,906937,Anthony,Gordon,90,1,0
+13,Everton,8668,1185748,Amadou,Onana,90,2,0
+14,Everton,8668,179410,Idrissa Gana,Gueye,90,4,2
+15,Everton,8668,604785,Alex,Iwobi,73,2,1
+16,Everton,8668,874025,Vitalii,Mykolenko,90,4,0
+17,Everton,8668,243138,James,Tarkowski,90,8,4
+18,Everton,8668,247761,Conor,Coady,90,9,4
+19,Everton,8668,77690,Seamus,Coleman,90,1,0
+0,Manchester United,10260,751550,Diogo,Dalot,90,9,6
+1,Manchester United,10260,230982,Raphaël,Varane,90,5,5
+2,Manchester United,10260,847983,Lisandro,Martinez,90,4,2
+3,Manchester United,10260,362694,Luke,Shaw,90,3,2
+4,Manchester United,10260,208494,,Casemiro,87,4,3
+5,Manchester United,10260,322049,,Fred,90,7,3
+7,Manchester United,10260,422685,Bruno,Fernandes,90,10,9
+9,Manchester United,10260,696365,Marcus,Rashford,90,1,1
+10,Tottenham Hotspur,8586,212867,Heung-Min,Son,90,1,0
+11,Tottenham Hotspur,8586,194165,Harry,Kane,90,4,3
+12,Tottenham Hotspur,8586,163670,Ivan,Perisic,89,2,2
+13,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,1,1
+14,Tottenham Hotspur,8586,724306,Yves,Bissouma,82,3,2
+15,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,89,1,1
+16,Tottenham Hotspur,8586,239920,Matt,Doherty,82,3,1
+17,Tottenham Hotspur,8586,276121,Ben,Davies,90,9,2
+18,Tottenham Hotspur,8586,361315,Eric,Dier,82,3,1
+19,Tottenham Hotspur,8586,789066,Cristian,Romero,90,10,7
+0,Fulham,9879,717176,Daniel,James,17,1,0
+1,Fulham,9879,182962,Tom,Cairney,17,2,2
+5,Aston Villa,10252,729731,Matty,Cash,45,1,0
+0,Fulham,9879,262550,Bobby,Reid,90,7,3
+1,Fulham,9879,696443,Issa,Diop,90,4,3
+2,Fulham,9879,198444,Tim,Ream,90,12,8
+3,Fulham,9879,662428,Antonee,Robinson,90,4,0
+4,Fulham,9879,524434,Joao,Palhinha,90,9,7
+5,Fulham,9879,502420,Harrison,Reed,73,1,1
+7,Fulham,9879,575779,Andreas,Pereira,87,2,1
+8,Fulham,9879,94086,,Willian,73,3,2
+9,Fulham,9879,351860,Aleksandar,Mitrovic,84,2,2
+13,Aston Villa,10252,356406,John,McGinn,90,4,1
+16,Aston Villa,10252,23354,Ashley,Young,90,5,3
+17,Aston Villa,10252,419664,Tyrone,Mings,90,8,4
+18,Aston Villa,10252,490868,Jan,Bednarek,45,2,1
+19,Aston Villa,10252,710159,Ezri,Konsa,90,6,2
+0,Leicester City,8197,644459,Patson,Daka,26,1,0
+5,Leeds United,8463,150591,Liam,Cooper,45,2,0
+6,Leeds United,8463,751649,Jack,Harrison,25,2,0
+8,Leeds United,8463,159342,Mateusz,Klich,8,2,0
+0,Leicester City,8197,465750,Timothy,Castagne,90,7,2
+1,Leicester City,8197,436036,Daniel,Amartey,90,3,1
+2,Leicester City,8197,693678,Wout,Faes,90,10,3
+3,Leicester City,8197,710158,James,Justin,90,4,1
+4,Leicester City,8197,882401,Boubakary,Soumaré,64,2,2
+6,Leicester City,8197,465960,Youri,Tielemans,90,7,5
+7,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,90,5,2
+8,Leicester City,8197,760359,Harvey,Barnes,85,2,2
+11,Leeds United,8463,846369,Luis,Sinisterra,75,2,2
+12,Leeds United,8463,952322,Brenden,Aaronson,90,2,0
+13,Leeds United,8463,941213,Crysencio,Summerville,90,1,1
+14,Leeds United,8463,640220,Marc,Roca,45,1,0
+15,Leeds United,8463,729769,Tyler,Adams,90,3,2
+16,Leeds United,8463,743192,Junior,Firpo,82,1,0
+17,Leeds United,8463,420568,Diego,Llorente,90,11,5
+18,Leeds United,8463,628201,Robin,Koch,45,5,1
+19,Leeds United,8463,722207,Rasmus,Kristensen,90,3,0
+4,Liverpool,8650,156008,Jordan,Henderson,28,5,4
+5,Liverpool,8650,760712,Trent,Alexander-Arnold,28,7,4
+1,Nottingham Forest,10203,156013,Steve,Cook,90,4,2
+2,Nottingham Forest,10203,551805,Scott,McKenna,90,5,3
+3,Nottingham Forest,10203,1078788,Neco,Williams,73,8,2
+4,Nottingham Forest,10203,775614,Ryan,Yates,90,3,2
+5,Nottingham Forest,10203,201704,Remo,Freuler,90,2,1
+7,Nottingham Forest,10203,789502,Morgan,Gibbs-White,90,2,1
+8,Nottingham Forest,10203,299215,Jesse,Lingard,64,4,0
+11,Liverpool,8650,242709,Roberto,Firmino,76,3,1
+13,Liverpool,8650,933768,Curtis,Jones,90,3,3
+14,Liverpool,8650,359188,,Fabinho,90,7,5
+15,Liverpool,8650,963964,Harvey,Elliott,90,3,1
+16,Liverpool,8650,357880,Andrew,Robertson,90,5,2
+17,Liverpool,8650,209405,Virgil,van Dijk,90,6,6
+18,Liverpool,8650,568571,Joseph,Gomez,90,11,6
+19,Liverpool,8650,38807,James,Milner,62,4,3
+6,Crystal Palace,9826,214570,Jeffrey,Schlupp,28,1,1
+0,Everton,8668,77690,Seamus,Coleman,90,1,1
+1,Everton,8668,247761,Conor,Coady,90,8,3
+2,Everton,8668,243138,James,Tarkowski,90,6,3
+4,Everton,8668,604785,Alex,Iwobi,90,3,2
+5,Everton,8668,179410,Idrissa Gana,Gueye,86,2,1
+6,Everton,8668,1185748,Amadou,Onana,78,4,2
+7,Everton,8668,906937,Anthony,Gordon,86,1,0
+13,Crystal Palace,9826,818975,Eberechi,Eze,90,1,1
+14,Crystal Palace,9826,163616,Luka,Milivojevic,62,4,2
+15,Crystal Palace,9826,1029063,Michael,Olise,62,3,1
+16,Crystal Palace,9826,1120224,Tyrick,Mitchell,90,3,2
+17,Crystal Palace,9826,844425,Marc,Guehi,90,9,6
+18,Crystal Palace,9826,503659,Joachim,Andersen,90,10,4
+19,Crystal Palace,9826,146830,Joel,Ward,90,4,3
+1,Manchester City,8456,1096353,Cole,Palmer,13,1,0
+3,Brighton & Hove Albion,10204,955139,Tariq,Lamptey,45,1,1
+6,Brighton & Hove Albion,10204,942549,Billy,Gilmour,3,2,2
+0,Manchester City,8456,521318,Manuel,Akanji,90,1,0
+1,Manchester City,8456,614006,Ruben,Dias,90,3,2
+2,Manchester City,8456,411617,Aymeric,Laporte,90,3,2
+3,Manchester City,8456,361757,Joao,Cancelo,90,3,3
+4,Manchester City,8456,169200,Kevin,De Bruyne,90,2,2
+5,Manchester City,8456,675088,,Rodri,90,6,2
+6,Manchester City,8456,488139,Bernardo,Silva,90,3,1
+7,Manchester City,8456,278343,Riyad,Mahrez,62,2,1
+10,Brighton & Hove Albion,10204,113836,Danny,Welbeck,79,1,0
+11,Brighton & Hove Albion,10204,37234,Adam,Lallana,45,1,1
+12,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,87,2,2
+13,Brighton & Hove Albion,10204,318615,Leandro,Trossard,90,3,1
+15,Brighton & Hove Albion,10204,167008,Pascal,Gross,87,3,2
+16,Brighton & Hove Albion,10204,416850,Solly,March,90,2,2
+17,Brighton & Hove Albion,10204,303346,Adam,Webster,90,7,4
+18,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,11,5
+19,Brighton & Hove Albion,10204,304455,Joel,Veltman,66,4,1
+0,Chelsea,8455,239219,Mateo,Kovacic,54,3,1
+3,Chelsea,8455,1089685,Carney,Chukwuemeka,11,1,1
+4,Manchester United,10260,322049,,Fred,38,3,3
+5,Manchester United,10260,258269,Victor Nilsson,Lindelöf,30,1,0
+0,Chelsea,8455,793907,Trevoh,Chalobah,90,8,2
+1,Chelsea,8455,80562,Thiago,Silva,90,5,2
+2,Chelsea,8455,873289,Marc,Cucurella,36,1,1
+3,Chelsea,8455,72541,César,Azpilicueta,90,2,0
+4,Chelsea,8455,282775,,Jorginho,90,4,1
+5,Chelsea,8455,604982,Ruben,Loftus-Cheek,79,2,2
+6,Chelsea,8455,672469,Ben,Chilwell,90,3,0
+12,Manchester United,10260,422685,Bruno,Fernandes,90,7,3
+13,Manchester United,10260,967622,,Antony,90,2,2
+14,Manchester United,10260,157723,Christian,Eriksen,80,4,3
+15,Manchester United,10260,208494,,Casemiro,90,8,6
+16,Manchester United,10260,362694,Luke,Shaw,90,5,2
+17,Manchester United,10260,847983,Lisandro,Martinez,90,3,1
+18,Manchester United,10260,230982,Raphaël,Varane,60,2,2
+19,Manchester United,10260,751550,Diogo,Dalot,90,6,3
+0,Aston Villa,10252,356406,John,McGinn,27,3,2
+1,Aston Villa,10252,1021929,Jacob,Ramsey,19,1,0
+5,Brentford,9937,759566,Joshua,Dasilva,45,3,1
+6,Brentford,9937,673937,Sergi,Canos,45,2,1
+0,Aston Villa,10252,729731,Matty,Cash,81,7,3
+2,Aston Villa,10252,419664,Tyrone,Mings,90,4,0
+3,Aston Villa,10252,23354,Ashley,Young,90,1,0
+4,Aston Villa,10252,424129,Leander,Dendoncker,63,2,1
+5,Aston Villa,10252,787350,Douglas,Luiz,90,5,4
+7,Aston Villa,10252,610184,Emiliano,Buendia,71,2,2
+10,Brentford,9937,408987,Ivan,Toney,90,1,1
+12,Brentford,9937,562892,Rico,Henry,90,2,0
+13,Brentford,9937,650616,Mathias,Jensen,78,4,4
+14,Brentford,9937,688273,Vitaly,Janelt,90,1,1
+15,Brentford,9937,856685,Frank,Onyeka,45,1,0
+16,Brentford,9937,803343,Mads,Roerslev,45,1,1
+17,Brentford,9937,711357,Ethan,Pinnock,90,7,2
+18,Brentford,9937,71908,Mathias,Jørgensen,61,1,0
+19,Brentford,9937,552718,Kristoffer,Ajer,90,3,0
+2,Leeds United,8463,159342,Mateusz,Klich,14,2,0
+5,Fulham,9879,174325,Shane,Duffy,1,1,0
+0,Leeds United,8463,190666,Luke,Ayling,90,5,4
+1,Leeds United,8463,628201,Robin,Koch,90,7,3
+2,Leeds United,8463,150591,Liam,Cooper,90,8,4
+3,Leeds United,8463,796974,Pascal,Struijk,84,1,0
+4,Leeds United,8463,1049805,Sam,Greenwood,76,6,0
+5,Leeds United,8463,640220,Marc,Roca,90,11,9
+6,Leeds United,8463,751649,Jack,Harrison,90,5,1
+7,Leeds United,8463,952322,Brenden,Aaronson,90,2,1
+8,Leeds United,8463,846369,Luis,Sinisterra,64,2,1
+11,Fulham,9879,94086,,Willian,89,4,3
+12,Fulham,9879,575779,Andreas,Pereira,90,2,2
+13,Fulham,9879,494417,Harry,Wilson,63,2,1
+14,Fulham,9879,524434,Joao,Palhinha,90,2,2
+15,Fulham,9879,502420,Harrison,Reed,89,5,2
+16,Fulham,9879,662428,Antonee,Robinson,90,7,2
+17,Fulham,9879,198444,Tim,Ream,90,7,4
+18,Fulham,9879,683402,Tosin,Adarabioyo,90,12,6
+19,Fulham,9879,262550,Bobby,Reid,90,8,0
+0,Southampton,8466,599353,Che,Adams,17,1,1
+4,Arsenal,9825,582499,Kieran,Tierney,18,2,0
+0,Southampton,8466,654045,,Lyanco,90,4,1
+1,Southampton,8466,557799,Duje,Caleta-Car,90,5,2
+2,Southampton,8466,938247,Mohammed,Salisu,90,7,4
+4,Southampton,8466,261936,Mohamed,Elyounoussi,90,2,1
+5,Southampton,8466,279490,James,Ward-Prowse,90,3,3
+6,Southampton,8466,938539,Ibrahima,Diallo,90,1,0
+7,Southampton,8466,237563,Stuart,Armstrong,80,3,2
+10,Arsenal,9825,576165,Gabriel,Jesus,90,1,0
+11,Arsenal,9825,1021586,Gabriel,Martinelli,71,1,0
+12,Arsenal,9825,534670,Martin,Ødegaard,83,1,1
+13,Arsenal,9825,961995,Bukayo,Saka,90,2,1
+14,Arsenal,9825,207236,Granit,Xhaka,90,5,3
+15,Arsenal,9825,434325,Thomas,Partey,90,5,5
+16,Arsenal,9825,664444,Takehiro,Tomiyasu,90,3,3
+17,Arsenal,9825,795179,,Gabriel,90,4,1
+18,Arsenal,9825,955406,William,Saliba,90,4,2
+19,Arsenal,9825,776151,Ben,White,72,3,2
+1,Wolverhampton Wanderers,8602,470834,Nélson,Semedo,23,3,0
+3,Wolverhampton Wanderers,8602,1054122,Boubacar,Traore,9,1,1
+5,Leicester City,8197,210128,Nampalys,Mendy,29,1,1
+6,Leicester City,8197,282012,Dennis,Praet,28,2,1
+0,Wolverhampton Wanderers,8602,360918,,Jonny,67,2,1
+1,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,9,8
+2,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,10,4
+3,Wolverhampton Wanderers,8602,1116391,Hugo,Bueno,90,1,1
+4,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,81,2,1
+5,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,15,12
+6,Wolverhampton Wanderers,8602,493647,Adama,Traoré,90,1,1
+7,Wolverhampton Wanderers,8602,955529,Matheus,Nunes,66,1,1
+8,Wolverhampton Wanderers,8602,524435,Daniel,Podence,90,3,2
+12,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,62,2,0
+13,Leicester City,8197,465960,Youri,Tielemans,90,2,1
+14,Leicester City,8197,493165,James,Maddison,90,6,5
+15,Leicester City,8197,882401,Boubakary,Soumaré,61,1,0
+16,Leicester City,8197,710158,James,Justin,88,4,1
+17,Leicester City,8197,693678,Wout,Faes,90,8,4
+18,Leicester City,8197,436036,Daniel,Amartey,90,3,0
+19,Leicester City,8197,465750,Timothy,Castagne,90,2,0
+3,Tottenham Hotspur,8586,276121,Ben,Davies,9,1,1
+6,Newcastle United,10261,127130,Jonjo,Shelvey,1,4,1
+0,Tottenham Hotspur,8586,643533,Davinson,Sánchez,81,4,0
+1,Tottenham Hotspur,8586,361315,Eric,Dier,90,19,8
+2,Tottenham Hotspur,8586,488412,Clément,Lenglet,81,5,3
+3,Tottenham Hotspur,8586,797908,Emerson,Royal,90,4,3
+4,Tottenham Hotspur,8586,873014,Oliver,Skipp,66,2,1
+5,Tottenham Hotspur,8586,724306,Yves,Bissouma,90,2,0
+6,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,90,3,2
+7,Tottenham Hotspur,8586,773991,Ryan,Sessegnon,61,2,1
+8,Tottenham Hotspur,8586,194165,Harry,Kane,90,1,0
+10,Newcastle United,10261,535936,,Joelinton,90,1,0
+13,Newcastle United,10261,860975,Joseph,Willock,75,3,2
+14,Newcastle United,10261,850354,Bruno,Guimaraes,89,12,6
+15,Newcastle United,10261,820024,Sean,Longstaff,90,1,1
+16,Newcastle United,10261,188058,Daniel,Burn,90,2,1
+17,Newcastle United,10261,956682,Sven,Botman,90,7,4
+18,Newcastle United,10261,189982,Fabian,Schär,90,15,6
+19,Newcastle United,10261,191869,Kieran,Trippier,90,5,2
+1,West Ham United,8654,683450,Pablo,Fornals,2,1,1
+4,AFC Bournemouth,8678,1171140,Jaidon,Anthony,33,1,1
+5,AFC Bournemouth,8678,982633,Jordan,Zemura,33,1,0
+0,West Ham United,8654,770267,Ben,Johnson,90,10,3
+1,West Ham United,8654,281207,Kurt,Zouma,90,7,4
+2,West Ham United,8654,604088,Thilo,Kehrer,90,5,3
+3,West Ham United,8654,155782,Aaron,Cresswell,90,1,1
+4,West Ham United,8654,524437,Tomas,Soucek,90,2,1
+5,West Ham United,8654,654096,Declan,Rice,90,11,10
+6,West Ham United,8654,523825,Jarrod,Bowen,88,4,4
+9,West Ham United,8654,721089,Gianluca,Scamacca,74,1,1
+10,AFC Bournemouth,8678,591734,Dominic,Solanke,45,1,1
+11,AFC Bournemouth,8678,532743,Philip,Billing,90,1,0
+12,AFC Bournemouth,8678,439369,Ryan,Christie,57,1,1
+13,AFC Bournemouth,8678,789630,Marcus,Tavernier,90,3,0
+14,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,5,4
+15,AFC Bournemouth,8678,562724,Lewis,Cook,90,2,1
+17,AFC Bournemouth,8678,160447,Adam,Smith,90,2,1
+18,AFC Bournemouth,8678,785411,Marcos,Senesi,90,11,3
+19,AFC Bournemouth,8678,819762,Chris,Mepham,90,4,3
+1,Leicester City,8197,643709,Kelechi,Iheanacho,19,1,0
+0,Leicester City,8197,436036,Daniel,Amartey,90,2,1
+1,Leicester City,8197,693678,Wout,Faes,90,7,4
+2,Leicester City,8197,602261,Caglar,Söyüncü,72,5,1
+3,Leicester City,8197,465750,Timothy,Castagne,90,3,2
+4,Leicester City,8197,465960,Youri,Tielemans,90,2,2
+5,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,45,2,1
+6,Leicester City,8197,710158,James,Justin,90,3,1
+7,Leicester City,8197,493165,James,Maddison,90,4,3
+8,Leicester City,8197,286119,Jamie,Vardy,71,1,0
+12,Manchester City,8456,488139,Bernardo,Silva,90,3,2
+13,Manchester City,8456,178818,Ilkay,Gündogan,90,1,0
+14,Manchester City,8456,675088,,Rodri,90,7,6
+15,Manchester City,8456,169200,Kevin,De Bruyne,90,13,9
+16,Manchester City,8456,361757,Joao,Cancelo,90,1,0
+17,Manchester City,8456,411617,Aymeric,Laporte,90,6,3
+18,Manchester City,8456,521318,Manuel,Akanji,72,4,3
+19,Manchester City,8456,263653,John,Stones,90,8,7
+4,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,32,4,3
+5,Tottenham Hotspur,8586,361315,Eric,Dier,33,1,1
+6,Tottenham Hotspur,8586,163670,Ivan,Perisic,27,1,1
+0,AFC Bournemouth,8678,160447,Adam,Smith,90,5,1
+1,AFC Bournemouth,8678,819762,Chris,Mepham,90,4,2
+2,AFC Bournemouth,8678,785411,Marcos,Senesi,90,3,3
+3,AFC Bournemouth,8678,789630,Marcus,Tavernier,78,1,1
+4,AFC Bournemouth,8678,562724,Lewis,Cook,90,2,1
+5,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,2,1
+6,AFC Bournemouth,8678,982633,Jordan,Zemura,90,3,1
+7,AFC Bournemouth,8678,591734,Dominic,Solanke,89,1,0
+8,AFC Bournemouth,8678,532743,Philip,Billing,63,1,0
+9,AFC Bournemouth,8678,469202,Kieffer,Moore,90,1,0
+11,Tottenham Hotspur,8586,194165,Harry,Kane,90,2,2
+12,Tottenham Hotspur,8586,773991,Ryan,Sessegnon,84,2,1
+13,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,6,4
+16,Tottenham Hotspur,8586,797908,Emerson,Royal,63,1,1
+17,Tottenham Hotspur,8586,276121,Ben,Davies,90,7,4
+18,Tottenham Hotspur,8586,488412,Clément,Lenglet,90,2,0
+19,Tottenham Hotspur,8586,643533,Davinson,Sánchez,57,3,1
+0,Brentford,9937,888912,Mikkel,Damsgaard,53,2,2
+3,Brentford,9937,803343,Mads,Roerslev,7,3,0
+4,Brentford,9937,673937,Sergi,Canos,7,1,0
+5,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,49,1,1
+0,Brentford,9937,552718,Kristoffer,Ajer,83,3,2
+1,Brentford,9937,240538,Ben,Mee,90,4,2
+2,Brentford,9937,711357,Ethan,Pinnock,90,7,3
+3,Brentford,9937,562892,Rico,Henry,90,1,1
+4,Brentford,9937,650616,Mathias,Jensen,37,4,2
+5,Brentford,9937,688273,Vitaly,Janelt,90,6,5
+6,Brentford,9937,759566,Joshua,Dasilva,83,5,1
+9,Brentford,9937,666857,Yoane,Wissa,75,1,0
+11,Wolverhampton Wanderers,8602,524435,Daniel,Podence,90,2,2
+12,Wolverhampton Wanderers,8602,955529,Matheus,Nunes,41,1,1
+14,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,11,6
+15,Wolverhampton Wanderers,8602,1054122,Boubacar,Traore,90,2,1
+17,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,9,0
+18,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,2,0
+19,Wolverhampton Wanderers,8602,470834,Nélson,Semedo,90,6,2
+1,Brighton & Hove Albion,10204,955139,Tariq,Lamptey,17,1,0
+4,Chelsea,8455,672469,Ben,Chilwell,26,2,1
+6,Chelsea,8455,360559,Hakim,Ziyech,11,1,1
+0,Brighton & Hove Albion,10204,167008,Pascal,Gross,90,8,4
+1,Brighton & Hove Albion,10204,303346,Adam,Webster,90,3,2
+2,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,5,5
+3,Brighton & Hove Albion,10204,688278,Pervis,Estupinan,90,2,2
+4,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,2,0
+5,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,90,2,1
+6,Brighton & Hove Albion,10204,416850,Solly,March,90,3,2
+9,Brighton & Hove Albion,10204,318615,Leandro,Trossard,87,5,2
+10,Chelsea,8455,749736,Kai,Havertz,90,1,0
+11,Chelsea,8455,750032,Mason,Mount,90,1,1
+14,Chelsea,8455,239219,Mateo,Kovacic,90,3,0
+15,Chelsea,8455,604982,Ruben,Loftus-Cheek,90,1,1
+16,Chelsea,8455,688295,Christian,Pulisic,79,1,0
+17,Chelsea,8455,873289,Marc,Cucurella,64,3,0
+18,Chelsea,8455,80562,Thiago,Silva,90,4,3
+19,Chelsea,8455,793907,Trevoh,Chalobah,90,5,4
+0,Crystal Palace,9826,154280,Jordan,Ayew,27,1,0
+3,Southampton,8466,604089,Ainsley,Maitland-Niles,45,2,2
+4,Southampton,8466,1130774,Samuel,Edozie,16,1,0
+5,Southampton,8466,862645,Moussa,Djenepo,16,1,0
+0,Crystal Palace,9826,146830,Joel,Ward,90,6,2
+1,Crystal Palace,9826,503659,Joachim,Andersen,90,12,2
+2,Crystal Palace,9826,844425,Marc,Guehi,90,7,5
+3,Crystal Palace,9826,1120224,Tyrick,Mitchell,90,5,2
+4,Crystal Palace,9826,163616,Luka,Milivojevic,90,2,1
+5,Crystal Palace,9826,1029063,Michael,Olise,86,5,2
+6,Crystal Palace,9826,214570,Jeffrey,Schlupp,90,3,0
+7,Crystal Palace,9826,818975,Eberechi,Eze,63,4,2
+8,Crystal Palace,9826,198510,Wilfried,Zaha,90,1,1
+10,Southampton,8466,599353,Che,Adams,90,1,1
+11,Southampton,8466,798659,Joe,Aribo,90,2,2
+14,Southampton,8466,279490,James,Ward-Prowse,90,4,2
+16,Southampton,8466,815465,Romain,Perraud,74,2,0
+17,Southampton,8466,938247,Mohammed,Salisu,90,7,3
+18,Southampton,8466,557799,Duje,Caleta-Car,90,5,2
+19,Southampton,8466,654045,,Lyanco,90,6,1
+1,Newcastle United,10261,538112,Matt,Targett,19,2,1
+2,Newcastle United,10261,127130,Jonjo,Shelvey,7,3,1
+8,Aston Villa,10252,356406,John,McGinn,21,1,1
+0,Newcastle United,10261,191869,Kieran,Trippier,90,11,4
+1,Newcastle United,10261,189982,Fabian,Schär,83,8,5
+2,Newcastle United,10261,956682,Sven,Botman,71,6,3
+3,Newcastle United,10261,188058,Daniel,Burn,90,3,0
+4,Newcastle United,10261,820024,Sean,Longstaff,90,5,3
+5,Newcastle United,10261,850354,Bruno,Guimaraes,83,10,7
+6,Newcastle United,10261,860975,Joseph,Willock,71,2,1
+7,Newcastle United,10261,442277,Miguel,Almiron,86,1,1
+10,Aston Villa,10252,214426,Danny,Ings,90,1,0
+12,Aston Villa,10252,610184,Emiliano,Buendia,61,3,3
+15,Aston Villa,10252,424129,Leander,Dendoncker,69,3,0
+16,Aston Villa,10252,23354,Ashley,Young,90,2,1
+17,Aston Villa,10252,419664,Tyrone,Mings,90,6,2
+18,Aston Villa,10252,710159,Ezri,Konsa,90,7,2
+19,Aston Villa,10252,729731,Matty,Cash,69,2,0
+3,Everton,8668,1112684,Nathan,Patterson,26,1,1
+4,Everton,8668,950474,James,Garner,25,1,0
+0,Fulham,9879,262550,Bobby,Reid,76,4,4
+1,Fulham,9879,696443,Issa,Diop,90,10,9
+2,Fulham,9879,198444,Tim,Ream,90,10,6
+3,Fulham,9879,662428,Antonee,Robinson,90,4,0
+4,Fulham,9879,502420,Harrison,Reed,90,3,2
+5,Fulham,9879,524434,Joao,Palhinha,90,3,1
+7,Fulham,9879,575779,Andreas,Pereira,76,2,0
+8,Fulham,9879,94086,,Willian,90,5,4
+9,Fulham,9879,351860,Aleksandar,Mitrovic,90,4,3
+10,Everton,8668,612150,Dominic,Calvert-Lewin,90,2,1
+11,Everton,8668,492586,Demarai,Gray,75,3,1
+12,Everton,8668,604785,Alex,Iwobi,90,4,2
+13,Everton,8668,906937,Anthony,Gordon,86,1,0
+14,Everton,8668,1185748,Amadou,Onana,90,3,3
+15,Everton,8668,179410,Idrissa Gana,Gueye,65,1,1
+16,Everton,8668,874025,Vitalii,Mykolenko,90,4,1
+17,Everton,8668,243138,James,Tarkowski,90,8,3
+18,Everton,8668,247761,Conor,Coady,90,7,5
+19,Everton,8668,77690,Seamus,Coleman,64,3,1
+1,Liverpool,8650,156008,Jordan,Henderson,29,3,1
+2,Liverpool,8650,38807,James,Milner,11,3,1
+0,Liverpool,8650,760712,Trent,Alexander-Arnold,79,12,6
+1,Liverpool,8650,568571,Joseph,Gomez,90,23,12
+2,Liverpool,8650,209405,Virgil,van Dijk,90,6,5
+3,Liverpool,8650,357880,Andrew,Robertson,90,5,3
+5,Liverpool,8650,359188,,Fabinho,61,3,0
+6,Liverpool,8650,172949,Thiago,Alcántara,90,6,5
+7,Liverpool,8650,242709,Roberto,Firmino,90,1,1
+8,Liverpool,8650,292462,Mohamed,Salah,90,1,0
+9,Liverpool,8650,950561,Darwin,Nunez,90,2,2
+10,Leeds United,8463,193869,,Rodrigo,52,1,0
+11,Leeds United,8463,941213,Crysencio,Summerville,89,1,0
+12,Leeds United,8463,952322,Brenden,Aaronson,90,1,1
+14,Leeds United,8463,640220,Marc,Roca,90,4,1
+15,Leeds United,8463,729769,Tyler,Adams,90,5,1
+16,Leeds United,8463,796974,Pascal,Struijk,90,4,2
+17,Leeds United,8463,150591,Liam,Cooper,90,4,1
+18,Leeds United,8463,628201,Robin,Koch,90,3,0
+19,Leeds United,8463,722207,Rasmus,Kristensen,90,5,1
+0,Arsenal,9825,748382,Reiss,Nelson,63,2,1
+1,Arsenal,9825,1025462,Fabio,Vieira,27,1,1
+4,Arsenal,9825,582499,Kieran,Tierney,14,1,1
+5,Nottingham Forest,10203,1076756,Brennan,Johnson,34,1,0
+6,Nottingham Forest,10203,769673,Emmanuel,Dennis,34,1,1
+7,Nottingham Forest,10203,716687,Joe,Worrall,26,3,2
+9,Nottingham Forest,10203,914134,Lewis,O'Brien,9,1,0
+0,Arsenal,9825,776151,Ben,White,90,6,2
+1,Arsenal,9825,955406,William,Saliba,76,2,1
+2,Arsenal,9825,795179,,Gabriel,90,3,0
+3,Arsenal,9825,664444,Takehiro,Tomiyasu,63,3,2
+4,Arsenal,9825,434325,Thomas,Partey,90,6,4
+5,Arsenal,9825,207236,Granit,Xhaka,75,1,0
+6,Arsenal,9825,961995,Bukayo,Saka,27,1,1
+7,Arsenal,9825,534670,Martin,Ødegaard,90,2,0
+8,Arsenal,9825,1021586,Gabriel,Martinelli,63,2,2
+9,Arsenal,9825,576165,Gabriel,Jesus,90,1,0
+12,Nottingham Forest,10203,789502,Morgan,Gibbs-White,56,2,0
+13,Nottingham Forest,10203,148302,Cheikhou,Kouyaté,81,4,3
+14,Nottingham Forest,10203,201704,Remo,Freuler,90,7,1
+15,Nottingham Forest,10203,775614,Ryan,Yates,90,2,1
+16,Nottingham Forest,10203,793876,Renan,Lodi,64,4,2
+17,Nottingham Forest,10203,551805,Scott,McKenna,90,6,1
+18,Nottingham Forest,10203,156013,Steve,Cook,90,4,2
+19,Nottingham Forest,10203,195299,Serge,Aurier,90,1,0
+0,Manchester United,10260,843099,Scott,McTominay,29,1,0
+1,Manchester United,10260,322049,,Fred,11,2,0
+3,West Ham United,8654,683450,Pablo,Fornals,13,1,0
+0,Manchester United,10260,751550,Diogo,Dalot,90,4,4
+1,Manchester United,10260,255610,Harry,Maguire,90,5,1
+2,Manchester United,10260,847983,Lisandro,Martinez,90,3,1
+4,Manchester United,10260,208494,,Casemiro,90,10,5
+5,Manchester United,10260,157723,Christian,Eriksen,79,6,4
+7,Manchester United,10260,422685,Bruno,Fernandes,90,6,3
+9,Manchester United,10260,30893,Cristiano,Ronaldo,90,1,0
+10,West Ham United,8654,721089,Gianluca,Scamacca,57,2,2
+11,West Ham United,8654,491883,Said,Benrahma,90,2,2
+13,West Ham United,8654,523825,Jarrod,Bowen,90,1,1
+14,West Ham United,8654,654096,Declan,Rice,90,6,4
+15,West Ham United,8654,524437,Tomas,Soucek,90,4,3
+16,West Ham United,8654,155782,Aaron,Cresswell,90,7,4
+17,West Ham United,8654,281207,Kurt,Zouma,90,3,3
+18,West Ham United,8654,169162,Craig,Dawson,90,7,1
+19,West Ham United,8654,604088,Thilo,Kehrer,90,6,1
+1,Leeds United,8463,1049805,Sam,Greenwood,36,4,2
+3,Leeds United,8463,190666,Luke,Ayling,4,2,0
+4,AFC Bournemouth,8678,564794,Jack,Stacey,17,1,1
+0,Leeds United,8463,722207,Rasmus,Kristensen,90,2,2
+1,Leeds United,8463,628201,Robin,Koch,90,6,5
+2,Leeds United,8463,150591,Liam,Cooper,90,7,2
+3,Leeds United,8463,796974,Pascal,Struijk,90,3,1
+4,Leeds United,8463,729769,Tyler,Adams,90,2,2
+5,Leeds United,8463,640220,Marc,Roca,54,1,1
+6,Leeds United,8463,751649,Jack,Harrison,45,1,1
+8,Leeds United,8463,941213,Crysencio,Summerville,90,1,0
+12,AFC Bournemouth,8678,789630,Marcus,Tavernier,90,4,0
+13,AFC Bournemouth,8678,466672,Jefferson,Lerma,90,3,1
+14,AFC Bournemouth,8678,562724,Lewis,Cook,90,4,1
+16,AFC Bournemouth,8678,160447,Adam,Smith,90,3,2
+17,AFC Bournemouth,8678,785411,Marcos,Senesi,88,12,8
+18,AFC Bournemouth,8678,819762,Chris,Mepham,90,4,0
+4,Fulham,9879,182962,Tom,Cairney,14,1,1
+0,Manchester City,8456,263653,John,Stones,90,1,1
+1,Manchester City,8456,521318,Manuel,Akanji,90,5,4
+2,Manchester City,8456,417068,Nathan,Aké,90,1,1
+3,Manchester City,8456,361757,Joao,Cancelo,26,5,4
+4,Manchester City,8456,169200,Kevin,De Bruyne,90,5,4
+5,Manchester City,8456,675088,,Rodri,90,8,5
+6,Manchester City,8456,178818,Ilkay,Gündogan,89,6,4
+7,Manchester City,8456,488139,Bernardo,Silva,90,5,4
+9,Manchester City,8456,312765,Jack,Grealish,64,1,1
+12,Fulham,9879,575779,Andreas,Pereira,88,3,2
+13,Fulham,9879,494417,Harry,Wilson,76,2,1
+14,Fulham,9879,524434,Joao,Palhinha,90,2,2
+15,Fulham,9879,502420,Harrison,Reed,90,4,1
+16,Fulham,9879,662428,Antonee,Robinson,90,5,2
+17,Fulham,9879,198444,Tim,Ream,90,6,2
+18,Fulham,9879,696443,Issa,Diop,90,3,1
+0,Nottingham Forest,10203,914134,Lewis,O'Brien,24,1,0
+4,Brentford,9937,856685,Frank,Onyeka,45,5,1
+5,Brentford,9937,888912,Mikkel,Damsgaard,30,2,0
+7,Brentford,9937,71908,Mathias,Jørgensen,9,2,0
+0,Nottingham Forest,10203,195299,Serge,Aurier,90,5,4
+1,Nottingham Forest,10203,156013,Steve,Cook,89,9,4
+2,Nottingham Forest,10203,551805,Scott,McKenna,90,9,3
+3,Nottingham Forest,10203,1078788,Neco,Williams,90,6,3
+4,Nottingham Forest,10203,775614,Ryan,Yates,90,4,3
+5,Nottingham Forest,10203,201704,Remo,Freuler,79,7,1
+7,Nottingham Forest,10203,789502,Morgan,Gibbs-White,90,3,1
+8,Nottingham Forest,10203,1076756,Brennan,Johnson,90,2,0
+9,Nottingham Forest,10203,769673,Emmanuel,Dennis,79,2,2
+11,Brentford,9937,666857,Yoane,Wissa,90,1,1
+12,Brentford,9937,923312,Bryan,Mbeumo,81,2,1
+13,Brentford,9937,759566,Joshua,Dasilva,81,3,1
+15,Brentford,9937,650616,Mathias,Jensen,86,9,2
+16,Brentford,9937,562892,Rico,Henry,90,5,2
+17,Brentford,9937,711357,Ethan,Pinnock,90,7,2
+18,Brentford,9937,240538,Ben,Mee,90,16,11
+19,Brentford,9937,803343,Mads,Roerslev,90,4,1
+0,Wolverhampton Wanderers,8602,470834,Nélson,Semedo,45,1,0
+1,Wolverhampton Wanderers,8602,961306,Nathan,Collins,90,3,1
+2,Wolverhampton Wanderers,8602,865931,Max,Kilman,90,13,4
+3,Wolverhampton Wanderers,8602,1116391,Hugo,Bueno,90,2,0
+5,Wolverhampton Wanderers,8602,534684,Ruben,Neves,90,6,4
+6,Wolverhampton Wanderers,8602,37549,Joao,Moutinho,90,3,2
+7,Wolverhampton Wanderers,8602,536455,Goncalo,Guedes,74,1,0
+8,Wolverhampton Wanderers,8602,620026,Hee-Chan,Hwang,68,1,1
+9,Wolverhampton Wanderers,8602,524435,Daniel,Podence,45,1,0
+10,Brighton & Hove Albion,10204,318615,Leandro,Trossard,82,1,1
+13,Brighton & Hove Albion,10204,416850,Solly,March,90,3,3
+14,Brighton & Hove Albion,10204,1137668,Moisés,Caicedo,90,2,1
+15,Brighton & Hove Albion,10204,831489,Alexis Mac,Allister,90,3,3
+17,Brighton & Hove Albion,10204,201690,Lewis,Dunk,90,9,6
+18,Brighton & Hove Albion,10204,303346,Adam,Webster,90,9,4
+19,Brighton & Hove Albion,10204,167008,Pascal,Gross,90,4,2
+0,Everton,8668,950474,James,Garner,45,4,0
+3,Everton,8668,906937,Anthony,Gordon,19,2,0
+4,Everton,8668,1112684,Nathan,Patterson,19,2,1
+5,Leicester City,8197,286119,Jamie,Vardy,20,1,0
+0,Everton,8668,77690,Seamus,Coleman,71,2,1
+1,Everton,8668,247761,Conor,Coady,90,14,6
+2,Everton,8668,243138,James,Tarkowski,90,7,3
+3,Everton,8668,874025,Vitalii,Mykolenko,90,3,2
+4,Everton,8668,604785,Alex,Iwobi,90,3,3
+7,Everton,8668,492586,Demarai,Gray,90,1,0
+11,Leicester City,8197,760359,Harvey,Barnes,90,1,0
+12,Leicester City,8197,886016,Kiernan,Dewsbury-Hall,78,1,1
+13,Leicester City,8197,465960,Youri,Tielemans,89,5,2
+14,Leicester City,8197,493165,James,Maddison,90,4,2
+15,Leicester City,8197,882401,Boubakary,Soumaré,70,2,1
+16,Leicester City,8197,710158,James,Justin,90,5,4
+17,Leicester City,8197,693678,Wout,Faes,90,8,3
+18,Leicester City,8197,436036,Daniel,Amartey,90,2,2
+19,Leicester City,8197,465750,Timothy,Castagne,90,5,2
+1,Chelsea,8455,966027,Conor,Gallagher,26,1,0
+2,Chelsea,8455,688295,Christian,Pulisic,12,1,1
+3,Chelsea,8455,239219,Mateo,Kovacic,12,1,0
+4,Arsenal,9825,582499,Kieran,Tierney,12,3,2
+5,Arsenal,9825,339992,Mohamed,Elneny,3,1,0
+0,Chelsea,8455,72541,César,Azpilicueta,90,5,0
+1,Chelsea,8455,793907,Trevoh,Chalobah,90,5,1
+2,Chelsea,8455,80562,Thiago,Silva,90,15,4
+3,Chelsea,8455,873289,Marc,Cucurella,90,4,0
+4,Chelsea,8455,604982,Ruben,Loftus-Cheek,78,1,1
+5,Chelsea,8455,282775,,Jorginho,90,7,3
+6,Chelsea,8455,750032,Mason,Mount,78,1,1
+7,Chelsea,8455,246575,Raheem,Sterling,90,2,2
+10,Arsenal,9825,576165,Gabriel,Jesus,90,1,0
+11,Arsenal,9825,1021586,Gabriel,Martinelli,89,2,2
+12,Arsenal,9825,534670,Martin,Ødegaard,87,3,1
+13,Arsenal,9825,961995,Bukayo,Saka,90,1,1
+14,Arsenal,9825,207236,Granit,Xhaka,90,4,2
+15,Arsenal,9825,434325,Thomas,Partey,90,6,6
+16,Arsenal,9825,623621,Oleksandr,Zinchenko,78,6,3
+17,Arsenal,9825,795179,,Gabriel,90,8,6
+18,Arsenal,9825,955406,William,Saliba,90,7,1
+19,Arsenal,9825,776151,Ben,White,90,4,2
+1,Aston Villa,10252,816325,Boubacar,Kamara,12,1,1
+0,Aston Villa,10252,729731,Matty,Cash,90,4,3
+1,Aston Villa,10252,710159,Ezri,Konsa,90,1,0
+2,Aston Villa,10252,419664,Tyrone,Mings,90,7,2
+3,Aston Villa,10252,210111,Lucas,Digne,79,7,4
+5,Aston Villa,10252,787350,Douglas,Luiz,90,3,1
+6,Aston Villa,10252,1021929,Jacob,Ramsey,90,3,1
+7,Aston Villa,10252,671331,Leon,Bailey,70,1,0
+8,Aston Villa,10252,610184,Emiliano,Buendia,79,6,4
+9,Aston Villa,10252,540088,Ollie,Watkins,78,1,1
+13,Manchester United,10260,696365,Marcus,Rashford,90,1,1
+14,Manchester United,10260,157723,Christian,Eriksen,90,10,8
+15,Manchester United,10260,208494,,Casemiro,90,13,9
+16,Manchester United,10260,362694,Luke,Shaw,65,6,4
+17,Manchester United,10260,847983,Lisandro,Martinez,90,11,7
+18,Manchester United,10260,258269,Victor Nilsson,Lindelöf,90,3,3
+19,Manchester United,10260,751550,Diogo,Dalot,90,8,5
+0,Southampton,8466,1190867,Romeo,Lavia,56,2,2
+3,Southampton,8466,1130774,Samuel,Edozie,26,1,1
+6,Newcastle United,10261,127130,Jonjo,Shelvey,26,3,2
+1,Southampton,8466,951765,Armel,Bella-Kotchap,72,7,3
+2,Southampton,8466,938247,Mohammed,Salisu,90,5,3
+3,Southampton,8466,815465,Romain,Perraud,90,4,1
+4,Southampton,8466,279490,James,Ward-Prowse,90,6,3
+5,Southampton,8466,604089,Ainsley,Maitland-Niles,90,5,2
+7,Southampton,8466,237563,Stuart,Armstrong,64,4,3
+8,Southampton,8466,261936,Mohamed,Elyounoussi,90,3,2
+9,Southampton,8466,599353,Che,Adams,64,2,1
+12,Newcastle United,10261,442277,Miguel,Almiron,81,1,1
+13,Newcastle United,10261,860975,Joseph,Willock,73,4,1
+14,Newcastle United,10261,850354,Bruno,Guimaraes,90,8,4
+15,Newcastle United,10261,820024,Sean,Longstaff,90,2,2
+16,Newcastle United,10261,188058,Daniel,Burn,90,5,3
+17,Newcastle United,10261,956682,Sven,Botman,90,9,6
+18,Newcastle United,10261,189982,Fabian,Schär,90,13,3
+19,Newcastle United,10261,191869,Kieran,Trippier,80,8,4
+2,West Ham United,8654,210276,Manuel,Lanzini,26,1,0
+3,West Ham United,8654,683450,Pablo,Fornals,1,1,0
+4,Crystal Palace,9826,163616,Luka,Milivojevic,13,2,2
+0,West Ham United,8654,604088,Thilo,Kehrer,90,1,0
+1,West Ham United,8654,169162,Craig,Dawson,90,7,0
+2,West Ham United,8654,281207,Kurt,Zouma,90,5,3
+3,West Ham United,8654,155782,Aaron,Cresswell,90,3,2
+4,West Ham United,8654,524437,Tomas,Soucek,64,2,1
+5,West Ham United,8654,654096,Declan,Rice,90,6,4
+6,West Ham United,8654,523825,Jarrod,Bowen,90,5,3
+7,West Ham United,8654,766435,Lucas,Paquetá,89,2,2
+8,West Ham United,8654,491883,Said,Benrahma,64,1,0
+11,Crystal Palace,9826,818975,Eberechi,Eze,90,1,1
+12,Crystal Palace,9826,1029063,Michael,Olise,90,4,2
+14,Crystal Palace,9826,214570,Jeffrey,Schlupp,90,5,3
+15,Crystal Palace,9826,951954,Cheick Oumar,Doucouré,77,1,1
+16,Crystal Palace,9826,1120224,Tyrick,Mitchell,90,3,1
+17,Crystal Palace,9826,844425,Marc,Guehi,90,4,4
+18,Crystal Palace,9826,503659,Joachim,Andersen,90,17,8
+19,Crystal Palace,9826,157838,Nathaniel,Clyne,90,3,0
+0,Tottenham Hotspur,8586,935379,Dejan,Kulusevski,22,1,0
+0,Tottenham Hotspur,8586,361315,Eric,Dier,90,9,8
+1,Tottenham Hotspur,8586,488412,Clément,Lenglet,90,9,5
+2,Tottenham Hotspur,8586,276121,Ben,Davies,90,7,3
+3,Tottenham Hotspur,8586,797908,Emerson,Royal,68,5,1
+4,Tottenham Hotspur,8586,620618,Rodrigo,Bentancur,90,3,2
+5,Tottenham Hotspur,8586,724306,Yves,Bissouma,88,2,0
+6,Tottenham Hotspur,8586,266523,Pierre-Emile,Højbjerg,90,10,8
+7,Tottenham Hotspur,8586,773991,Ryan,Sessegnon,68,2,1
+8,Tottenham Hotspur,8586,194165,Harry,Kane,90,3,2
+9,Tottenham Hotspur,8586,163670,Ivan,Perisic,90,1,1
+11,Liverpool,8650,292462,Mohamed,Salah,89,1,0
+12,Liverpool,8650,242709,Roberto,Firmino,74,1,1
+13,Liverpool,8650,172949,Thiago,Alcántara,90,6,5
+14,Liverpool,8650,963964,Harvey,Elliott,74,5,2
+15,Liverpool,8650,359188,,Fabinho,90,5,4
+16,Liverpool,8650,357880,Andrew,Robertson,90,6,2
+17,Liverpool,8650,209405,Virgil,van Dijk,90,3,2
+18,Liverpool,8650,820140,Ibrahima,Konaté,90,4,2
+19,Liverpool,8650,760712,Trent,Alexander-Arnold,90,8,5

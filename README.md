@@ -3,6 +3,7 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [Premier League Quarter Backs(11072022)](#premier-league-quarter-backs11072022)
     - [Premier League Shot Simulation (10312022)](#premier-league-shot-simulation-10312022)
     - [Contested Zones in Serie A (10242022)](#contested-zones-in-serie-a-10242022)
     - [Liga MX's Top Shooters (10172022)](#liga-mxs-top-shooters-10172022)
@@ -35,6 +36,10 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### Premier League Quarter Backs([11072022](11072022/))
+
+<img src ="11072022\figures\11072022_long_balls.png" width="60%">
 
 ### Premier League Shot Simulation ([10312022](10312022/))
 
