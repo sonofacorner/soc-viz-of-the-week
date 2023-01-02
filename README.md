@@ -3,6 +3,7 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [Where do Crosses Come From in the Premier League?(01022023)](#where-do-crosses-come-from-in-the-premier-league01022023)
     - [Premier League Quarter Backs(11072022)](#premier-league-quarter-backs11072022)
     - [Premier League Shot Simulation (10312022)](#premier-league-shot-simulation-10312022)
     - [Contested Zones in Serie A (10242022)](#contested-zones-in-serie-a-10242022)
@@ -36,6 +37,10 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### Where do Crosses Come From in the Premier League?([01022023](01022023/))
+
+<img src ="01022023\figures\01022023_epl_crosses.png" width="60%">
 
 ### Premier League Quarter Backs([11072022](11072022/))
 
