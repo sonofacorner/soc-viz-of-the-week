@@ -3,6 +3,8 @@
 - [Viz of the Week](#viz-of-the-week)
   - [Usage](#usage)
   - [Visuals](#visuals)
+    - [Which EPL teams are getting better at progressive passes?(01172023)](#which-epl-teams-are-getting-better-at-progressive-passes01172023)
+    - [Crossing Accuracy in the Premier League (01092023)](#crossing-accuracy-in-the-premier-league-01092023)
     - [Where do Crosses Come From in the Premier League?(01022023)](#where-do-crosses-come-from-in-the-premier-league01022023)
     - [Premier League Quarter Backs(11072022)](#premier-league-quarter-backs11072022)
     - [Premier League Shot Simulation (10312022)](#premier-league-shot-simulation-10312022)
@@ -37,6 +39,14 @@ pip install -r requirements.txt
 ## Visuals 
 
 </hr>
+
+### Which EPL teams are getting better at progressive passes?([01172023](01172023/))
+
+<img src ="01172023\figures\01172023_epl_progression.png" width="60%">
+
+### Crossing Accuracy in the Premier League ([01092023](01092023/))
+
+<img src ="01092023\figures\01092023_epl_crosses.png" width="60%">
 
 ### Where do Crosses Come From in the Premier League?([01022023](01022023/))
 
